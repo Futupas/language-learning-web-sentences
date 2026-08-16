@@ -1,17 +1,12 @@
-import { appState, courseUrl, getReadTexts, toggleReadText, getSavedScrollPosition, saveScrollPosition } from './state';
+import { appState, courseUrl, getTextProgress, saveTextProgress, getSavedScrollPosition, saveScrollPosition } from './state';
 import { TextConfig, TextData, Segment } from './types';
-import { switchView, customAlert } from './dom';
+import { switchView } from './dom';
 import { renderTextsList } from './main';
 
 const readerUI = {
     container: document.getElementById('text-container') as HTMLElement,
     backBtn: document.getElementById('back-btn') as HTMLButtonElement,
-    markBtn: document.getElementById('mark-read-btn') as HTMLButtonElement,
-    audioContainer: document.getElementById('audio-container') as HTMLElement,
-    panel: document.getElementById('translation-panel') as HTMLElement,
-    panelText: document.getElementById('trans-text') as HTMLElement,
-    panelExpl: document.getElementById('trans-expl') as HTMLElement,
-    closePanelBtn: document.getElementById('close-panel-btn') as HTMLButtonElement
+    audioContainer: document.getElementById('audio-container') as HTMLElement
 };
 
 let activeAudio: HTMLAudioElement | null = null;
@@ -21,7 +16,6 @@ export async function openReader(textConfig: TextConfig) {
     appState.currentTextConfig = textConfig;
     readerUI.container.innerHTML = '<p>Loading...</p>';
     readerUI.audioContainer.innerHTML = '';
-    closePanel();
     switchView('reader');
 
     try {
@@ -34,7 +28,6 @@ export async function openReader(textConfig: TextConfig) {
         
         renderText();
         setupAudio(textUrl);
-        updateMarkButton();
         restoreScrollPosition();
         setupScrollObserver();
     } catch (err) {
@@ -65,10 +58,9 @@ function renderText() {
             span.className = 'segment';
             span.innerText = segData.text;
             
-            span.addEventListener('click', () => {
-                document.querySelectorAll('.segment').forEach(s => s.classList.remove('active'));
-                span.classList.add('active');
-                showTranslation(segment);
+            span.addEventListener('click', (e) => {
+                e.stopPropagation();
+                toggleInlineExplanation(span, segment);
             });
 
             el.appendChild(span);
@@ -76,6 +68,34 @@ function renderText() {
 
         readerUI.container.appendChild(el);
     });
+}
+
+function toggleInlineExplanation(span: HTMLElement, segment: Segment) {
+    const existingExpl = span.nextElementSibling;
+    if (existingExpl && existingExpl.classList.contains('inline-expansion')) {
+        existingExpl.remove();
+        span.classList.remove('active');
+        return;
+    }
+
+    // Close any other open expansions if desired, or keep multiple open. User said: "open as many as i want"
+    span.classList.add('active');
+
+    const targetLang = appState.activeTargetLang;
+    const data = segment[targetLang] || segment[appState.config.targetLanguages[0].code];
+    if (!data) return;
+
+    const expansionBox = document.createElement('div');
+    expansionBox.className = 'inline-expansion';
+    expansionBox.innerHTML = `
+        <div class="expansion-content">
+            <div class="exp-text"><strong>${data.text}</strong></div>
+            ${data.explanation ? `<div class="exp-expl">${data.explanation}</div>` : ''}
+        </div>
+    `;
+
+    // Insert right after this segment (knife cut)
+    span.after(expansionBox);
 }
 
 function setupAudio(textUrl: string) {
@@ -153,6 +173,13 @@ function handleScroll() {
     scrollTimeout = setTimeout(() => {
         if (!appState.currentTextConfig) return;
         
+        // Calculate scroll percentage
+        const scrollTop = window.scrollY;
+        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+        const scrollPercent = docHeight > 0 ? Math.min(100, Math.round((scrollTop / docHeight) * 100)) : 100;
+        saveTextProgress(appState.currentTextConfig.id, scrollPercent);
+
+        // Save current heading position
         const headings = readerUI.container.querySelectorAll('h1, h2');
         let currentHeadingId = '';
 
@@ -171,6 +198,12 @@ function handleScroll() {
 
 function restoreScrollPosition() {
     if (!appState.currentTextConfig) return;
+    
+    // Also set initial 0% progress if not set
+    if (getTextProgress(appState.currentTextConfig.id) === 0) {
+        saveTextProgress(appState.currentTextConfig.id, 0);
+    }
+
     const savedId = getSavedScrollPosition(appState.currentTextConfig.id);
     if (savedId) {
         setTimeout(() => {
@@ -182,58 +215,12 @@ function restoreScrollPosition() {
     }
 }
 
-function showTranslation(segment: Segment) {
-    const targetLang = appState.activeTargetLang;
-    const data = segment[targetLang] || segment[appState.config.targetLanguages[0].code];
-    
-    if (!data) return;
-
-    readerUI.panelText.innerText = data.text;
-    readerUI.panelExpl.innerText = data.explanation || '';
-    
-    if (!data.explanation) readerUI.panelExpl.style.display = 'none';
-    else readerUI.panelExpl.style.display = 'block';
-
-    readerUI.panel.classList.add('show');
-}
-
-function closePanel() {
-    readerUI.panel.classList.remove('show');
-    document.querySelectorAll('.segment').forEach(s => s.classList.remove('active'));
-}
-
-function updateMarkButton() {
-    if (!appState.currentTextConfig) return;
-    const isRead = getReadTexts().includes(appState.currentTextConfig.id);
-    readerUI.markBtn.innerText = isRead ? 'Mark Unread' : '✔ Mark Read';
-    readerUI.markBtn.classList.toggle('is-read', isRead);
-}
-
 readerUI.backBtn.addEventListener('click', () => {
     if (activeAudio) {
         activeAudio.pause();
         activeAudio = null;
     }
     window.removeEventListener('scroll', handleScroll);
-    closePanel();
     renderTextsList();
     switchView('setup');
-});
-
-readerUI.closePanelBtn.addEventListener('click', closePanel);
-
-readerUI.markBtn.addEventListener('click', () => {
-    if (!appState.currentTextConfig) return;
-    const isRead = getReadTexts().includes(appState.currentTextConfig.id);
-    toggleReadText(appState.currentTextConfig.id, !isRead);
-    updateMarkButton();
-    if (!isRead) {
-        customAlert('Marked as read!');
-    }
-});
-
-window.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && readerUI.panel.classList.contains('show')) {
-        closePanel();
-    }
 });

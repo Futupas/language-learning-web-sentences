@@ -1,5 +1,5 @@
 import './style.scss';
-import { appState, STORAGE_LANG, getReadTexts, courseUrl, toggleReadText } from './state';
+import { appState, STORAGE_LANG, getTextProgress, courseUrl } from './state';
 import { switchView } from './dom';
 import { openReader } from './reader';
 
@@ -88,7 +88,6 @@ function renderTagsFilter() {
 
 export function renderTextsList() {
     setupUI.textsContainer.innerHTML = '';
-    const readTexts = getReadTexts();
     
     const filteredTexts = appState.config.texts.filter(text => {
         if (appState.selectedTags.length === 0) return true;
@@ -101,7 +100,8 @@ export function renderTextsList() {
     }
 
     filteredTexts.forEach(text => {
-        const isRead = readTexts.includes(text.id);
+        const progress = getTextProgress(text.id);
+        const isCompleted = progress === 100;
         const row = document.createElement('div');
         row.className = 'text-row';
         
@@ -112,29 +112,21 @@ export function renderTextsList() {
         const targetName = text.title[appState.activeTargetLang] || '';
         const tagsHtml = text.tags.map(t => `<span class="tag">${t}</span>`).join('');
         const audioIcon = text.hasAudio ? '🔊 ' : '';
-        const readIcon = isRead ? '<span class="status-icon read">✔ Read</span>' : '';
 
         openBtn.innerHTML = `
             <div class="text-main">${audioIcon}${learnName}</div>
             <div class="text-sub">${targetName}</div>
             <div class="text-meta">
                 <div class="tags">${tagsHtml}</div>
-                ${readIcon}
+                <div class="text-progress-text ${isCompleted ? 'completed' : ''}">${progress}% read</div>
+            </div>
+            <div class="lection-progress-container">
+                <div class="lection-progress-bar ${isCompleted ? 'completed' : ''}" style="width: ${progress}%;"></div>
             </div>
         `;
         
         openBtn.addEventListener('click', () => openReader(text));
-
-        const toggleBtn = document.createElement('button');
-        toggleBtn.className = 'mark-btn';
-        toggleBtn.innerText = isRead ? 'Unmark' : 'Mark Read';
-        toggleBtn.addEventListener('click', () => {
-            toggleReadText(text.id, !isRead);
-            renderTextsList();
-        });
-
         row.appendChild(openBtn);
-        row.appendChild(toggleBtn);
         setupUI.textsContainer.appendChild(row);
     });
 }

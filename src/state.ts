@@ -9,7 +9,7 @@ export const courseUrl = getCourseUrl();
 export const courseStorageKey = courseUrl.replace(/[^a-zA-Z0-9]/g, '_');
 
 export const STORAGE_LANG = `selected_lang_${courseStorageKey}`;
-export const STORAGE_READ_PREFIX = `read_${courseStorageKey}_`;
+export const STORAGE_PROGRESS_PREFIX = `progress_${courseStorageKey}_`;
 export const STORAGE_SCROLL_PREFIX = `scroll_${courseStorageKey}_`;
 
 export const appState = {
@@ -20,19 +20,16 @@ export const appState = {
     selectedTags: [] as string[]
 };
 
-export function getReadTexts(): string[] {
-    const data = localStorage.getItem(STORAGE_READ_PREFIX);
-    return data ? JSON.parse(data) : [];
+export function getTextProgress(textId: string): number {
+    const val = localStorage.getItem(STORAGE_PROGRESS_PREFIX + textId);
+    return val ? parseInt(val, 10) : 0;
 }
 
-export function toggleReadText(textId: string, isRead: boolean) {
-    let read = getReadTexts();
-    if (isRead && !read.includes(textId)) {
-        read.push(textId);
-    } else if (!isRead) {
-        read = read.filter(id => id !== textId);
+export function saveTextProgress(textId: string, percent: number) {
+    const current = getTextProgress(textId);
+    if (percent > current) {
+        localStorage.setItem(STORAGE_PROGRESS_PREFIX + textId, percent.toString());
     }
-    localStorage.setItem(STORAGE_READ_PREFIX, JSON.stringify(read));
 }
 
 export function getSavedScrollPosition(textId: string): string {

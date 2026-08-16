@@ -3,32 +3,35 @@
   "targetLanguages": [
     { "code": "en", "htmlCode": "en-US", "name": "English" },
     { "code": "uk", "htmlCode": "uk-UA", "name": "Українська" },
-    { "code": "cs", "htmlCode": "cs-CZ", "name": "Čeština" }
+    { "code": "cs", "htmlCode": "cs-CZ", "name": "Čeština" },
+    { "code": "ru", "htmlCode": "ru-RU", "name": "Русский" }
   ],
   "courseMetadata": "German A1 Reading Practice",
   "texts": [
     {
       "id": "text_1",
       "file": "text_1.json",
-      "tags": ["A1", "Greetings"],
-      "hasAudio": true,
+      "tags": ["A1"],
+      "hasAudio": false,
       "title": {
-        "de": "Mein erster Tag",
-        "en": "My first day",
-        "uk": "Мій перший день",
-        "cs": "Můj první den"
+        "de": "Vorstellung",
+        "en": "Introduction",
+        "uk": "Знайомство",
+        "cs": "Představení",
+        "ru": "Знакомство"
       }
     },
     {
       "id": "text_2",
       "file": "text_2.json",
-      "tags": ["A1", "Greetings"],
+      "tags": ["A1"],
       "hasAudio": false,
       "title": {
-        "de": "Mein erster Tag",
-        "en": "My first day",
-        "uk": "Мій перший день",
-        "cs": "Můj první den"
+        "de": "Die Familie",
+        "en": "The Family",
+        "uk": "Сім'я",
+        "cs": "Rodina",
+        "ru": "Семья"
       }
     }
   ]

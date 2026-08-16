@@ -43,18 +43,6 @@
     border-radius: 3px;
 }
 
-.sm-btn {
-    padding: 8px 16px;
-    font-size: 14px;
-    width: auto;
-    
-    &.is-read {
-        background: transparent;
-        border: 1px solid var(--green);
-        color: var(--green);
-    }
-}
-
 .text-area {
     font-size: 20px;
     line-height: 1.6;
@@ -81,48 +69,36 @@
     &.active { background-color: var(--primary); color: white; }
 }
 
-.translation-panel {
-    position: fixed;
-    bottom: -100%;
-    left: 0;
+/* Inline knife-cut expansion box */
+.inline-expansion {
     width: 100%;
     background: var(--card-bg);
-    border-top: 1px solid var(--border-color);
-    box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.1);
-    padding: 24px;
-    transition: bottom 0.3s cubic-bezier(0.1, 0.8, 0.2, 1);
-    z-index: 100;
-    
-    &.show { bottom: 0; }
+    border: 1px solid var(--primary);
+    border-radius: 12px;
+    padding: 16px;
+    margin: 12px 0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    animation: expandDown 0.25s ease-out forwards;
 }
 
-@media (prefers-color-scheme: dark) {
-    .translation-panel { box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.5); }
+@keyframes expandDown {
+    from { opacity: 0; transform: translateY(-8px); }
+    to { opacity: 1; transform: translateY(0); }
 }
 
-.close-panel-btn {
-    position: absolute;
-    top: 12px;
-    right: 20px;
-    background: transparent;
-    border: none;
-    font-size: 28px;
-    color: var(--text-color);
-    cursor: pointer;
-    opacity: 0.6;
-    &:hover { opacity: 1; }
+.expansion-content {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
 }
 
-.trans-text {
-    font-size: 18px;
-    font-weight: bold;
+.exp-text {
+    font-size: 16px;
     color: var(--primary);
-    margin-bottom: 8px;
-    margin-right: 24px;
 }
 
-.trans-expl {
-    font-size: 15px;
+.exp-expl {
+    font-size: 14px;
     color: var(--text-color);
     opacity: 0.8;
 }

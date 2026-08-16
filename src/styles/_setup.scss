@@ -37,34 +37,48 @@
 .text-open-btn {
     flex: 1; text-align: left; padding: 16px; display: flex;
     flex-direction: column; justify-content: center;
-    background: var(--card-bg); border: 1px solid var(--border-color);
+    background: var(--card-bg); color: var(--text-color);
+    border: 1px solid var(--border-color);
     border-radius: 12px; cursor: pointer; transition: border-color 0.2s ease;
     
     &:hover { border-color: var(--primary); }
 }
 
-.mark-btn {
-    background: transparent; color: var(--primary);
-    border: 1.5px solid var(--primary); padding: 0 12px;
-    border-radius: 12px; cursor: pointer; font-size: 12px;
-    font-weight: bold; transition: all 0.2s ease;
-    
-    &:active { background: var(--primary); color: white; }
-}
-
 .text-main { font-weight: bold; font-size: 16px; margin-bottom: 4px; }
 .text-sub { font-size: 13px; opacity: 0.7; margin-bottom: 10px; }
 
-.text-meta { display: flex; justify-content: space-between; align-items: center; }
+.text-meta { display: flex; justify-content: space-between; align-items: center; width: 100%; margin-top: 8px; }
 
 .tags { display: flex; gap: 6px; flex-wrap: wrap; }
 .tag { background: rgba(0, 122, 255, 0.1); color: var(--primary); font-size: 11px; padding: 3px 8px; border-radius: 6px; font-weight: bold; }
 
-.status-icon.read { color: var(--green); font-size: 12px; font-weight: bold; }
+.lection-progress-container {
+    width: 100%;
+    height: 6px;
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    margin-top: 10px;
+    overflow: hidden;
+}
 
-.primary-btn {
-    background: var(--primary); color: white; border: none;
-    padding: 16px; border-radius: 12px; font-size: 18px; font-weight: bold; cursor: pointer; width: 100%;
+@media (prefers-color-scheme: dark) {
+    .lection-progress-container { background: rgba(255, 255, 255, 0.2); }
+}
+
+.lection-progress-bar {
+    height: 100%;
+    background-color: var(--primary);
+    border-radius: 3px;
+    transition: width 0.3s ease;
+    
+    &.completed { background-color: var(--green) !important; }
+}
+
+.text-progress-text {
+    font-size: 12px;
+    font-weight: bold;
+    opacity: 0.7;
+    &.completed { color: var(--green) !important; opacity: 1; }
 }
 
 .secondary-btn {
