@@ -18,11 +18,11 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Ich mache wieder Rap für die Bitches", "explanation": "Präsens von 'machen'." },
-          "en": { "text": "Ich mache wieder Rap für die Bitches" },
-          "uk": { "text": "Ich mache wieder Rap für die Bitches" },
-          "cs": { "text": "Ich mache wieder Rap für die Bitches" },
-          "ru": { "text": "Ich mache wieder Rap für die Bitches" }
+          "de": { "text": "Ich mache wieder Rap für die Bitches", "explanation": "Präsens von 'machen' (to make/do)." },
+          "en": { "text": "I'm making rap for the bitches again", "explanation": "Present tense of 'to make'." },
+          "uk": { "text": "Я знову роблю реп для бічів", "explanation": "Теперішній час." },
+          "cs": { "text": "Dělám zase rap pro ty děvky", "explanation": "Přítomný čas." },
+          "ru": { "text": "Я снова делаю рэп для сук", "explanation": "Настоящее время." }
         }
       ]
     },
@@ -31,10 +31,10 @@
       "segments": [
         {
           "de": { "text": "Ich mache wieder Rap für dich, Bitch, yes (ja)" },
-          "en": { "text": "Ich mache wieder Rap für dich, Bitch, yes (ja)" },
-          "uk": { "text": "Ich mache wieder Rap für dich, Bitch, yes (ja)" },
-          "cs": { "text": "Ich mache wieder Rap für dich, Bitch, yes (ja)" },
-          "ru": { "text": "Ich mache wieder Rap für dich, Bitch, yes (ja)" }
+          "en": { "text": "I'm making rap for you again, bitch, yes (yes)" },
+          "uk": { "text": "Я знову роблю реп для тебе, біч, єс (так)" },
+          "cs": { "text": "Dělám zase rap pro tebe, děvko, yes (ano)" },
+          "ru": { "text": "Я снова делаю рэп для тебя, сука, ес (да)" }
         }
       ]
     },
@@ -43,10 +43,10 @@
       "segments": [
         {
           "de": { "text": "Ich mache wieder Rap mit dem Schwanz (uh)" },
-          "en": { "text": "Ich mache wieder Rap mit dem Schwanz (uh)" },
-          "uk": { "text": "Ich mache wieder Rap mit dem Schwanz (uh)" },
-          "cs": { "text": "Ich mache wieder Rap mit dem Schwanz (uh)" },
-          "ru": { "text": "Ich mache wieder Rap mit dem Schwanz (uh)" }
+          "en": { "text": "I'm making rap with my dick again (uh)" },
+          "uk": { "text": "Я знову роблю реп зі своїм членом (ух)" },
+          "cs": { "text": "Dělám zase rap s čurákem (uh)" },
+          "ru": { "text": "Я снова делаю рэп с хуем (ух)" }
         }
       ]
     },
@@ -54,11 +54,11 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Ich mache alles, komm, fick' dein Schatz (yeah)", "explanation": "Imperativ 'komm' und 'fick'." },
-          "en": { "text": "Ich mache alles, komm, fick' dein Schatz (yeah)" },
-          "uk": { "text": "Ich mache alles, komm, fick' dein Schatz (yeah)" },
-          "cs": { "text": "Ich mache alles, komm, fick' dein Schatz (yeah)" },
-          "ru": { "text": "Ich mache alles, komm, fick' dein Schatz (yeah)" }
+          "de": { "text": "Ich mache alles, komm, fick' dein Schatz (yeah)", "explanation": "Imperativ 'komm' (come) und 'fick' (vulgar)." },
+          "en": { "text": "I do everything, come on, fuck your treasure (yeah)", "explanation": "Imperative 'come' and 'fuck'." },
+          "uk": { "text": "Я роблю все, давай, їби твоє скарб (є)" },
+          "cs": { "text": "Dělám všechno, pojď, vošukej tvůj poklad (yeah)" },
+          "ru": { "text": "Я делаю все, давай, трахай твое сокровище (да)" }
         }
       ]
     },
@@ -66,11 +66,11 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Das Neurap, scheiß auf Oldschool", "explanation": "Ausdruck 'scheiß auf'." },
-          "en": { "text": "Das Neurap, scheiß auf Oldschool" },
-          "uk": { "text": "Das Neurap, scheiß auf Oldschool" },
-          "cs": { "text": "Das Neurap, scheiß auf Oldschool" },
-          "ru": { "text": "Das Neurap, scheiß auf Oldschool" }
+          "de": { "text": "Das Neurap, scheiß auf Oldschool", "explanation": "Ausdruck 'scheiß auf' (fuck / don't care about)." },
+          "en": { "text": "New rap, fuck oldschool", "explanation": "Expression 'scheiß auf'." },
+          "uk": { "text": "Новий реп, к бісу олдскул", "explanation": "Вираз 'плювати на'." },
+          "cs": { "text": "Nový rap, kašli na oldschool", "explanation": "Výraz 'kašli na'." },
+          "ru": { "text": "Новый рэп, к черту олдскул", "explanation": "Выражение 'плевать на'." }
         }
       ]
     },
@@ -78,11 +78,11 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Du bist gay und liebst einen Boy, pfui", "explanation": "Interjektion 'pfui'." },
-          "en": { "text": "Du bist gay und liebst einen Boy, pfui" },
-          "uk": { "text": "Du bist gay und liebst einen Boy, pfui" },
-          "cs": { "text": "Du bist gay und liebst einen Boy, pfui" },
-          "ru": { "text": "Du bist gay und liebst einen Boy, pfui" }
+          "de": { "text": "Du bist gay und liebst einen Boy, pfui", "explanation": "Interjektion 'pfui' (yuck / ugh)." },
+          "en": { "text": "You are gay and love a boy, yuck", "explanation": "Interjection 'pfui'." },
+          "uk": { "text": "Ти гей і любиш хлопчика, фу", "explanation": "Вигук 'фу'." },
+          "cs": { "text": "Jsi gay a miluješ kluka, fuj", "explanation": "Citoslovce 'fuj'." },
+          "ru": { "text": "Ты гей и любишь мальчика, фу", "explanation": "Междометие 'фу'." }
         }
       ]
     },
@@ -90,11 +90,11 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Ich kille dich mit nur einem Satz (oh)", "explanation": "Akkusativ Maskulinum 'einen Satz'." },
-          "en": { "text": "Ich kille dich mit nur einem Satz (oh)" },
-          "uk": { "text": "Ich kille dich mit nur einem Satz (oh)" },
-          "cs": { "text": "Ich kille dich mit nur einem Satz (oh)" },
-          "ru": { "text": "Ich kille dich mit nur einem Satz (oh)" }
+          "de": { "text": "Ich kille dich mit nur einem Satz (oh)", "explanation": "Akkusativ Maskulinum 'einen Satz' (one sentence)." },
+          "en": { "text": "I'll kill you with just one sentence (oh)", "explanation": "Accusative masculine." },
+          "uk": { "text": "Я вбиваю тебе лише однією фразою (о)", "explanation": "Знахідний відмінок." },
+          "cs": { "text": "Zabiju tě jen jednou větou (oh)", "explanation": "Akuzativ." },
+          "ru": { "text": "Я убью тебя всего одной фразой (о)", "explanation": "Винительный падеж." }
         }
       ]
     },
@@ -103,10 +103,10 @@
       "segments": [
         {
           "de": { "text": "Artem aka langer Schwanz" },
-          "en": { "text": "Artem aka langer Schwanz" },
-          "uk": { "text": "Artem aka langer Schwanz" },
-          "cs": { "text": "Artem aka langer Schwanz" },
-          "ru": { "text": "Artem aka langer Schwanz" }
+          "en": { "text": "Artem aka long dick" },
+          "uk": { "text": "Артем ака довгий хрін" },
+          "cs": { "text": "Artem aka dlouhý čurák" },
+          "ru": { "text": "Артем ака длинный хуй" }
         }
       ]
     },
@@ -126,11 +126,11 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Ich bin der Killer und box'", "explanation": "Präsens von 'boxen'." },
-          "en": { "text": "Ich bin der Killer und box'" },
-          "uk": { "text": "Ich bin der Killer und box'" },
-          "cs": { "text": "Ich bin der Killer und box'" },
-          "ru": { "text": "Ich bin der Killer und box'" }
+          "de": { "text": "Ich bin der Killer und box'", "explanation": "Präsens von 'boxen' (to punch/box)." },
+          "en": { "text": "I am the killer and punch", "explanation": "Present tense of 'to punch'." },
+          "uk": { "text": "Я кілер і б'ю", "explanation": "Теперішній час." },
+          "cs": { "text": "Já jsem vrah a mlátím", "explanation": "Přítomný čas." },
+          "ru": { "text": "Я киллер и бью", "explanation": "Настоящее время." }
         }
       ]
     },
@@ -138,11 +138,11 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "All deine Bitches und Schmocks", "explanation": "Slang-Wort 'Schmock'." },
-          "en": { "text": "All deine Bitches und Schmocks" },
-          "uk": { "text": "All deine Bitches und Schmocks" },
-          "cs": { "text": "All deine Bitches und Schmocks" },
-          "ru": { "text": "All deine Bitches und Schmocks" }
+          "de": { "text": "All deine Bitches und Schmocks", "explanation": "Slang-Wort 'Schmock' (idiot/loser)." },
+          "en": { "text": "All your bitches and schmucks", "explanation": "Slang word 'Schmock'." },
+          "uk": { "text": "Всі твої суки і шмоки", "explanation": "Сленгове слово." },
+          "cs": { "text": "Všechny tvoje děvky a šmouky", "explanation": "Slangové slovo." },
+          "ru": { "text": "Все твои суки и шмоки", "explanation": "Сленговое слово." }
         }
       ]
     },
@@ -151,10 +151,10 @@
       "segments": [
         {
           "de": { "text": "Du bist kein G, kein Boss", "explanation": "Negation mit 'kein'." },
-          "en": { "text": "Du bist kein G, kein Boss" },
-          "uk": { "text": "Du bist kein G, kein Boss" },
-          "cs": { "text": "Du bist kein G, kein Boss" },
-          "ru": { "text": "Du bist kein G, kein Boss" }
+          "en": { "text": "You are no G, no boss", "explanation": "Negation with 'kein'." },
+          "uk": { "text": "Ти не Г, не бос", "explanation": "Заперечення." },
+          "cs": { "text": "Nejsi G, nejsi boss", "explanation": "Zápor." },
+          "ru": { "text": "Ты не G, не босс", "explanation": "Отрицание." }
         }
       ]
     },
@@ -163,10 +163,10 @@
       "segments": [
         {
           "de": { "text": "Nein, du bist eine Hure auf Koks" },
-          "en": { "text": "Nein, du bist eine Hure auf Koks" },
-          "uk": { "text": "Nein, du bist eine Hure auf Koks" },
-          "cs": { "text": "Nein, du bist eine Hure auf Koks" },
-          "ru": { "text": "Nein, du bist eine Hure auf Koks" }
+          "en": { "text": "No, you are a whore on coke" },
+          "uk": { "text": "Ні, ти повія на кокаїні" },
+          "cs": { "text": "Ne, ty jsi kurva na koxu" },
+          "ru": { "text": "Нет, ты шлюха на коксе" }
         }
       ]
     },
@@ -186,11 +186,11 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Komm, dummer Penner", "explanation": "Imperativ 'komm'." },
-          "en": { "text": "Komm, dummer Penner" },
-          "uk": { "text": "Komm, dummer Penner" },
-          "cs": { "text": "Komm, dummer Penner" },
-          "ru": { "text": "Komm, dummer Penner" }
+          "de": { "text": "Komm, dummer Penner", "explanation": "Imperativ 'komm' (come)." },
+          "en": { "text": "Come, stupid bum", "explanation": "Imperative 'come'." },
+          "uk": { "text": "Йди сюди, дурний бомж", "explanation": "Наказовий спосіб." },
+          "cs": { "text": "Pojď, hloupý bumbácu", "explanation": "Rozkazovací způsob." },
+          "ru": { "text": "Иди, тупой бомж", "explanation": "Повелительное наклонение." }
         }
       ]
     },
@@ -198,11 +198,11 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Und rapp, wie du kannst", "explanation": "Imperativ 'rapp'." },
-          "en": { "text": "Und rapp, wie du kannst" },
-          "uk": { "text": "Und rapp, wie du kannst" },
-          "cs": { "text": "Und rapp, wie du kannst" },
-          "ru": { "text": "Und rapp, wie du kannst" }
+          "de": { "text": "Und rapp, wie du kannst", "explanation": "Imperativ 'rapp' (rap)." },
+          "en": { "text": "And rap as best as you can", "explanation": "Imperative 'rap'." },
+          "uk": { "text": "І репуй, як можеш", "explanation": "Наказовий спосіб." },
+          "cs": { "text": "A rapuj, jak můžeš", "explanation": "Rozkazovací způsob." },
+          "ru": { "text": "И рэпуй, как можешь", "explanation": "Повелительное наклонение." }
         }
       ]
     },
@@ -211,10 +211,10 @@
       "segments": [
         {
           "de": { "text": "Komm, flow wie du kannst" },
-          "en": { "text": "Komm, flow wie du kannst" },
-          "uk": { "text": "Komm, flow wie du kannst" },
-          "cs": { "text": "Komm, flow wie du kannst" },
-          "ru": { "text": "Komm, flow wie du kannst" }
+          "en": { "text": "Come, flow as best as you can" },
+          "uk": { "text": "Йди, флоуй як можеш" },
+          "cs": { "text": "Pojď, flowuj jak můžeš" },
+          "ru": { "text": "Иди, флауй как можешь" }
         }
       ]
     },
@@ -223,10 +223,10 @@
       "segments": [
         {
           "de": { "text": "Komm, pose wie du kannst" },
-          "en": { "text": "Komm, pose wie du kannst" },
-          "uk": { "text": "Komm, pose wie du kannst" },
-          "cs": { "text": "Komm, pose wie du kannst" },
-          "ru": { "text": "Komm, pose wie du kannst" }
+          "en": { "text": "Come, pose as best as you can" },
+          "uk": { "text": "Йди, позуй як можеш" },
+          "cs": { "text": "Pojď, pózuj jak můžeš" },
+          "ru": { "text": "Иди, позуй как можешь" }
         }
       ]
     },
@@ -234,11 +234,11 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Ich weiß, wer du bist", "explanation": "Präsens von 'wissen'." },
-          "en": { "text": "Ich weiß, wer du bist" },
-          "uk": { "text": "Ich weiß, wer du bist" },
-          "cs": { "text": "Ich weiß, wer du bist" },
-          "ru": { "text": "Ich weiß, wer du bist" }
+          "de": { "text": "Ich weiß, wer du bist", "explanation": "Präsens von 'wissen' (to know)." },
+          "en": { "text": "I know who you are", "explanation": "Present tense of 'to know'." },
+          "uk": { "text": "Я знаю, хто ти", "explanation": "Теперішній час." },
+          "cs": { "text": "Vím, kdo jsi", "explanation": "Přítomný čas." },
+          "ru": { "text": "Я знаю, кто ты", "explanation": "Настоящее время." }
         }
       ]
     },
@@ -246,11 +246,11 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Ein Mann ohne Sack", "explanation": "Präposition 'ohne' + Akkusativ." },
-          "en": { "text": "Ein Mann ohne Sack" },
-          "uk": { "text": "Ein Mann ohne Sack" },
-          "cs": { "text": "Ein Mann ohne Sack" },
-          "ru": { "text": "Ein Mann ohne Sack" }
+          "de": { "text": "Ein Mann ohne Sack", "explanation": "Präposition 'ohne' + Akkusativ (without)." },
+          "en": { "text": "A man without balls", "explanation": "Preposition 'without'." },
+          "uk": { "text": "Чоловік без яєць", "explanation": "Прийменник 'без'." },
+          "cs": { "text": "Muž bez koulí", "explanation": "Předložka 'bez'." },
+          "ru": { "text": "Мужчина без яиц", "explanation": "Предлог 'без'." }
         }
       ]
     },
@@ -259,10 +259,10 @@
       "segments": [
         {
           "de": { "text": "Ein Mann ohne Schwanz" },
-          "en": { "text": "Ein Mann ohne Schwanz" },
-          "uk": { "text": "Ein Mann ohne Schwanz" },
-          "cs": { "text": "Ein Mann ohne Schwanz" },
-          "ru": { "text": "Ein Mann ohne Schwanz" }
+          "en": { "text": "A man without a dick" },
+          "uk": { "text": "Чоловік без члена" },
+          "cs": { "text": "Muž bez čuráka" },
+          "ru": { "text": "Мужчина без хуя" }
         }
       ]
     },
@@ -271,10 +271,10 @@
       "segments": [
         {
           "de": { "text": "Ein Loch für die Punks (Punks)" },
-          "en": { "text": "Ein Loch für die Punks (Punks)" },
-          "uk": { "text": "Ein Loch für die Punks (Punks)" },
-          "cs": { "text": "Ein Loch für die Punks (Punks)" },
-          "ru": { "text": "Ein Loch für die Punks (Punks)" }
+          "en": { "text": "A hole for the punks (punks)" },
+          "uk": { "text": "Дірка для панків (панки)" },
+          "cs": { "text": "Díra pro punky (punky)" },
+          "ru": { "text": "Дырка для панков (панки)" }
         }
       ]
     },
@@ -284,7 +284,7 @@
         {
           "de": { "text": "[Припев 2]", "explanation": "Refrain." },
           "en": { "text": "[Chorus 2]" },
-          "uk": { "text": "[Припев 2]" },
+          "uk": { "text": "[Приспів 2]" },
           "cs": { "text": "[Refrén 2]" },
           "ru": { "text": "[Припев 2]" }
         }
@@ -294,11 +294,11 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Wer reimt für Blut? (yeah) — Erste Klasse", "explanation": "Fragepronomen 'wer'." },
-          "en": { "text": "Wer reimt für Blut? (yeah) — Erste Klasse" },
-          "uk": { "text": "Wer reimt für Blut? (yeah) — Erste Klasse" },
-          "cs": { "text": "Wer reimt für Blut? (yeah) — Erste Klasse" },
-          "ru": { "text": "Wer reimt für Blut? (yeah) — Erste Klasse" }
+          "de": { "text": "Wer reimt für Blut? (yeah) — Erste Klasse", "explanation": "Fragepronomen 'wer' (who)." },
+          "en": { "text": "Who rhymes for blood? (yeah) — First Class", "explanation": "Interrogative pronoun 'who'." },
+          "uk": { "text": "Хто римує за кров? (є) — Перший клас", "explanation": "Питальний займенник." },
+          "cs": { "text": "Kdo rýmuje pro krev? (yeah) — První třída", "explanation": "Tázací zájmeno." },
+          "ru": { "text": "Кто рифмует за кровь? (да) — Первый класс", "explanation": "Вопросительное местоимение." }
         }
       ]
     },
@@ -306,11 +306,11 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Werft die Arme in die Luft (für) — Erste Klasse", "explanation": "Imperativ Plural 'werft'." },
-          "en": { "text": "Werft die Arme in die Luft (für) — Erste Klasse" },
-          "uk": { "text": "Werft die Arme in die Luft (für) — Erste Klasse" },
-          "cs": { "text": "Werft die Arme in die Luft (für) — Erste Klasse" },
-          "ru": { "text": "Werft die Arme in die Luft (für) — Erste Klasse" }
+          "de": { "text": "Werft die Arme in die Luft (für) — Erste Klasse", "explanation": "Imperativ Plural 'werft' (throw)." },
+          "en": { "text": "Throw your arms in the air (for) — First Class", "explanation": "Imperative plural." },
+          "uk": { "text": "Кидайте руки в повітря (за) — Перший клас", "explanation": "Наказовий спосіб множини." },
+          "cs": { "text": "Hoďte ruce do vzduchu (pro) — První třída", "explanation": "Rozkazovací způsob." },
+          "ru": { "text": "Бросайте руки в воздух (за) — Первый класс", "explanation": "Повелительное наклонение." }
         }
       ]
     },
@@ -319,10 +319,10 @@
       "segments": [
         {
           "de": { "text": "Wer reimt zu fresh? Ficken andere Menschen" },
-          "en": { "text": "Wer reimt zu fresh? Ficken andere Menschen" },
-          "uk": { "text": "Wer reimt zu fresh? Ficken andere Menschen" },
-          "cs": { "text": "Wer reimt zu fresh? Ficken andere Menschen" },
-          "ru": { "text": "Wer reimt zu fresh? Ficken andere Menschen" }
+          "en": { "text": "Who rhymes too fresh? Fucking other people" },
+          "uk": { "text": "Хто римує надто фреш? Тратимо інших людей" },
+          "cs": { "text": "Kdo rýmuje moc fresh? Mrdat ostatní lidi" },
+          "ru": { "text": "Кто рифмует слишком фреш? Трахать других людей" }
         }
       ]
     },
@@ -331,10 +331,10 @@
       "segments": [
         {
           "de": { "text": "(Wer?) Erste Klasse, (wer?) Erste Klasse" },
-          "en": { "text": "(Wer?) Erste Klasse, (wer?) Erste Klasse" },
-          "uk": { "text": "(Wer?) Erste Klasse, (wer?) Erste Klasse" },
-          "cs": { "text": "(Wer?) Erste Klasse, (wer?) Erste Klasse" },
-          "ru": { "text": "(Wer?) Erste Klasse, (wer?) Erste Klasse" }
+          "en": { "text": "(Who?) First Class, (who?) First Class" },
+          "uk": { "text": "(Хто?) Перший клас, (хто?) Перший клас" },
+          "cs": { "text": "(Kdo?) První třída, (kdo?) První třída" },
+          "ru": { "text": "(Кто?) Первый класс, (кто?) Первый класс" }
         }
       ]
     },
@@ -343,10 +343,10 @@
       "segments": [
         {
           "de": { "text": "Wer reimt für Blut? (yeah) — Erste Klasse" },
-          "en": { "text": "Wer reimt für Blut? (yeah) — Erste Klasse" },
-          "uk": { "text": "Wer reimt für Blut? (yeah) — Erste Klasse" },
-          "cs": { "text": "Wer reimt für Blut? (yeah) — Erste Klasse" },
-          "ru": { "text": "Wer reimt für Blut? (yeah) — Erste Klasse" }
+          "en": { "text": "Who rhymes for blood? (yeah) — First Class" },
+          "uk": { "text": "Хто римує за кров? (є) — Перший клас" },
+          "cs": { "text": "Kdo rýmuje pro krev? (yeah) — První třída" },
+          "ru": { "text": "Кто рифмует за кровь? (да) — Первый класс" }
         }
       ]
     },
@@ -355,10 +355,10 @@
       "segments": [
         {
           "de": { "text": "Werft die Arme in die Luft (für) — Erste Klasse" },
-          "en": { "text": "Werft die Arme in die Luft (für) — Erste Klasse" },
-          "uk": { "text": "Werft die Arme in die Luft (für) — Erste Klasse" },
-          "cs": { "text": "Werft die Arme in die Luft (für) — Erste Klasse" },
-          "ru": { "text": "Werft die Arme in die Luft (für) — Erste Klasse" }
+          "en": { "text": "Throw your arms in the air (for) — First Class" },
+          "uk": { "text": "Кидайте руки в повітря (за) — Перший клас" },
+          "cs": { "text": "Hoďte ruce do vzduchu (pro) — První třída" },
+          "ru": { "text": "Бросайте руки в воздух (за) — Первый класс" }
         }
       ]
     },
@@ -367,10 +367,10 @@
       "segments": [
         {
           "de": { "text": "Wer reimt zu fresh? Ficken andere Menschen" },
-          "en": { "text": "Wer reimt zu fresh? Ficken andere Menschen" },
-          "uk": { "text": "Wer reimt zu fresh? Ficken andere Menschen" },
-          "cs": { "text": "Wer reimt zu fresh? Ficken andere Menschen" },
-          "ru": { "text": "Wer reimt zu fresh? Ficken andere Menschen" }
+          "en": { "text": "Who rhymes too fresh? Fucking other people" },
+          "uk": { "text": "Хто римує надто фреш? Тратимо інших людей" },
+          "cs": { "text": "Kdo rýmuje moc fresh? Mrdat ostatní lidi" },
+          "ru": { "text": "Кто рифмует слишком фреш? Трахать других людей" }
         }
       ]
     },
@@ -379,10 +379,10 @@
       "segments": [
         {
           "de": { "text": "(Wer?) Erste Klasse" },
-          "en": { "text": "(Wer?) Erste Klasse" },
-          "uk": { "text": "(Wer?) Erste Klasse" },
-          "cs": { "text": "(Wer?) Erste Klasse" },
-          "ru": { "text": "(Wer?) Erste Klasse" }
+          "en": { "text": "(Who?) First Class" },
+          "uk": { "text": "(Хто?) Перший клас" },
+          "cs": { "text": "(Kdo?) První třída" },
+          "ru": { "text": "(Кто?) Первый класс" }
         }
       ]
     }
