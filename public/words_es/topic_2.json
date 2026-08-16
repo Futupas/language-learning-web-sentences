@@ -1,0 +1,11 @@
+{
+  "id": 102,
+  "title": { "es": "Comida", "en": "Food", "uk": "Їжа", "cs": "Jídlo", "ru": "Еда" },
+  "words": [
+    { "word": { "es": "Manzana", "en": "Apple", "uk": "Яблуко", "cs": "Jablko", "ru": "Яблоко" } },
+    {
+      "word": { "es": "Cerveza", "en": "Beer", "uk": "Пиво", "cs": "Pivo", "ru": "Пиво" },
+      "example": { "es": "Una cerveza, por favor.", "en": "One beer, please.", "uk": "Одне пиво, будь ласка.", "cs": "Jedno pivo, prosím.", "ru": "Одно пиво, пожалуйста." }
+    }
+  ]
+}

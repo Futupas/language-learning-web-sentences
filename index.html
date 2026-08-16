@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Vocabulary Flashcards</title>
+</head>
+<body>
+    <div id="app">
+        <!-- Setup View -->
+        <section id="setup-view" class="view active">
+            <header class="app-header">
+                <h1>Setup Learning</h1>
+                <p class="subtitle" id="course-metadata">Flashcards to learn.</p>
+            </header>
+            
+            <div class="form-group">
+                <label>Language:</label>
+                <div id="lang-group" class="button-group">
+                    <!-- Injected via TS -->
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label>Direction:</label>
+                <div id="dir-group" class="button-group">
+                    <button class="toggle-btn selected" data-val="learning-to-target">Learning ➔ Target</button>
+                    <button class="toggle-btn" data-val="target-to-learning">Target ➔ Learning</button>
+                    <button class="toggle-btn" data-val="both">Both (Random)</button>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label>Select Topics:</label>
+                <div id="topics-container" class="lections-list">
+                    <!-- Injected via TS -->
+                </div>
+            </div>
+
+            <button id="start-btn" class="primary-btn" disabled>Start Quiz</button>
+
+            <footer class="app-footer">
+                <p><a href="about.html">About / Legal</a></p>
+            </footer>
+        </section>
+
+        <!-- Quiz View -->
+        <section id="quiz-view" class="view">
+            <header class="quiz-header">
+                <div style="display: flex; gap: 10px;">
+                    <button id="back-btn" class="secondary-btn" title="Ctrl/Cmd + Q">Quit</button>
+                    <button id="undo-btn" class="secondary-btn" disabled>Undo</button>
+                </div>
+                <span id="quiz-progress">0 left</span>
+            </header>
+
+            <div class="card-area">
+                <div id="card-container"></div>
+            </div>
+
+            <div class="controls">
+                <button id="btn-dont-know" class="action-btn btn-red">&cross; Don't Know</button>
+                <button id="btn-know" class="action-btn btn-green">&check; Know</button>
+            </div>
+            <p class="hint-text">Tap to flip. Swipe left/right.</p>
+        </section>
+
+        <!-- End View -->
+        <section id="end-view" class="view">
+            <h1>Done!</h1>
+            <p>You have learned all selected words.</p>
+            <button id="finish-btn" class="primary-btn">Back to Setup</button>
+        </section>
+    </div>
+
+    <!-- Custom Toast Alert -->
+    <div id="toast" class="toast">
+        <span id="toast-msg"></span>
+        <button id="toast-close" class="toast-close-btn">&times;</button>
+    </div>
+
+    <script type="module" src="/src/main.ts"></script>
+</body>
+</html>

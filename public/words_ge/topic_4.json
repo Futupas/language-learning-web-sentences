@@ -1,0 +1,16 @@
+{
+  "id": 4,
+  "title": { "de": "Bürokratie", "en": "Bureaucracy", "uk": "Бюрократія", "cs": "Byrokracie", "ru": "Бюрократия" },
+  "words": [
+    { "word": { "de": "Kugelschreiber", "en": "Ballpoint pen", "uk": "Кулькова ручка", "cs": "Kuličkové pero", "ru": "Шариковая ручка" } },
+    {
+      "word": { "de": "Steuererklärung", "en": "Tax return", "uk": "Податкова декларація", "cs": "Daňové přiznání", "ru": "Налоговая декларация" },
+      "example": { "de": "Ich muss bis Ende Mai meine Steuererklärung abgeben.", "en": "I have to submit my tax return by the end of May.", "uk": "Я маю подати податкову декларацію до кінця травня.", "cs": "Musím podat daňové přiznání do konce května.", "ru": "Я должен подать налоговую декларацию до конца мая." }
+    },
+    { "word": { "de": "Arbeitsbescheinigung", "en": "Certificate of employment", "uk": "Довідка з місця роботи", "cs": "Potvrzení o zaměstnání", "ru": "Справка с места работы" } },
+    {
+      "word": { "de": "Krankenversicherung", "en": "Health insurance", "uk": "Медичне страхування", "cs": "Zdravotní pojištění", "ru": "Медицинское страхование" },
+      "example": { "de": "Haben Sie eine gesetzliche oder private Krankenversicherung?", "en": "Do you have statutory or private health insurance?", "uk": "У вас державне чи приватне медичне страхування?", "cs": "Máte státní nebo soukromé zdravotní pojištění?", "ru": "У вас государственная или частная медицинская страховка?" }
+    }
+  ]
+}

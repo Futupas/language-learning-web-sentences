@@ -1,0 +1,21 @@
+:root {
+    --bg-color: #f9f9f9;
+    --text-color: #333333;
+    --card-bg: #ffffff;
+    --border-color: #dddddd;
+    --primary: #007aff;
+    --primary-hover: #005bb5;
+    --green: #34c759;
+    --red: #ff3b30;
+    --shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-color: #121212;
+        --text-color: #f1f1f1;
+        --card-bg: #1e1e1e;
+        --border-color: #333333;
+        --shadow: rgba(0, 0, 0, 0.5) 0px 4px 12px;
+    }
+}

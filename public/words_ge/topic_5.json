@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "title": { "de": "Natur", "en": "Nature", "uk": "Природа", "cs": "Příroda", "ru": "Природа" },
+  "words": [
+    { "word": { "de": "Baum", "en": "Tree", "uk": "Дерево", "cs": "Strom", "ru": "Дерево" } },
+    {
+      "word": { "de": "Sonnenuntergang", "en": "Sunset", "uk": "Захід сонця", "cs": "Západ slunce", "ru": "Закат" },
+      "example": { "de": "Der Sonnenuntergang am Strand war wunderschön.", "en": "The sunset at the beach was beautiful.", "uk": "Захід сонця на пляжі був чудовим.", "cs": "Západ slunce na pláži byl nádherný.", "ru": "Закат на пляже был прекрасен." }
+    },
+    { "word": { "de": "Schneesturm", "en": "Blizzard", "uk": "Заметіль", "cs": "Sněhová bouře", "ru": "Метель" } }
+  ]
+}

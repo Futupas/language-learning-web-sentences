@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About - Flashcards</title>
+    <style>
+        :root {
+            --bg-color: #f9f9f9;
+            --text-color: #333333;
+            --primary: #007aff;
+            --card-bg: #ffffff;
+            --border-color: #dddddd;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #121212;
+                --text-color: #f1f1f1;
+                --card-bg: #1e1e1e;
+                --border-color: #333333;
+            }
+        }
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+        }
+        .container {
+            max-width: 600px;
+            width: 100%;
+            background: var(--card-bg);
+            padding: 30px;
+            border-radius: 20px;
+            border: 1px solid var(--border-color);
+            box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+            margin-top: 40px;
+        }
+        h1, h2 { margin-top: 0; }
+        p, li { line-height: 1.6; }
+        ul { padding-left: 20px; margin-bottom: 24px; }
+        a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover { text-decoration: underline; }
+        .back-btn {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: #888;
+            font-size: 14px;
+        }
+        .course-list a {
+            display: inline-block;
+            margin: 4px 0;
+            padding: 8px 12px;
+            border: 1px solid var(--primary);
+            border-radius: 8px;
+            transition: all 0.2s ease;
+        }
+        .course-list a:hover {
+            background: var(--primary);
+            color: white;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back-btn">🡸 Back to App</a>
+        
+        <h1>About / Legal</h1>
+        <p>This is a language-agnostic flashcard application designed to make learning vocabulary seamless and intuitive. It runs entirely on the client-side, storing progress locally on your device.</p>
+        
+        <h2>Available Courses</h2>
+        <p>Test out the different vocabulary sets by clicking the links below. The app dynamically loads the configuration from the URL.</p>
+        <ul class="course-list">
+            <li><a href="index.html?course=./words_de/course_config.json">🇩🇪 German Basics (words_de)</a></li>
+            <li><a href="index.html?course=./words_es/course_config.json">🇪🇸 Spanish Basics (words_es)</a></li>
+        </ul>
+        
+        <h2>Open Source</h2>
+        <p>Created with vanilla TypeScript, SCSS, and Vite. This project is entirely open-source. Feel free to view the code, contribute, or fork the repository to create your own courses!</p>
+        
+        <p>
+            <a href="https://github.com/Futupas/language-learning-web-flascards" target="_blank" rel="noopener">View on GitHub</a>
+        </p>
+    </div>
+</body>
+</html>
