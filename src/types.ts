@@ -1,40 +1,41 @@
 export interface Language {
     code: string;
+    htmlCode?: string;
     name: string;
 }
 
-export interface WordEntry {
-    word: Record<string, string>;
-    example?: Record<string, string>;
-}
-
-export interface TopicData {
-    id: number;
+export interface TextConfig {
+    id: string;
+    file: string;
+    tags: string[];
+    hasAudio?: boolean;
     title: Record<string, string>;
-    topicMetadata?: string;
-    words: WordEntry[];
-    totalWords?: number;
 }
 
 export interface CourseConfig {
     learningLanguage: Language;
     targetLanguages: Language[];
     courseMetadata?: string;
-    topics: string[];
+    texts: TextConfig[];
 }
 
-export interface QueuedWord extends WordEntry {
-    topicId: number;
-    targetLangCode: string;
+export interface SegmentLang {
+    text: string;
+    explanation?: string;
 }
 
-export interface HistoryAction {
-    word: QueuedWord;
-    isKnown: boolean;
+export interface Segment {
+    [langCode: string]: SegmentLang;
 }
 
-export interface Language {
-    code: string;
-    htmlCode?: string; // E.g., 'de-DE' for flawless browser hyphenation
-    name: string;
+export interface Block {
+    type: string;
+    segments: Segment[];
+}
+
+export interface TextData {
+    id: string;
+    metadata?: string | Record<string, string>;
+    audio?: string;
+    blocks: Block[];
 }

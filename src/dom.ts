@@ -1,7 +1,6 @@
 export const views = {
     setup: document.getElementById('setup-view') as HTMLElement,
-    quiz: document.getElementById('quiz-view') as HTMLElement,
-    end: document.getElementById('end-view') as HTMLElement
+    reader: document.getElementById('reader-view') as HTMLElement
 };
 
 export function switchView(viewName: keyof typeof views) {

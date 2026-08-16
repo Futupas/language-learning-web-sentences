@@ -1,0 +1,52 @@
+{
+  "id": "text_1",
+  "metadata": "Source: Goethe A1 Examples",
+  "audio": "./sample.mp3",
+  "blocks": [
+    {
+      "type": "h1",
+      "segments": [
+        {
+          "de": { "text": "Mein erster Tag" },
+          "en": { "text": "My first day" },
+          "uk": { "text": "Мій перший день" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Hallo, " },
+          "en": { "text": "Hello, " },
+          "uk": { "text": "Привіт, " }
+        },
+        {
+          "de": { "text": "mein Name ist", "explanation": "Das Verb 'sein' in der 1. Person." },
+          "en": { "text": "my name is", "explanation": "Lit: 'my name is'" },
+          "uk": { "text": "мене звати", "explanation": "Дослівно: 'мене називають'" }
+        },
+        {
+          "de": { "text": " Anna." },
+          "en": { "text": " Anna." },
+          "uk": { "text": " Анна." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Ich komme aus Berlin ", "explanation": "Berlin ist die Hauptstadt von Deutschland." },
+          "en": { "text": "I come from Berlin ", "explanation": "Berlin is the capital of Germany." },
+          "uk": { "text": "Я з Берліна ", "explanation": "Берлін - столиця Німеччини." }
+        },
+        {
+          "de": { "text": "und ich lerne Englisch." },
+          "en": { "text": "and I am learning English." },
+          "uk": { "text": "і я вчу англійську." }
+        }
+      ]
+    }
+  ]
+}

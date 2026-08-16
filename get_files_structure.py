@@ -14,6 +14,10 @@ from pathlib import Path
 # Hidden files/directories are excluded by default.
 EXCLUDE = [
     ".*",
+    ".github",
+    "node_modules",
+    "*.py",
+    "readme.md",
 ]
 
 # Optional patterns to include again.

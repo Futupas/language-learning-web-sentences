@@ -1,0 +1,35 @@
+{
+  "learningLanguage": { "code": "de", "htmlCode": "de-DE", "name": "Deutsch" },
+  "targetLanguages": [
+    { "code": "en", "htmlCode": "en-US", "name": "English" },
+    { "code": "uk", "htmlCode": "uk-UA", "name": "Українська" },
+    { "code": "cs", "htmlCode": "cs-CZ", "name": "Čeština" }
+  ],
+  "courseMetadata": "German A1 Reading Practice",
+  "texts": [
+    {
+      "id": "text_1",
+      "file": "text_1.json",
+      "tags": ["A1", "Greetings"],
+      "hasAudio": true,
+      "title": {
+        "de": "Mein erster Tag",
+        "en": "My first day",
+        "uk": "Мій перший день",
+        "cs": "Můj první den"
+      }
+    },
+    {
+      "id": "text_2",
+      "file": "text_2.json",
+      "tags": ["A1", "Greetings"],
+      "hasAudio": false,
+      "title": {
+        "de": "Mein erster Tag",
+        "en": "My first day",
+        "uk": "Мій перший день",
+        "cs": "Můj první den"
+      }
+    }
+  ]
+}
