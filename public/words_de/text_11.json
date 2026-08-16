@@ -1,0 +1,160 @@
+{
+  "id": "text_11",
+  "metadata": "Source: 1.KLA$ - Kult-Rap / Berlin Underground",
+  "blocks": [
+    {
+      "type": "h1",
+      "segments": [
+        {
+          "de": { "text": "Erste Klasse (Songtext)", "explanation": "Titel des Liedes." },
+          "en": { "text": "First Class (Song lyrics)", "explanation": "Title of the song." },
+          "uk": { "text": "Перший клас (Текст пісні)", "explanation": "Назва пісні." },
+          "cs": { "text": "První třída (Text písně)", "explanation": "Název písně." },
+          "ru": { "text": "Первый класс (Текст песни)", "explanation": "Название песни." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Ich mache wieder Rap für die Bitches ", "explanation": "Präsens von 'machen' (to make/do)." },
+          "en": { "text": "I'm making rap for the bitches again ", "explanation": "Present tense of 'to make'." },
+          "uk": { "text": "Я знову роблю реп для бічiв ", "explanation": "Теперішній час." },
+          "cs": { "text": "Dělám zase rap pro ty děvky ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Я снова делаю рэп для сук ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "Ich mache wieder Rap für dich, Bitch, yes. " },
+          "en": { "text": "I'm making rap for you again, bitch, yes. " },
+          "uk": { "text": "Я знову роблю реп для тебе, сучко, єс. " },
+          "cs": { "text": "Dělám zase rap pro tebe, děvko, yes. " },
+          "ru": { "text": "Я снова делаю рэп для тебя, сука, ес. " }
+        },
+        {
+          "de": { "text": "Ich mache wieder Rap mit dem Schwanz. " },
+          "en": { "text": "I'm making rap with my dick again. " },
+          "uk": { "text": "Я знову роблю реп зі своїм членом. " },
+          "cs": { "text": "Dělám zase rap s čurákem. " },
+          "ru": { "text": "Я снова делаю рэп с хуем. " }
+        },
+        {
+          "de": { "text": "Ich mache alles, komm, fick' dein Schatz.", "explanation": "Imperativ 'komm' und 'fick' (vulgar)." },
+          "en": { "text": "I do everything, come on, fuck your treasure.", "explanation": "Imperative 'come' and 'fuck'." },
+          "uk": { "text": "Я роблю все, давай, їби своє скарб.", "explanation": "Наказовий спосіб." },
+          "cs": { "text": "Dělám všechno, pojď, vošukej tvůj poklad.", "explanation": "Rozkazovací způsob." },
+          "ru": { "text": "Я делаю все, давай, трахай твое сокровище.", "explanation": "Повелительное наклонение." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Das Neurap, scheiß auf Oldschool. ", "explanation": "Ausdruck 'scheiß auf' (fuck / don't care about)." },
+          "en": { "text": "New rap, fuck oldschool. ", "explanation": "Expression 'scheiß auf'." },
+          "uk": { "text": "Новий реп, к бісу олдскул. ", "explanation": "Вираз 'плювати на'." },
+          "cs": { "text": "Nový rap, kašli na oldschool. ", "explanation": "Výraz 'kašli na'." },
+          "ru": { "text": "Новый рэп, к черту олдскул. ", "explanation": "Выражение 'плевать на'." }
+        },
+        {
+          "de": { "text": "Du bist gay und liebst einen Boy, pfui. ", "explanation": "Interjektion 'pfui' (yuck / ugh)." },
+          "en": { "text": "You are gay and love a boy, yuck. ", "explanation": "Interjection 'pfui'." },
+          "uk": { "text": "Ти гей і любиш хлопчика, фу. ", "explanation": "Вигук 'фу'." },
+          "cs": { "text": "Jsi gay a miluješ kluka, fuj. ", "explanation": "Citoslovce 'fuj'." },
+          "ru": { "text": "Ты гей и любишь мальчика, фу. ", "explanation": "Междометие 'фу'." }
+        },
+        {
+          "de": { "text": "Ich kille dich mit nur einem Satz. ", "explanation": "Akkusativ Maskulinum 'einen Satz' (one sentence)." },
+          "en": { "text": "I'll kill you with just one sentence. ", "explanation": "Accusative masculine." },
+          "uk": { "text": "Я вбиваю тебе лише однією фразою. ", "explanation": "Знахідний відмінок." },
+          "cs": { "text": "Zabiju tě jen jednou větou. ", "explanation": "Akuzativ." },
+          "ru": { "text": "Я убью тебя всего одной фразой. ", "explanation": "Винительный падеж." }
+        },
+        {
+          "de": { "text": "Artem aka langer Schwanz." },
+          "en": { "text": "Artem aka long dick." },
+          "uk": { "text": "Артем ака довгий хрін." },
+          "cs": { "text": "Artem aka dlouhý čurák." },
+          "ru": { "text": "Артем ака длинный хуй." }
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "segments": [
+        {
+          "de": { "text": "Bridge", "explanation": "Brücke im Lied." },
+          "en": { "text": "Bridge", "explanation": "Song bridge." },
+          "uk": { "text": "Бридж", "explanation": "Міст у пісні." },
+          "cs": { "text": "Bridge", "explanation": "Můstek v písni." },
+          "ru": { "text": "Бридж", "explanation": "Мост в песне." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Ich bin der Killer und box' all deine Bitches und Schmocks. ", "explanation": "Slang-Wort 'Schmock' (idiot/loser)." },
+          "en": { "text": "I am the killer and box all your bitches and schmucks. ", "explanation": "Slang word 'Schmock'." },
+          "uk": { "text": "Я кілер і б'ю всіх твоїх бічів та шмоків. ", "explanation": "Сленгове слово." },
+          "cs": { "text": "Já jsem vrah a zmlátím všechny tvoje děvky a šmoky. ", "explanation": "Slangové slovo." },
+          "ru": { "text": "Я киллер и бью всех твоих сук и шмоков. ", "explanation": "Сленговое слово." }
+        },
+        {
+          "de": { "text": "Du bist kein G, kein Boss. ", "explanation": "Negation mit 'kein'." },
+          "en": { "text": "You are no G, no boss. ", "explanation": "Negation with 'kein'." },
+          "uk": { "text": "Ти не гангстер, не бос. ", "explanation": "Заперечення." },
+          "cs": { "text": "Nejsi G, nejsi boss. ", "explanation": "Zápor." },
+          "ru": { "text": "Ты не гангстер, не босс. ", "explanation": "Отрицание." }
+        },
+        {
+          "de": { "text": "Nein, du bist eine Hure auf Koks." },
+          "en": { "text": "No, you are a whore on coke." },
+          "uk": { "text": "Ні, ти повія на кокаїні." },
+          "cs": { "text": "Ne, ty jsi kurva na koxu." },
+          "ru": { "text": "Нет, ты шлюха на коксе." }
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "segments": [
+        {
+          "de": { "text": "Refrain", "explanation": "Der Refrain des Liedes." },
+          "en": { "text": "Chorus", "explanation": "The chorus of the song." },
+          "uk": { "text": "Приспів", "explanation": "Приспів пісні." },
+          "cs": { "text": "Refrén", "explanation": "Refrén písně." },
+          "ru": { "text": "Припев", "explanation": "Припев песни." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Wer reimt für Blut? Erste Klasse! ", "explanation": "Fragepronomen 'wer' (who)." },
+          "en": { "text": "Who rhymes for blood? First Class! ", "explanation": "Interrogative pronoun 'wer'." },
+          "uk": { "text": "Хто римує за кров? Перший клас! ", "explanation": "Питальний займенник." },
+          "cs": { "text": "Kdo rýmuje pro krev? První třída! ", "explanation": "Tázací zájmeno." },
+          "ru": { "text": "Кто рифмует за кровь? Первый класс! ", "explanation": "Вопросительное местоимение." }
+        },
+        {
+          "de": { "text": "Werft die Arme in die Luft für Erste Klasse! ", "explanation": "Imperativ Plural 'werft' (throw)." },
+          "en": { "text": "Throw your arms in the air for First Class! ", "explanation": "Imperative plural." },
+          "uk": { "text": "Кидайте руки в повітря за Перший клас! ", "explanation": "Наказовий спосіб множини." },
+          "cs": { "text": "Hoďte ruce do vzduchu pro První třídu! ", "explanation": "Rozkazovací způsob množného čísla." },
+          "ru": { "text": "Бросайте руки в воздух за Первый класс! ", "explanation": "Повелительное наклонение множественного числа." }
+        },
+        {
+          "de": { "text": "Wer reimt zu fresh? Ficken andere Menschen: Erste Klasse!" },
+          "en": { "text": "Who rhymes too fresh? Fucking other people: First Class!" },
+          "uk": { "text": "Хто римує надто фреш? Тратимо інших людей: Перший клас!" },
+          "cs": { "text": "Kdo rýmuje moc fresh? Mrdat ostatní lidi: První třída!" },
+          "ru": { "text": "Кто рифмует слишком фреш? Трахать других людей: Первый класс!" }
+        }
+      ]
+    }
+  ]
+}

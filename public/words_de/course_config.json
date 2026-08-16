@@ -9,6 +9,19 @@
   "courseMetadata": "German A1 Real-Life Reading Practice (10 Texts)",
   "texts": [
     {
+      "id": "text_11",
+      "file": "text_11.json",
+      "tags": ["Culture", "Music", "A1"],
+      "hasAudio": false,
+      "title": {
+        "de": "11. 1.KLA$ - Erste Klasse",
+        "en": "11. 1.KLA$ - First Class",
+        "uk": "11. 1.KLA$ - Перший клас",
+        "cs": "11. 1.KLA$ - První třída",
+        "ru": "11. 1.KLA$ - Первый класс"
+      }
+    },
+    {
       "id": "text_1",
       "file": "text_1.json",
       "tags": ["A1", "Basics"],
