@@ -1,0 +1,419 @@
+{
+  "id": "text_6",
+  "metadata": "Source: Real-Life Conversations (A1 Level - Epic Longform 6)",
+  "blocks": [
+    {
+      "type": "h1",
+      "segments": [
+        {
+          "de": { "text": "Mein perfekter freier Sonntag", "explanation": "Titel der Geschichte." },
+          "en": { "text": "My perfect free Sunday", "explanation": "Title of the story." },
+          "uk": { "text": "Мій ідеальний вільний недільний день", "explanation": "Назва історії." },
+          "cs": { "text": "Moje dokonalá volná neděle", "explanation": "Název příběhu." },
+          "ru": { "text": "Мое идеальное свободное воскресенье", "explanation": "Название истории." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Heute ist Sonntag ", "explanation": "Präsens von 'sein' (today is Sunday)." },
+          "en": { "text": "Today is Sunday ", "explanation": "Present tense." },
+          "uk": { "text": "Сьогодні неділя ", "explanation": "Теперішній час." },
+          "cs": { "text": "Dnes je neděle ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Сегодня воскресенье ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und ich habe endlich einmal keine Termine." },
+          "en": { "text": "and for once I finally have no appointments." },
+          "uk": { "text": "і у мене нарешті немає жодних зустрічей." },
+          "cs": { "text": "a konečně nemám žádné schůzky." },
+          "ru": { "text": "и у меня наконец-то нет никаких встреч." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Die Vögel singen draußen im Garten ", "explanation": "Präsens von 'singen' (to sing)." },
+          "en": { "text": "The birds are singing outside in the garden ", "explanation": "Present tense." },
+          "uk": { "text": "Пташки співають ззовні в саду ", "explanation": "Теперішній час." },
+          "cs": { "text": "Ptáci zpívají venku na zahradě ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Птицы поют на улице в саду ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und die Sonne wärmt mein Zimmer." },
+          "en": { "text": "and the sun is warming my room." },
+          "uk": { "text": "і сонце зігріває мою кімнату." },
+          "cs": { "text": "a slunce hřeje můj pokoj." },
+          "ru": { "text": "и солнце согревает мою комнату." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Ich stehe um neun Uhr auf ", "explanation": "Trennbares Verb 'aufstehen' (to get up)." },
+          "en": { "text": "I get up at nine o'clock ", "explanation": "Separable verb." },
+          "uk": { "text": "Я встаю о дев'ятій годині ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Vstávám v devět hodin ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Я встаю в девять часов ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und mache mir einen großen Becher Kakao." },
+          "en": { "text": "and make myself a large mug of hot cocoa." },
+          "uk": { "text": "і роблю собі велику чашку какао." },
+          "cs": { "text": "a dělám si velký hrnek kakao." },
+          "ru": { "text": "и делаю себе большую чашку какао." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "In meiner Freizeit ", "explanation": "Fester Ausdruck 'in der Freizeit' (in free time)." },
+          "en": { "text": "In my free time ", "explanation": "Fixed expression." },
+          "uk": { "text": "У мій вільний час ", "explanation": "Сталий вираз." },
+          "cs": { "text": "Ve svém volném čase ", "explanation": "Pevné spojení." },
+          "ru": { "text": "В мое свободное время ", "explanation": "Устойчивое выражение." }
+        },
+        {
+          "de": { "text": "probiere ich gerne neue Hobbys aus." },
+          "en": { "text": "I like trying out new hobbies." },
+          "uk": { "text": "я з задоволенням випробовую нові хобі." },
+          "cs": { "text": "rád zkouším nové koníčky." },
+          "ru": { "text": "я с удовольствием пробую новые хобби." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Manchmal male ich bilde mit Aquarellfarben. ", "explanation": "Präsens von 'malen' (to paint)." },
+          "en": { "text": "Sometimes I paint pictures with watercolor paints. ", "explanation": "Present tense." },
+          "uk": { "text": "Іноді я малюю картини акварельніми фарбами. ", "explanation": "Теперішній час." },
+          "cs": { "text": "Někdy maluji obrazy vodovými barvami. ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Иногда я рисую картины акварельными красками. ", "explanation": "Настоящее время." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Das ist sehr entspannend ", "explanation": "Partizip I als Adjektiv ('entspannend' = relaxing)." },
+          "en": { "text": "That is very relaxing ", "explanation": "Participle as adjective." },
+          "uk": { "text": "Це дуже розслабляє ", "explanation": "Дієприкметник." },
+          "cs": { "text": "To je velmi relaxační ", "explanation": "Příčestí." },
+          "ru": { "text": "Это очень расслабляет ", "explanation": "Причастие." }
+        },
+        {
+          "de": { "text": "und man vergisst den Stress der Woche." },
+          "en": { "text": "and one forgets the stress of the week." },
+          "uk": { "text": "і ти забуваєш про стрес тижня." },
+          "cs": { "text": "a člověk zapomene na stres z týdne." },
+          "ru": { "text": "и забываешь о стрессе недели." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Nach dem Frühstück nehme ich mein Fahrrad ", "explanation": "Präsens von 'nehmen' (to take)." },
+          "en": { "text": "After breakfast I take my bicycle ", "explanation": "Present tense." },
+          "uk": { "text": "Після сніданку я беру свій велосипед ", "explanation": "Теперішній час." },
+          "cs": { "text": "Po snídani si vezmu kolo ", "explanation": "Přítomný čas." },
+          "ru": { "text": "После завтрака я беру свой велосипед ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und fahre in den großen Stadtpark." },
+          "en": { "text": "and ride into the big city park." },
+          "uk": { "text": "і їду у великий міський парк." },
+          "cs": { "text": "a jedu do velkého městského parku." },
+          "ru": { "text": "и еду в большой городской парк." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Wind weht mir leicht ins Gesicht ", "explanation": "Präsens von 'wehen' (to blow)." },
+          "en": { "text": "The wind blows gently in my face ", "explanation": "Present tense." },
+          "uk": { "text": "Вітер легко віє мені в обличчя ", "explanation": "Теперішній час." },
+          "cs": { "text": "Vítr mi lehce fouká do tváře ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Ветер легко дует мне в лицо ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und ich genieße die frische Luft." },
+          "en": { "text": "and I enjoy the fresh air." },
+          "uk": { "text": "і я насолоджуюся свіжим повітрям." },
+          "cs": { "text": "a užívám si čerstvý vzduch." },
+          "ru": { "text": "и я наслаждаюсь свежим воздухом." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Im Park joggen viele Menschen ", "explanation": "Präsens von 'joggen' (to jog)." },
+          "en": { "text": "Many people are jogging in the park ", "explanation": "Present tense." },
+          "uk": { "text": "У парку багато людей бігають трусою ", "explanation": "Теперішній час." },
+          "cs": { "text": "V parku běhá mnoho lidí ", "explanation": "Přítomný čas." },
+          "ru": { "text": "В парке много людей бегают трусцой ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "oder führen ihre Hunde Gassi." },
+          "en": { "text": "or walk their dogs." },
+          "uk": { "text": "або вигулюють своїх собак." },
+          "cs": { "text": "nebo venčí své psy." },
+          "ru": { "text": "или выгуливают своих собак." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Ich setze mich auf eine hölzerne Bank unter einer großen Eiche." },
+          "en": { "text": "I sit down on a wooden bench under a large oak tree." },
+          "uk": { "text": "Я сідаю на дерев'яну лавку під великим дубом." },
+          "cs": { "text": "Sednu si na dřevěnou lavičku pod velký dub." },
+          "ru": { "text": "Я сажусь на деревянную скамейку под большим дубом." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Aus meinem Rucksack hole ich ein kleines Notizbuch ", "explanation": "Trennbares Verb 'hervorholen' / 'holen'." },
+          "en": { "text": "From my backpack I take out a small notebook ", "explanation": "Separable verb 'to take out'." },
+          "uk": { "text": "З мого рюкзака я дістаю маленький блокнот ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Z batohu vytahuji malý zápisník ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Из моего рюкзака я достаю маленький блокнот ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und schreibe ein paar Gedanken auf." },
+          "en": { "text": "and write down a few thoughts." },
+          "uk": { "text": "і записую кілька думок." },
+          "cs": { "text": "a zapisuji si pár myšlenek." },
+          "ru": { "text": "и записываю пару мыслей." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": " Schreiben ist eine wunderbare kreative Beschäftigung." },
+          "en": { "text": "Writing is a wonderful creative activity." },
+          "uk": { "text": "Писати — це чудове творче заняття." },
+          "cs": { "text": "Psaní je nádherná tvůrčí činnost." },
+          "ru": { "text": "Писать — это замечательное творческое занятие." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Nach einer Stunde fahre ich weiter zum Supermarkt, ", "explanation": "Trennbares Verb 'weiterfahren' (to continue driving/riding)." },
+          "en": { "text": "After an hour I continue riding to the supermarket, ", "explanation": "Separable verb." },
+          "uk": { "text": "Через годину я їду далі до супермаркету, ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Po hodině jedu dál do supermarketu, ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Через час я еду дальше в супермаркет, ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "weil ich am Nachmittag kochen möchte." },
+          "en": { "text": "because I want to cook in the afternoon." },
+          "uk": { "text": "бо я хочу готувати вдень." },
+          "cs": { "text": "protože chci odpoledne vařit." },
+          "ru": { "text": "потому что я хочу готовить днем." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Kochen ist ein weiteres tolles Hobby von mir. " },
+          "en": { "text": "Cooking is another great hobby of mine. " },
+          "uk": { "text": "Кулінарія — ще одне моє чудове хобі. " },
+          "cs": { "text": "Vaření je můj další skvělý koníček. " },
+          "ru": { "text": "Кулинария — еще одно мое прекрасное хобби. " }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Heute gibt es Gemüsesuppe mit frischen Kräutern. ", "explanation": "Ausdruck 'es gibt' (there is/are)." },
+          "en": { "text": "Today there is vegetable soup with fresh herbs. ", "explanation": "Expression 'there is'." },
+          "uk": { "text": "Сьогодні буде овочевий суп зі свіжими травами. ", "explanation": "Вираз 'є/буде'." },
+          "cs": { "text": "Dnes bude zeleninová polévka s čerstvými bylinkami. ", "explanation": "Výraz 'je'." },
+          "ru": { "text": "Сегодня будет овощной суп со свежими травами. ", "explanation": "Выражение 'есть'." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Im Laden kaufe ich Karotten, Kartoffeln und Sellerie." },
+          "en": { "text": "In the shop I buy carrots, potatoes, and celery." },
+          "uk": { "text": "У магазині я купую моркву, картоплю та селеру." },
+          "cs": { "text": "V obchodě kupuji mrkev, brambory a celer." },
+          "ru": { "text": "В магазине я покупаю морковь, картофель и сельдерей." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Wieder zu Hause angekommen, ", "explanation": "Partizip II Perfekt ('angekommen')." },
+          "en": { "text": "Arrived back home, ", "explanation": "Past participle." },
+          "uk": { "text": "Повернувшись додому, ", "explanation": "Дієприкметник." },
+          "cs": { "text": "Po návratu domů, ", "explanation": "Příčestí." },
+          "ru": { "text": "Вернувшись домой, ", "explanation": "Причастие." }
+        },
+        {
+          "de": { "text": "ziehe ich meine Gitarre aus dem Koffer." },
+          "en": { "text": "I take my guitar out of the case." },
+          "uk": { "text": "я дістаю свою гітару з чохла." },
+          "cs": { "text": "vyndavám kytaru z pouzdra." },
+          "ru": { "text": "я достаю свою гитару из чехла." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Musik machen entspannt mich ebenfalls sehr. ", "explanation": "Präsens von 'machen' (to make/do)." },
+          "en": { "text": "Making music also relaxes me a lot. ", "explanation": "Present tense." },
+          "uk": { "text": "Заняття музикою також мене дуже розслабляє. ", "explanation": "Теперішній час." },
+          "cs": { "text": "Hraní hudby mě také velmi uvolňuje. ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Занятия музыкой тоже меня очень расслабляют. ", "explanation": "Настоящее время." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Ich spiele ein paar einfache Akkorde ", "explanation": "Nominativ/Akkusativ Plural." },
+          "en": { "text": "I play a few simple chords ", "explanation": "Plural accusative." },
+          "uk": { "text": "Я граю кілька простих акордів ", "explanation": "Множина." },
+          "cs": { "text": "Hraji pár jednoduchých akordů ", "explanation": "Množné číslo." },
+          "ru": { "text": "Я играю пару простых аккордов ", "explanation": "Множественное число." }
+        },
+        {
+          "de": { "text": "und summe ein ruhiges Lied dazu." },
+          "en": { "text": "and hum a quiet song along with it." },
+          "uk": { "text": "і наспівую тиху пісню під них." },
+          "cs": { "text": "a broukám si k tomu klidnou písničku." },
+          "ru": { "text": "и напеваю спокойную песню под них." }
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "segments": [
+        {
+          "de": { "text": "Der gemütliche Abend", "explanation": "Zwischenüberschrift." },
+          "en": { "text": "The cozy evening", "explanation": "Subheading." },
+          "uk": { "text": "Затишний вечір", "explanation": "Підзаголовок." },
+          "cs": { "text": "Útulný večer", "explanation": "Podnadpis." },
+          "ru": { "text": "Уютный вечер", "explanation": "Подзаголовок." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Am Abend schalte ich das Radio ein ", "explanation": "Trennbares Verb 'einschalten' (to switch on)." },
+          "en": { "text": "In the evening I switch on the radio ", "explanation": "Separable verb." },
+          "uk": { "text": "Ввечері я вмикаю радіо ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Večer zapínám rádio ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Вечером я включаю радио ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und lese ein spannendes Buch auf dem Sofa." },
+          "en": { "text": "and read an exciting book on the sofa." },
+          "uk": { "text": "і читаю захоплюючу книгу на дивані." },
+          "cs": { "text": "a čtu si napínavou knihu na pohovce." },
+          "ru": { "text": "и читаю захватывающую книгу на диване." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Ein freier Sonntag ist einfach das Beste ", "explanation": "Superlativ 'das Beste' (the best)." },
+          "en": { "text": "A free Sunday is simply the best ", "explanation": "Superlative." },
+          "uk": { "text": "Вільна неділя — це просто найкраще ", "explanation": "Суперлятив." },
+          "cs": { "text": "Volná neděle je prostě to nejlepší ", "explanation": "Superlativ." },
+          "ru": { "text": "Свободное воскресенье — это просто лучшее ", "explanation": "Превосходная степень." },
+          "ex": { "de": "Das ist das Beste." }
+        },
+        {
+          "de": { "text": "um neue Energie für die neue Woche zu tanken." },
+          "en": { "text": "to recharge new energy for the new week." },
+          "uk": { "text": "щоб набратися нової енергії на новий тиждень." },
+          "cs": { "text": "k nabrání nové energie na nový týden." },
+          "ru": { "text": "чтобы зарядиться новой энергией на новую неделю." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Morgen früh geht der Wecker wieder los, ", "explanation": "Trennbares Verb 'losgehen' (to start/go off)." },
+          "en": { "text": "Tomorrow morning the alarm clock goes off again, ", "explanation": "Separable verb." },
+          "uk": { "text": "Завтра вранці будильник знову здзвонить, ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Zítra ráno budík zase zazvoní, ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Завтра утром будильник снова зазвонит, ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "aber das stört mich heute überhaupt nicht." },
+          "en": { "text": "but that doesn't bother me at all today." },
+          "uk": { "text": "але мене це сьогодні зовсім не турбує." },
+          "cs": { "text": "ale to mě dnes vůbec neruší." },
+          "ru": { "text": "но меня это сегодня совсем не беспокоит." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Ich schließe die Augen ", "explanation": "Präsens von 'schließen' (to close)." },
+          "en": { "text": "I close my eyes ", "explanation": "Present tense." },
+          "uk": { "text": "Я заплющую очі ", "explanation": "Теперішній час." },
+          "cs": { "text": "Zavírám oči ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Я закрываю глаза ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und freue mich schon auf den nächsten Sonntag." },
+          "en": { "text": "and am already looking forward to next Sunday." },
+          "uk": { "text": "і вже чекаю на наступну неділю." },
+          "cs": { "text": "a už se těším na příští neděli." },
+          "ru": { "text": "и уже жду следующее воскресенье." }
+        }
+      ]
+    }
+  ]
+}

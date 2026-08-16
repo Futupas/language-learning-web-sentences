@@ -1,16 +1,16 @@
 {
   "id": "text_2",
-  "metadata": "Source: Everyday Life",
+  "metadata": "Source: Real-Life Conversations (A1 Level - Longform 2)",
   "blocks": [
     {
       "type": "h1",
       "segments": [
         {
-          "de": { "text": "Das ist meine Familie.", "explanation": "Demonstrativpronomen 'das'." },
-          "en": { "text": "This is my family.", "explanation": "Demonstrative pronoun 'das'." },
-          "uk": { "text": "Це моя сім'я.", "explanation": "Вказівний займенник 'das'." },
-          "cs": { "text": "Toto je moje rodina.", "explanation": "Ukazovací zájmeno." },
-          "ru": { "text": "Это моя семья.", "explanation": "Указательное местоимение." }
+          "de": { "text": "Ein gemütlicher Sonntag", "explanation": "Titel der Geschichte." },
+          "en": { "text": "A cozy Sunday", "explanation": "Title of the story." },
+          "uk": { "text": "Затишна неділя", "explanation": "Назва історії." },
+          "cs": { "text": "Útulná neděle", "explanation": "Název příběhu." },
+          "ru": { "text": "Уютное воскресенье", "explanation": "Название истории." }
         }
       ]
     },
@@ -18,25 +18,271 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Mein Vater ", "explanation": "Nominativ, männlich." },
-          "en": { "text": "My father ", "explanation": "Nominative, masculine." },
-          "uk": { "text": "Мій батько ", "explanation": "Називний відмінок, чоловічий рід." },
-          "cs": { "text": "Můj otec ", "explanation": "Nominativ, mužský rod." },
-          "ru": { "text": "Мой отец ", "explanation": "Именительный падеж, мужской род." }
+          "de": { "text": "Sonntagmorgen in München. ", "explanation": "Zusammengesetztes Nomen." },
+          "en": { "text": "Sunday morning in Munich. ", "explanation": "Compound noun." },
+          "uk": { "text": "Недільний ранок у Мюнхені. ", "explanation": "Складний іменник." },
+          "cs": { "text": "Nedělní ráno v Mnichově. ", "explanation": "Složené podstatné jméno." },
+          "ru": { "text": "Воскресное утро в Мюнхене. ", "explanation": "Сложное существительное." }
         },
         {
-          "de": { "text": "heißt Peter ", "explanation": "Das Verb 'heißen' (to be called)." },
-          "en": { "text": "is named Peter ", "explanation": "The verb 'heißen' (to be called)." },
-          "uk": { "text": "називається Петер ", "explanation": "Дієслово 'heißen'." },
-          "cs": { "text": "se jmenuje Petr ", "explanation": "Sloveso 'jmenovat se'." },
-          "ru": { "text": "зовут Петер ", "explanation": "Глагол 'heißen'." }
+          "de": { "text": "Die Straßen sind noch wunderbar ruhig ", "explanation": "Adjektiv 'ruhig' (quiet)." },
+          "en": { "text": "The streets are still wonderfully quiet ", "explanation": "Adjective 'quiet'." },
+          "uk": { "text": "Вулиці ще напрочуд тихі ", "explanation": "Прикметник." },
+          "cs": { "text": "Ulice jsou stále nádherně tiché ", "explanation": "Přídavné jméno." },
+          "ru": { "text": "Улицы все еще удивительно тихие ", "explanation": "Прилагательное." }
         },
         {
-          "de": { "text": "und er arbeitet als Arzt.", "explanation": "Berufsbezeichnungen stehen im Deutschen ohne Artikel." },
-          "en": { "text": "and he works as a doctor.", "explanation": "Profession titles in German don't take articles." },
-          "uk": { "text": "і він працює лікарем.", "explanation": "Назви професій вживаються без артикля." },
-          "cs": { "text": "a pracuje jako lékař.", "explanation": "Názvy povolání se uvádějí bez členu." },
-          "ru": { "text": "и он работает врачом.", "explanation": "Названия профессий используются без артикля." }
+          "de": { "text": "weil die meisten Geschäfte geschlossen sind." },
+          "en": { "text": "because most shops are closed." },
+          "uk": { "text": "бо більшість магазинів зачинені." },
+          "cs": { "text": "protože většina obchodů je zavřená." },
+          "ru": { "text": "потому что большинство магазинов закрыты." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "In der kleinen Küche der Familie Weber ", "explanation": "Genitiv der Zugehörigkeit." },
+          "en": { "text": "In the small kitchen of the Weber family ", "explanation": "Genitive of possession." },
+          "uk": { "text": "У невеличкій кухні родини Вебер ", "explanation": "Родовий відмінок належності." },
+          "cs": { "text": "V malé kuchyni rodiny Weberových ", "explanation": "Genitiv přivlastňovací." },
+          "ru": { "text": "В маленькой кухне семьи Вебер ", "explanation": "Родительный падеж принадлежности." }
+        },
+        {
+          "de": { "text": "riecht es herrlich nach frischem Kaffee ", "explanation": "Unpersönliches 'es riecht nach' + Dativ." },
+          "en": { "text": "it smells wonderfully of fresh coffee ", "explanation": "Impersonal expression." },
+          "uk": { "text": "чудово пахне свіжою кавою ", "explanation": "Безособовий вираз." },
+          "cs": { "text": "to úžasně voní čerstvou kávou ", "explanation": "Neosobní výraz." },
+          "ru": { "text": "восхитительно пахнет свежим кофе ", "explanation": "Безличное выражение." }
+        },
+        {
+          "de": { "text": "und warmen Brötchen." },
+          "en": { "text": "and warm rolls." },
+          "uk": { "text": "та теплими булочками." },
+          "cs": { "text": "a teplými houstičkami." },
+          "ru": { "text": "и теплыми булочками." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Thomas steht am Herd ", "explanation": "Präposition 'an' + Dativ." },
+          "en": { "text": "Thomas stands at the stove ", "explanation": "Preposition 'an' + dative." },
+          "uk": { "text": "Томас стоїть біля плити ", "explanation": "Прийменник 'an' з давальним відмінком." },
+          "cs": { "text": "Thomas stojí u sporáku ", "explanation": "Předložka s dativem." },
+          "ru": { "text": "Томас стоит у плиты ", "explanation": "Предлог 'an' с дательным падежом." }
+        },
+        {
+          "de": { "text": "und brät vier Eier in einer Pfanne. ", "explanation": "Präsens von 'braten' (to fry)." },
+          "en": { "text": "and fries four eggs in a pan. ", "explanation": "Present tense of 'to fry'." },
+          "uk": { "text": "і смажить чотири яйця на пательні. ", "explanation": "Теперішній час." },
+          "cs": { "text": "a smaží čtyři vajec na pánvi. ", "explanation": "Přítomný čas." },
+          "ru": { "text": "и жарит четыре яйца на сковороде. ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "Neben ihm sitzt seine Frau Sarah." },
+          "en": { "text": "Next to him sits his wife Sarah." },
+          "uk": { "text": "Поруч з ним сидить його дружина Сара." },
+          "cs": { "text": "Vedle něj sedí jeho žena Sarah." },
+          "ru": { "text": "Рядом с ним сидит его жена Сара." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sarah liest die Sonntagszeitung ", "explanation": "Akkusativ Femininum ('die Sonntagszeitung')." },
+          "en": { "text": "Sarah reads the Sunday newspaper ", "explanation": "Accusative feminine." },
+          "uk": { "text": "Сара читає недільну газету ", "explanation": "Знахідний відмінок." },
+          "cs": { "text": "Sarah čte nedělní noviny ", "explanation": "Akuzativ." },
+          "ru": { "text": "Сара читает воскресную газету ", "explanation": "Винительный падеж." }
+        },
+        {
+          "de": { "text": "und trinkt eine Tasse schwarzen Tee. ", "explanation": "Genitiv der Menge ('eine Tasse Tee')." },
+          "en": { "text": "and drinks a cup of black tea. ", "explanation": "Genitive of quantity." },
+          "uk": { "text": "і п'є чашку чорного чаю. ", "explanation": "Родовий відмінок кількості." },
+          "cs": { "text": "a pije šálek černého čaje. ", "explanation": "Genitiv množství." },
+          "ru": { "text": "и пьет чашку черного чая. ", "explanation": "Родительный падеж количества." }
+        },
+        {
+          "de": { "text": "'Hast du gut geschlafen, Schatz?' fragt Thomas." },
+          "en": { "text": "'Did you sleep well, darling?' asks Thomas." },
+          "uk": { "text": "'Ти добре спала, кохана?' запитує Томас." },
+          "cs": { "text": "'Spala jsi dobře, miláčku?' ptá se Thomas." },
+          "ru": { "text": "'Ты хорошо спала, дорогая?' спрашивает Томас." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sarah nickt lächelnd. ", "explanation": "Partizip I als Adverb ('lächelnd' = smilingly)." },
+          "en": { "text": "Sarah nods smilingly. ", "explanation": "Participle used as adverb." },
+          "uk": { "text": "Сара посміхаючись киває. ", "explanation": "Дієприкметник." },
+          "cs": { "text": "Sarah s úsměvem přikývne. ", "explanation": "Přechodník/příčestí." },
+          "ru": { "text": "Сара с улыбкой кивает. ", "explanation": "Причастие." }
+        },
+        {
+          "de": { "text": "'Ja, wunderbar. ", "explanation": "Adverb 'wunderbar' (wonderfully)." },
+          "en": { "text": "'Yes, wonderfully. ", "explanation": "Adverb 'wonderfully'." },
+          "uk": { "text": "'Так, чудово. ", "explanation": "Прислівник." },
+          "cs": { "text": "'Ano, skvěle. ", "explanation": "Příslovce." },
+          "ru": { "text": "'Да, прекрасно. ", "explanation": "Наречие." }
+        },
+        {
+          "de": { "text": "Kein Wecker, keine Eile, keine Termine.'" },
+          "en": { "text": "No alarm clock, no hurry, no appointments.'" },
+          "uk": { "text": "Жодного будильника, жодного поспіху, жодних зустрічей.'" },
+          "cs": { "text": "Žádný budík, žádný spěch, žádné schůzky.'" },
+          "ru": { "text": "Никакого будильника, никакой спешки, никаких встреч.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Plötzlich rennt die kleine Mia ", "explanation": "Präsens von 'rennen' (to run)." },
+          "en": { "text": "Suddenly little Mia runs ", "explanation": "Present tense of 'to run'." },
+          "uk": { "text": "Раптом маленька Міа біжить ", "explanation": "Теперішній час." },
+          "cs": { "text": "Náhle přiběhne malá Mia ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Вдруг прибегает маленькая Миа " }
+        },
+        {
+          "de": { "text": "in Schlafanzug und Hausschuhen in die Küche. ", "explanation": "Präposition 'in' + Akkusativ." },
+          "en": { "text": "in her pajamas and slippers into the kitchen. ", "explanation": "Preposition 'in' + accusative." },
+          "uk": { "text": "у піжамі та тапочках на кухню. ", "explanation": "Прийменник напрямку." },
+          "cs": { "text": "v pyžamu a bačkorách do kuchyně. ", "explanation": "Předložka směru." },
+          "ru": { "text": "в пижаме и тапочках на кухню. ", "explanation": "Предлог направления." }
+        },
+        {
+          "de": { "text": "'Papa, Mama! Ich habe Hunger!'" },
+          "en": { "text": "'Daddy, Mommy! I'm hungry!'" },
+          "uk": { "text": "'Тату, мамо! Я хочу їсти!'" },
+          "cs": { "text": "'Tati, mami! Mám hlad!'" },
+          "ru": { "text": "'Папа, мама! Я хочу есть!'" }
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "segments": [
+        {
+          "de": { "text": "Der Plan für den Nachmittag", "explanation": "Zwischenüberschrift." },
+          "en": { "text": "The plan for the afternoon", "explanation": "Subheading." },
+          "uk": { "text": "План на після обіду", "explanation": "Підзаголовок." },
+          "cs": { "text": "Plán na odpoledne", "explanation": "Podnadpis." },
+          "ru": { "text": "План на послеполудное время", "explanation": "Подзаголовок." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Thomas lacht ", "explanation": "Präsens von 'lachen' (to laugh)." },
+          "en": { "text": "Thomas laughs ", "explanation": "Present tense of 'to laugh'." },
+          "uk": { "text": "Томас сміється ", "explanation": "Теперішній час." },
+          "cs": { "text": "Thomas se směje ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Томас смеется ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und gibt seiner Tochter einen Kuss auf die Wange. ", "explanation": "Dativobjekt 'seiner Tochter'." },
+          "en": { "text": "and gives his daughter a kiss on the cheek. ", "explanation": "Dative object." },
+          "uk": { "text": "і цілує доньку в щоку. ", "explanation": "Давальний відмінок." },
+          "cs": { "text": "a dá své dceři pusu na tvář. ", "explanation": "Dativ." },
+          "ru": { "text": "и целует дочь в щеку. ", "explanation": "Дательный падеж." }
+        },
+        {
+          "de": { "text": "'Das Frühstück ist in zwei Minuten fertig, mein Schatz.'" },
+          "en": { "text": "'Breakfast is ready in two minutes, my darling.'" },
+          "uk": { "text": "'Сніданок буде готовий за дві хвилини, скарбе.'" },
+          "cs": { "text": "'Snídaně bude hotová za dvě minuty, miláčku.'" },
+          "ru": { "text": "'Завтрак будет готов через две минуты, дорогая.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Nach dem Essen ", "explanation": "Präposition 'nach' + Dativ." },
+          "en": { "text": "After eating ", "explanation": "Preposition 'nach' + dative." },
+          "uk": { "text": "Після їжі ", "explanation": "Прийменник 'nach'." },
+          "cs": { "text": "Po jídle ", "explanation": "Předložka 'nach'." },
+          "ru": { "text": "После еды ", "explanation": "Предлог 'nach'." }
+        },
+        {
+          "de": { "text": "wollen alle zusammen in den Park gehen. ", "explanation": "Modalverb 'wollen' + Infinitiv am Satzende." },
+          "en": { "text": "everyone wants to go to the park together. ", "explanation": "Modal verb at the end." },
+          "uk": { "text": "всі хочуть разом піти до парку. ", "explanation": "Модальне дієслово в кінці речення." },
+          "cs": { "text": "chtějí jít všichni společně do parku. ", "explanation": "Modální sloveso na konci." },
+          "ru": { "text": "все хотят вместе пойти в парк. ", "explanation": "Модальный глагол в конце предложения." }
+        },
+        {
+          "de": { "text": "Das Wetter ist dafür perfekt." },
+          "en": { "text": "The weather is perfect for that." },
+          "uk": { "text": "Погода для цього ідеальна." },
+          "cs": { "text": "Počasí je k tomu perfektní." },
+          "ru": { "text": "Погода для этого идеальна." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Im Park gibt es einen großen Spielplatz ", "explanation": "Unpersönliches 'es gibt' (there is/are)." },
+          "en": { "text": "In the park there is a big playground ", "explanation": "Impersonal 'there is'." },
+          "uk": { "text": "У парку є великий дитячий майданчик ", "explanation": "Безособовий зворот." },
+          "cs": { "text": "V parku je velké hřiště ", "explanation": "Neosobní vazba." },
+          "ru": { "text": "В парке есть большая детская площадка ", "explanation": "Безличный оборот." }
+        },
+        {
+          "de": { "text": "und Mia liebt es, ", "explanation": "Konstruktion 'lieben zu' / Infinitiv." },
+          "en": { "text": "and Mia loves it ", "explanation": "Construction with infinitive." },
+          "uk": { "text": "і Міа обожнює ", "explanation": "Конструкція з інфінітивом." },
+          "cs": { "text": "a Mia miluje ", "explanation": "Konstrukce s infinitivem." },
+          "ru": { "text": "и Миа обожает ", "explanation": "Конструкция с инфинитивом." }
+        },
+        {
+          "de": { "text": "auf der Schaukel zu sitzen." },
+          "en": { "text": "to sit on the swing." },
+          "uk": { "text": "сидіти на гойдалці." },
+          "cs": { "text": "sedět na houpačce." },
+          "ru": { "text": "сидеть на качелях." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sarah packt eine Decke ein ", "explanation": "Trennbares Verb 'einpacken' (to pack/wrap up)." },
+          "en": { "text": "Sarah packs a blanket ", "explanation": "Separable verb 'einpacken'." },
+          "uk": { "text": "Сара бере ковдру ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Sarah balí deku ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Сара берет плед ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und ein paar Äpfel für unterwegs. ", "explanation": "Fester Ausdruck 'für unterwegs' (for on the way)." },
+          "en": { "text": "and a few apples for on the way. ", "explanation": "Fixed expression." },
+          "uk": { "text": "і кілька яблук в дорогу. ", "explanation": "Сталий вираз." },
+          "cs": { "text": "a pár jablek na cestu. ", "explanation": "Pevné spojení." },
+          "ru": { "text": "и пару яблок в дорогу. ", "explanation": "Устойчивое выражение." }
+        },
+        {
+          "de": { "text": "So sieht perfektes Familienglück aus." },
+          "en": { "text": "This is what perfect family happiness looks like." },
+          "uk": { "text": "Ось так виглядає ідеальне сімейне щастя." },
+          "cs": { "text": "Takto vypadá dokonalé rodinné štěstí." },
+          "ru": { "text": "Вот так выглядит идеальное семейное счастье." }
         }
       ]
     }

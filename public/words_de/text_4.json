@@ -1,0 +1,327 @@
+{
+  "id": "text_4",
+  "metadata": "Source: Real-Life Conversations (A1 Level - Longform 4)",
+  "blocks": [
+    {
+      "type": "h1",
+      "segments": [
+        {
+          "de": { "text": "Verirrt in der Großstadt", "explanation": "Titel der Geschichte." },
+          "en": { "text": "Lost in the big city", "explanation": "Title of the story." },
+          "uk": { "text": "Загубився у великому місті", "explanation": "Назва історії." },
+          "cs": { "text": "Ztraceni ve velkém městě", "explanation": "Název příběhu." },
+          "ru": { "text": "Заблудился в большом городе", "explanation": "Название истории." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Es ist Montagvormittag ", "explanation": "Zusammengesetztes Nomen." },
+          "en": { "text": "It is Monday morning ", "explanation": "Compound noun." },
+          "uk": { "text": "Понеділок ранок ", "explanation": "Складний іменник." },
+          "cs": { "text": "Je pondělní dopoledne ", "explanation": "Složené podstatné jméno." },
+          "ru": { "text": "Понедельник утро ", "explanation": "Сложное существительное." }
+        },
+        {
+          "de": { "text": "und Tom steht am großen Hauptbahnhof von Frankfurt. ", "explanation": "Präposition 'an' + Dativ." },
+          "en": { "text": "and Tom stands at the big central station of Frankfurt. ", "explanation": "Preposition 'an' + dative." },
+          "uk": { "text": "і Том стоїть на великому головному вокзалі Франкфурта. ", "explanation": "Прийменник 'an'." },
+          "cs": { "text": "a Tom stojí na velkém hlavním nádraží ve Frankfurtu. ", "explanation": "Předložka 'an'." },
+          "ru": { "text": "и Том стоит на большом главном вокзале Франкфурта. ", "explanation": "Предлог 'an'." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er hat einen wichtigen Termin in der Innenstadt, ", "explanation": "Akkusativ Maskulinum ('einen wichtigen Termin')." },
+          "en": { "text": "He has an important appointment downtown, ", "explanation": "Accusative masculine." },
+          "uk": { "text": "У нього важлива зустріч у центрі міста, ", "explanation": "Знахідний відмінок." },
+          "cs": { "text": "Má důležitou schůzku v centru města, ", "explanation": "Akuzativ." },
+          "ru": { "text": "У него важная встреча в центре города, ", "explanation": "Винительный падеж." }
+        },
+        {
+          "de": { "text": "aber er war noch nie hier." },
+          "en": { "text": "but he has never been here before." },
+          "uk": { "text": "але він тут ще ніколи не був." },
+          "cs": { "text": "ale nikdy předtím tu nebyl." },
+          "ru": { "text": "но он никогда раньше здесь не был." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Überall rennen Menschen mit großen Koffern ", "explanation": "Präposition 'mit' + Dativ Plural." },
+          "en": { "text": "Everywhere people are running with big suitcases ", "explanation": "Preposition 'mit' + dative plural." },
+          "uk": { "text": "Скрізь бігають люди з великими валізами ", "explanation": "Прийменник 'mit'." },
+          "cs": { "text": "Všude běhají lidé s velkými kufry ", "explanation": "Předložka 'mit'." },
+          "ru": { "text": "Везде бегают люди с большими чемоданами ", "explanation": "Предлог 'mit'." }
+        },
+        {
+          "de": { "text": "und lauten Stimmen vorbei." },
+          "en": { "text": "and loud voices." },
+          "uk": { "text": "та гучними голосами." },
+          "cs": { "text": "a hlasitými hlasy." },
+          "ru": { "text": "и громкими голосами." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Tom kratzt sich am Kopf ", "explanation": "Reflexives Verb 'sich kratzen' (to scratch oneself)." },
+          "en": { "text": "Tom scratches his head ", "explanation": "Reflexive verb." },
+          "uk": { "text": "Том чухає голову ", "explanation": "Зворотне дієслово." },
+          "cs": { "text": "Tom se škrabe na hlavě ", "explanation": "Zvratné sloveso." },
+          "ru": { "text": "Том чешет голову ", "explanation": "Возвратный глагол." }
+        },
+        {
+          "de": { "text": "und betrachtet den großen Fahrkartenautomaten." },
+          "en": { "text": "and looks at the big ticket machine." },
+          "uk": { "text": "і розглядає великий автомат для продажу квитків." },
+          "cs": { "text": "a prohlíží si velký jízdenkový automat." },
+          "ru": { "text": "и рассматривает большой билетный автомат." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Bildschirm zeigt hundert verschiedene Optionen. ", "explanation": "Nominativ Plural." },
+          "en": { "text": "The screen shows a hundred different options. ", "explanation": "Nominative plural." },
+          "uk": { "text": "Екран показує сотню різних варіантів. ", "explanation": "Називний відмінок." },
+          "cs": { "text": "Obrazovka ukazuje sto různých možností. ", "explanation": "Nominativ." },
+          "ru": { "text": "Экран показывает сотню разных вариантов. ", "explanation": "Именительный падеж." }
+        },
+        {
+          "de": { "text": "Das ist viel zu kompliziert für einen Montagmorgen." },
+          "en": { "text": "That is way too complicated for a Monday morning." },
+          "uk": { "text": "Це занадто складно для понеділка вранці." },
+          "cs": { "text": "To je na pondělní ráno až příliš složité." },
+          "ru": { "text": "Это слишком сложно для понедельника утром." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er braucht eine einfache Einzelfahrkarte ", "explanation": "Genitiv der Art ('eine Fahrkarte')." },
+          "en": { "text": "He needs a simple single ticket ", "explanation": "Accusative object." },
+          "uk": { "text": "Йому потрібен простий квиток в один кінець ", "explanation": "Знахідний об'єкт." },
+          "cs": { "text": "Potřebuje jednoduchou jednosměrnou jízdenku ", "explanation": "Akuzativ." },
+          "ru": { "text": "Ему нужен простой билет в один конец ", "explanation": "Винительный объект." }
+        },
+        {
+          "de": { "text": "für die Zone Eins." },
+          "en": { "text": "for zone one." },
+          "uk": { "text": "для першої зони." },
+          "cs": { "text": "pro zónu jedna." },
+          "ru": { "text": "для первой зоны." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Nach langem Suchen findet er endlich den richtigen Knopf. ", "explanation": "Präposition 'nach' + Dativ." },
+          "en": { "text": "After searching for a long time, he finally finds the right button. ", "explanation": "Preposition 'nach' + dative." },
+          "uk": { "text": "Після довгих пошуків він нарешті знаходить правильну кнопку. ", "explanation": "Прийменник 'nach'." },
+          "cs": { "text": "Po dlouhém hledání konečně najde správné tlačítko. ", "explanation": "Předložka 'nach'." },
+          "ru": { "text": "После долгих поисков он наконец находит правильную кнопку. ", "explanation": "Предлог 'nach'." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Drei Euro fünfzig,' ", "explanation": "Preisangabe." },
+          "en": { "text": "'Three euros fifty,' ", "explanation": "Price statement." },
+          "uk": { "text": "'Три євро п'ятдесят,' ", "explanation": "Ціна." },
+          "cs": { "text": "'Tři euro padesát,' ", "explanation": "Cena." },
+          "ru": { "text": "'Три евро пятьдесят,' ", "explanation": "Цена." }
+        },
+        {
+          "de": { "text": "sagt der Automat mit einer elektronischen Stimme." },
+          "en": { "text": "says the machine in an electronic voice." },
+          "uk": { "text": "каже автомат електронним голосом." },
+          "cs": { "text": "říká automat elektronickým hlasem." },
+          "ru": { "text": "говорит автомат электронным голосом." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Tom greift in seine Hosentasche ", "explanation": "Präposition 'in' + Akkusativ." },
+          "en": { "text": "Tom reaches into his trouser pocket ", "explanation": "Preposition 'in' + accusative." },
+          "uk": { "text": "Том засуває руку в кишеню штанів ", "explanation": "Прийменник 'in'." },
+          "cs": { "text": "Tom sahá do kapsy kalhot ", "explanation": "Předložka 'in'." },
+          "ru": { "text": "Том запускает руку в карман брюк ", "explanation": "Предлог 'in'." }
+        },
+        {
+          "de": { "text": "und sucht nach Münzen." },
+          "en": { "text": "and searches for coins." },
+          "uk": { "text": "і шукає монети." },
+          "cs": { "text": "a hledá mince." },
+          "ru": { "text": "и ищет монеты." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er hat nur einen Zehn-Euro-Schein ", "explanation": "Akkusativ Maskulinum ('einen Schein')." },
+          "en": { "text": "He only has a ten-euro bill ", "explanation": "Accusative masculine." },
+          "uk": { "text": "У нього є лише купюра в десять євро ", "explanation": "Знахідний відмінок." },
+          "cs": { "text": "Má jen desetieurovou bankovku ", "explanation": "Akuzativ." },
+          "ru": { "text": "У него есть только купюра в десять евро ", "explanation": "Винительный падеж." }
+        },
+        {
+          "de": { "text": "und der Automat akzeptiert ihn natürlich nicht sofort." },
+          "en": { "text": "and the machine naturally doesn't accept it immediately." },
+          "uk": { "text": "і автомат її, звісно ж, приймає не одразу." },
+          "cs": { "text": "a automat ji samozřejmě hned nepřijme." },
+          "ru": { "text": "и автомат ее, конечно же, принимает не сразу." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Typisch! ", "explanation": "Ausruf." },
+          "en": { "text": "Typical! ", "explanation": "Exclamation." },
+          "uk": { "text": "Типово! ", "explanation": "Вигук." },
+          "cs": { "text": "Typické! ", "explanation": "Zvolání." },
+          "ru": { "text": "Типично! ", "explanation": "Восклицание." }
+        },
+        {
+          "de": { "text": "Nach dem dritten Versuch fällt die Fahrkarte endlich heraus." },
+          "en": { "text": "After the third attempt, the ticket finally drops out." },
+          "uk": { "text": "Після третьої спроби квиток нарешті випадає." },
+          "cs": { "text": "Po třetím pokusu jízdenka konečně vypadne." },
+          "ru": { "text": "После третьей попытки билет наконец выпадает." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Jetzt muss er schnell das Gleis finden. ", "explanation": "Modalverb 'müssen'." },
+          "en": { "text": "Now he has to quickly find the platform. ", "explanation": "Modal verb." },
+          "uk": { "text": "Тепер він повинен швидко знайти колію. ", "explanation": "Модальне дієслово." },
+          "cs": { "text": "Teď musí rychle najít nástupiště. ", "explanation": "Modální sloveso." },
+          "ru": { "text": "Теперь он должен быстро найти платформу. ", "explanation": "Модальный глагол." }
+        },
+        {
+          "de": { "text": "Auf dem Ticket steht: Gleis vierzehn." },
+          "en": { "text": "On the ticket it says: Platform fourteen." },
+          "uk": { "text": "На квитку написано: колія чотирнадцять." },
+          "cs": { "text": "Na lístku stojí: Nástupiště čtrnáct." },
+          "ru": { "text": "На билете написано: платформа четырнадцать." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Tom rennt die Rolltreppe hinunter ", "explanation": "Rrichtungsverb." },
+          "en": { "text": "Tom runs down the escalator ", "explanation": "Directional verb." },
+          "uk": { "text": "Том біжить вниз ескалатором ", "explanation": "Дієслово руху." },
+          "cs": { "text": "Tom běží dolů po eskalátoru ", "explanation": "Sloveso pohybu." },
+          "ru": { "text": "Том бежит вниз по эскалатору ", "explanation": "Глагол движения." }
+        },
+        {
+          "de": { "text": "und folgt den blauen Schildern an der Decke." },
+          "en": { "text": "and follows the blue signs on the ceiling." },
+          "uk": { "text": "і слідує за синіми вказівниками на стелі." },
+          "cs": { "text": "a sleduje modré tabule na stropě." },
+          "ru": { "text": "и следует за синими указателями на потолке." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Die S-Bahn fährt in zwei Minuten ab. ", "explanation": "Trennbares Verb 'abfahren' (to depart)." },
+          "en": { "text": "The S-Bahn departs in two minutes. ", "explanation": "Separable verb 'abfahren'." },
+          "uk": { "text": "Міська електричка відправляється за дві хвилини. ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "S-Bahn odjíždí za dvě minuty. ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Городская электричка отправляется через две минуты. ", "explanation": "Глагол с приставкой." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er springt gerade noch rechtzeitig in den Zug, ", "explanation": "Fester Ausdruck 'rechtzeitig' (just in time)." },
+          "en": { "text": "He jumps into the train just in time, ", "explanation": "Fixed expression." },
+          "uk": { "text": "Він застрибує в поїзд якраз вчасно, ", "explanation": "Сталий вираз." },
+          "cs": { "text": "Skočí do vlaku tak akorát včas, ", "explanation": "Pevné spojení." },
+          "ru": { "text": "Он запрыгивает в поезд как раз вовремя, ", "explanation": "Устойчивое выражение." }
+        },
+        {
+          "de": { "text": "bevor sich die Türen schließen." },
+          "en": { "text": "before the doors close." },
+          "uk": { "text": "перш ніж двері зачиняться." },
+          "cs": { "text": "než se dveře zavřou." },
+          "ru": { "text": "прежде чем двери закроются." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Puh! Er atmet tief aus ", "explanation": "Trennbares Verb 'ausatmen' (to exhale)." },
+          "en": { "text": "Phew! He exhales deeply ", "explanation": "Separable verb." },
+          "uk": { "text": "Фу! Він глибоко видихає ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Fú! Zhluboka vydýchne ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Фу! Он глубоко выдыхает ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und sucht sich einen freien Sitzplatz." },
+          "en": { "text": "and looks for a vacant seat." },
+          "uk": { "text": "і шукає собі вільне місце для сидіння." },
+          "cs": { "text": "a hledá si volné místo k sezení." },
+          "ru": { "text": "и ищет себе свободное сидячее место." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Jetzt kann der Termin kommen. ", "explanation": "Modalverb 'können'." },
+          "en": { "text": "Now the appointment can come. ", "explanation": "Modal verb." },
+          "uk": { "text": "Тепер зустріч може починатися. ", "explanation": "Модальне дієслово." },
+          "cs": { "text": "Teď může schůzka přijít. ", "explanation": "Modální sloveso." },
+          "ru": { "text": "Теперь встреча может начаться. ", "explanation": "Модальный глагол." }
+        },
+        {
+          "de": { "text": "Tom ist bereit für die Herausforderung." },
+          "en": { "text": "Tom is ready for the challenge." },
+          "uk": { "text": "Том готовий до виклику." },
+          "cs": { "text": "Tom je připraven na výzvu." },
+          "ru": { "text": "Том готов к вызову." }
+        }
+      ]
+    }
+  ]
+}

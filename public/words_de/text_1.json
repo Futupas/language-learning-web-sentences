@@ -1,16 +1,16 @@
 {
   "id": "text_1",
-  "metadata": "Source: The Chronicles of Testing - Longform Edition",
+  "metadata": "Source: Real-Life Conversations (A1 Level - Longform 1)",
   "blocks": [
     {
       "type": "h1",
       "segments": [
         {
-          "de": { "text": "Das große Test-Epos", "explanation": "Titel des langen Textes." },
-          "en": { "text": "The Great Test Epic", "explanation": "Title of the long text." },
-          "uk": { "text": "Великий тестовий епос", "explanation": "Назва довгого тексту." },
-          "cs": { "text": "Velký testovací epos", "explanation": "Název dlouhého textu." },
-          "ru": { "text": "Великий тестовый эпос", "explanation": "Название длинного текста." }
+          "de": { "text": "Ein neuer Nachbar im Haus", "explanation": "Titel der Geschichte." },
+          "en": { "text": "A new neighbor in the building", "explanation": "Title of the story." },
+          "uk": { "text": "Новий сусід у будинку", "explanation": "Назва історії." },
+          "cs": { "text": "Nový soused v domě", "explanation": "Název příběhu." },
+          "ru": { "text": "Новый сосед в доме", "explanation": "Название истории." }
         }
       ]
     },
@@ -18,25 +18,25 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Es war einmal ", "explanation": "Klassischer Märchenanfang." },
-          "en": { "text": "Once upon a time ", "explanation": "Classic fairy tale beginning." },
-          "uk": { "text": "Одного разу ", "explanation": "Класичний початок казки." },
-          "cs": { "text": "Byl jednou ", "explanation": "Klasický začátek pohádky." },
-          "ru": { "text": "Жил-был ", "explanation": "Классическое начало сказки." }
+          "de": { "text": "Es ist Freitagnachmittag ", "explanation": "Zusammengesetztes Nomen." },
+          "en": { "text": "It is Friday afternoon ", "explanation": "Compound noun." },
+          "uk": { "text": "Зараз п'ятниця після обіду ", "explanation": "Складний іменник." },
+          "cs": { "text": "Je pátek odpoledne ", "explanation": "Složené podstatné jméno." },
+          "ru": { "text": "Сейчас пятница после полудня ", "explanation": "Сложное существительное." }
         },
         {
-          "de": { "text": "ein kleiner Webbrowser, " },
-          "en": { "text": "a small web browser, " },
-          "uk": { "text": "один маленький веб-браузер, " },
-          "cs": { "text": "jeden malý webový prohlížeč, " },
-          "ru": { "text": "один маленький веб-браузер, " }
+          "de": { "text": "und die Sonne scheint über Berlin. ", "explanation": "Präsens von 'scheinen' (to shine)." },
+          "en": { "text": "and the sun is shining over Berlin. ", "explanation": "Present tense of 'to shine'." },
+          "uk": { "text": "і сонце світить над Берліном. ", "explanation": "Теперішній час." },
+          "cs": { "text": "a slunce svítí nad Berlínem. ", "explanation": "Přítomný čas." },
+          "ru": { "text": "и солнце светит над Берлином. ", "explanation": "Настоящее время." }
         },
         {
-          "de": { "text": "der sehr müde war ", "explanation": "Verwendung des Präteritums von 'sein'." },
-          "en": { "text": "that was very tired ", "explanation": "Use of the past tense of 'to be'." },
-          "uk": { "text": "який був дуже втомленим ", "explanation": "Використання минулого часу." },
-          "cs": { "text": "který byl velmi unavený ", "explanation": "Použití minulého času." },
-          "ru": { "text": "который был очень уставшим ", "explanation": "Использование прошедшего времени." }
+          "de": { "text": "Anna kommt gerade nach Hause. ", "explanation": "Trennbares Verb 'heimkommen' oder 'nach Hause kommen'." },
+          "en": { "text": "Anna is just coming home. ", "explanation": "Returning home." },
+          "uk": { "text": "Анна якраз повертається додому. ", "explanation": "Повернення додому." },
+          "cs": { "text": "Anna jde právě domů. ", "explanation": "Návrat domů." },
+          "ru": { "text": "Анна как раз идет домой. ", "explanation": "Возвращение домой." }
         }
       ]
     },
@@ -44,25 +44,200 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "weil er tausende Zeilen " },
-          "en": { "text": "because he had to render " },
-          "uk": { "text": "бо він мусив відрендерити " },
-          "cs": { "text": "protože musel vykreslit " },
-          "ru": { "text": "потому что он должен был отрендерить " }
+          "de": { "text": "Sie hat schwere Einkäufe dabei ", "explanation": "Ausdruck 'dabei haben' (to have with oneself)." },
+          "en": { "text": "She has heavy groceries with her ", "explanation": "Expression 'to have with oneself'." },
+          "uk": { "text": "Вона має з собою важкі покупки ", "explanation": "Вираз 'мати з собою'." },
+          "cs": { "text": "Má s sebou těžký nákup ", "explanation": "Výraz 'mít s sebou'." },
+          "ru": { "text": "У нее с собой тяжелые покупки ", "explanation": "Выражение 'иметь с собой'." }
         },
         {
-          "de": { "text": "von unstrukturiertem Code " },
-          "en": { "text": "thousands of lines of code " },
-          "uk": { "text": "тисячі рядків коду " },
-          "cs": { "text": "tisíce řádků kódu " },
-          "ru": { "text": "тысячи строк кода " }
+          "de": { "text": "und ihre Tasche ist voller Äpfel und Milch. ", "explanation": "Präposition 'voll' + Genitiv." },
+          "en": { "text": "and her bag is full of apples and milk. ", "explanation": "Preposition 'full of'." },
+          "uk": { "text": "і її сумка повна яблук та молока. ", "explanation": "Вираз 'повний чогось'." },
+          "cs": { "text": "a její taška je plná jablek a mléka. ", "explanation": "Výraz 'plný něčeho'." },
+          "ru": { "text": "и ее сумка полна яблок и молока. ", "explanation": "Выражение 'полный чего-то'." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Vor ihrer Wohnungstür steht ein fremder Mann. ", "explanation": "Nominativ Maskulinum ('ein fremder Mann')." },
+          "en": { "text": "In front of her apartment door stands a strange man. ", "explanation": "Nominative masculine." },
+          "uk": { "text": "Перед дверима її квартири стоїть незнайомий чоловік. ", "explanation": "Називний відмінок." },
+          "cs": { "text": "Před dveřmi jejího bytu stojí cizí muž. ", "explanation": "Nominativ." },
+          "ru": { "text": "Перед дверью ее квартиры стоит незнакомый мужчина. ", "explanation": "Именительный падеж." }
         },
         {
-          "de": { "text": "rendern musste.", "explanation": "Modalverb 'müssen' im Präteritum am Satzende." },
-          "en": { "text": "without crashing.", "explanation": "Modal verb 'must' in past tense at the end." },
-          "uk": { "text": "без збоїв.", "explanation": "Модальне дієслово 'мусити' у минулому часі." },
-          "cs": { "text": "bez pádu.", "explanation": "Modální sloveso v minulém čase." },
-          "ru": { "text": "без сбоев.", "explanation": "Модальный глагол в прошедшем времени." }
+          "de": { "text": "Er sucht nach seinen Schlüsseln ", "explanation": "Reflexives Verb 'suchen nach' (to search for)." },
+          "en": { "text": "He is searching for his keys ", "explanation": "Reflexive verb 'to search for'." },
+          "uk": { "text": "Він шукає свої ключі ", "explanation": "Дієслово 'шукати'." },
+          "cs": { "text": "Hledá své klíče ", "explanation": "Sloveso 'hledat'." },
+          "ru": { "text": "Он ищет свои ключи ", "explanation": "Глагол 'искать'." }
+        },
+        {
+          "de": { "text": "und schaut ratlos in die Gegend." },
+          "en": { "text": "and looks around helplessly." },
+          "uk": { "text": "і розгублено дивиться навколо." },
+          "cs": { "text": "a bezradně se rozhlíží." },
+          "ru": { "text": "и растерянно озирается." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Anna räuspert sich kurz ", "explanation": "Reflexives Verb 'sich räuspern' (to clear one's throat)." },
+          "en": { "text": "Anna clears her throat briefly ", "explanation": "Reflexive verb 'to clear throat'." },
+          "uk": { "text": "Анна коротко откашлюється ", "explanation": "Зворотне дієслово." },
+          "cs": { "text": "Anna si krátce odkašle ", "explanation": "Zvratné sloveso." },
+          "ru": { "text": "Анна коротко откашливается ", "explanation": "Возвратный глагол." }
+        },
+        {
+          "de": { "text": "und fragt freundlich: ", "explanation": "Adverb 'freundlich' (friendly)." },
+          "en": { "text": "and asks friendly: ", "explanation": "Adverb 'friendly'." },
+          "uk": { "text": "і дружньо запитує: ", "explanation": "Прислівник." },
+          "cs": { "text": "a přátelsky se ptá: ", "explanation": "Příslovce." },
+          "ru": { "text": "и дружелюбно спрашивает: ", "explanation": "Наречие." }
+        },
+        {
+          "de": { "text": "'Guten Tag! Kann ich Ihnen vielleicht helfen?'" },
+          "en": { "text": "'Good day! Can I perhaps help you?'" },
+          "uk": { "text": "'Добрий день! Можу я вам чимось допомогти?'" },
+          "cs": { "text": "'Dobrý den! Mohu vám pomoci?'" },
+          "ru": { "text": "'Добрый день! Могу я вам помочь?'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Mann dreht sich überrascht um ", "explanation": "Trennbares und reflexives Verb 'sich umdrehen'." },
+          "en": { "text": "The man turns around surprised ", "explanation": "Separable reflexive verb." },
+          "uk": { "text": "Чоловік здивовано обертається ", "explanation": "Розділове зворотне дієслово." },
+          "cs": { "text": "Muž se překvapeně otočí ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Мужчина удивленно поворачивается ", "explanation": "Возвратный глагол." }
+        },
+        {
+          "de": { "text": "und lächelt erleichtert. ", "explanation": "Partizip II als Adjektiv ('erleichtert' = relieved)." },
+          "en": { "text": "and smiles relieved. ", "explanation": "Participle used as adjective." },
+          "uk": { "text": "і з почуттям полегшення посміхається. ", "explanation": "Дієприкметник." },
+          "cs": { "text": "a úlevně se usměje. ", "explanation": "Příčestí." },
+          "ru": { "text": "и с облегчением улыбается. ", "explanation": "Причастие." }
+        },
+        {
+          "de": { "text": "'Oh, hallo! Ja, sehr gerne.'" },
+          "en": { "text": "'Oh, hello! Yes, very gladly.'" },
+          "uk": { "text": "'О, привіт! Так, із задоволенням.'" },
+          "cs": { "text": "'Ó, ahoj! Ano, velmi rád.'" },
+          "ru": { "text": "'О, привет! Да, с удовольствием.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er stellt sich vor: ", "explanation": "Reflexives Verb 'sich vorstellen' (to introduce oneself)." },
+          "en": { "text": "He introduces himself: ", "explanation": "Reflexive verb 'to introduce oneself'." },
+          "uk": { "text": "Він представляється: ", "explanation": "Зворотне дієслово." },
+          "cs": { "text": "Představuje se: ", "explanation": "Zvratné sloveso." },
+          "ru": { "text": "Он представляется: ", "explanation": "Возвратный глагол." }
+        },
+        {
+          "de": { "text": "'Mein Name ist Markus Weber. ", "explanation": "Vorstellung mit 'Mein Name ist'." },
+          "en": { "text": "'My name is Markus Weber. ", "explanation": "Introduction with 'My name is'." },
+          "uk": { "text": "'Мене звати Маркус Вебер. ", "explanation": "Знайомство." },
+          "cs": { "text": "'Jmenuji se Markus Weber. ", "explanation": "Představení se." },
+          "ru": { "text": "'Меня зовут Маркус Вебер. ", "explanation": "Знакомство." }
+        },
+        {
+          "de": { "text": "Ich bin neu hier im Haus.'" },
+          "en": { "text": "I am new here in the building.'" },
+          "uk": { "text": "Я тут новенький у будинку.'" },
+          "cs": { "text": "Jsem tady v domě nový.'" },
+          "ru": { "text": "Я здесь новенький в доме.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Anna reicht ihm die Hand ", "explanation": "Präsens von 'reichen' (to hand/give)." },
+          "en": { "text": "Anna hands him her hand ", "explanation": "Present tense of 'to hand'." },
+          "uk": { "text": "Анна подає йому руку ", "explanation": "Теперішній час." },
+          "cs": { "text": "Anna mu podává ruku ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Анна подает ему руку ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und sagt: 'Freut mich, Markus. ", "explanation": "Fester Ausdruck 'Freut mich' (Nice to meet you)." },
+          "en": { "text": "and says: 'Nice to meet you, Markus. ", "explanation": "Fixed expression 'Nice to meet you'." },
+          "uk": { "text": "і каже: 'Приємно познайомитися, Маркусе. ", "explanation": "Сталий вираз." },
+          "cs": { "text": "a říká: 'Těší mě, Markusi. ", "explanation": "Pevné spojení." },
+          "ru": { "text": "и говорит: 'Приятно познакомиться, Маркус. ", "explanation": "Устойчивое выражение." }
+        },
+        {
+          "de": { "text": "Ich wohne in Wohnung Nummer vier.'" },
+          "en": { "text": "I live in apartment number four.'" },
+          "uk": { "text": "Я живу в квартирі номер чотири.'" },
+          "cs": { "text": "Bydlím v bytě číslo čtyři.'" },
+          "ru": { "text": "Я живу в квартире номер четыре.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Markus lächelt breit. ", "explanation": "Adverb 'breit' (broadly)." },
+          "en": { "text": "Markus smiles broadly. ", "explanation": "Adverb 'broadly'." },
+          "uk": { "text": "Маркус широко посміхається. ", "explanation": "Прислівник." },
+          "cs": { "text": "Markus se široce usmívá. ", "explanation": "Příslovce." },
+          "ru": { "text": "Маркус широко улыбается. ", "explanation": "Наречие." }
+        },
+        {
+          "de": { "text": "'Ah, wir sind Nachbarn! ", "explanation": "Ausruf der Freude." },
+          "en": { "text": "'Ah, we are neighbors! ", "explanation": "Exclamation of joy." },
+          "uk": { "text": "'А, ми сусіди! ", "explanation": "Вигук радості." },
+          "cs": { "text": "'Aha, jsme sousedé! ", "explanation": "Zvolání." },
+          "ru": { "text": "'А, мы соседи! ", "explanation": "Восклицание." }
+        },
+        {
+          "de": { "text": "Ich wohne direkt neben dir, in Nummer fünf.'" },
+          "en": { "text": "I live right next to you, in number five.'" },
+          "uk": { "text": "Я живу прямо поруч з тобою, в номері п'ять.'" },
+          "cs": { "text": "Bydlím hned vedle tebe, v čísle pět.'" },
+          "ru": { "text": "Я живу прямо рядом с тобой, в номере пять.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Plötzlich fällt Markus etwas ein. ", "explanation": "Redewendung 'jemandem fällt etwas ein' (someone remembers/realizes)." },
+          "en": { "text": "Suddenly Markus remembers something. ", "explanation": "Idiomatic expression for remembering." },
+          "uk": { "text": "Раптом Маркусу дещо згадується. ", "explanation": "Ідіоматичний вираз." },
+          "cs": { "text": "Náhle si Markus něco uvědomí. ", "explanation": "Idiomatické vyjádření." },
+          "ru": { "text": "Вдруг Маркусу кое-что приходит на ум. ", "explanation": "Идиоматическое выражение." }
+        },
+        {
+          "de": { "text": "'Weißt du vielleicht, ", "explanation": "Präsens von 'wissen' (to know)." },
+          "en": { "text": "'Do you perhaps know ", "explanation": "Present tense of 'to know'." },
+          "uk": { "text": "'Ти випадково не знаєш, ", "explanation": "Дієслово 'знати'." },
+          "cs": { "text": "'Nevíš náhodou, ", "explanation": "Sloveso 'vědět'." },
+          "ru": { "text": "'Ты случайно не знаешь, ", "explanation": "Глагол 'знать'." }
+        },
+        {
+          "de": { "text": "wo hier der nächste Supermarkt ist?'" },
+          "en": { "text": "where the nearest supermarket is here?'" },
+          "uk": { "text": "де тут найближчий супермаркет?'" },
+          "cs": { "text": "kde je tady nejbližší supermarket?'" },
+          "ru": { "text": "где здесь ближайший супермаркет?'" }
         }
       ]
     },
@@ -70,11 +245,11 @@
       "type": "h2",
       "segments": [
         {
-          "de": { "text": "Kapitel 1: Das scrollende Monster" },
-          "en": { "text": "Chapter 1: The Scrolling Monster" },
-          "uk": { "text": "Розділ 1: Монстр прокрутки" },
-          "cs": { "text": "Kapitola 1: Scrollující monstrum" },
-          "ru": { "text": "Глава 1: Прокручивающийся монстр" }
+          "de": { "text": "Der Weg zum Supermarkt", "explanation": "Zwischenüberschrift." },
+          "en": { "text": "The way to the supermarket", "explanation": "Subheading." },
+          "uk": { "text": "Дорога до супермаркету", "explanation": "Підзаголовок." },
+          "cs": { "text": "Cesta do supermarketu", "explanation": "Podnadpis." },
+          "ru": { "text": "Дорога в супермаркет", "explanation": "Подзаголовок." }
         }
       ]
     },
@@ -82,25 +257,39 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Der Benutzer wollte wissen, " },
-          "en": { "text": "The user wanted to know " },
-          "uk": { "text": "Користувач хотів знати, " },
-          "cs": { "text": "Uživatel chtěl vědět, " },
-          "ru": { "text": "Пользователь хотел знать, " }
+          "de": { "text": "Anna zeigt mit dem Finger auf die Straße. ", "explanation": "Präsens von 'zeigen' (to point)." },
+          "en": { "text": "Anna points her finger at the street. ", "explanation": "Present tense of 'to point'." },
+          "uk": { "text": "Анна вказує пальцем на вулицю. ", "explanation": "Теперішній час." },
+          "cs": { "text": "Anna ukazuje prstem na ulici. ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Анна указывает пальцем на улицу. ", "explanation": "Настоящее время." }
         },
         {
-          "de": { "text": "ob das Scrollen funktioniert. " },
-          "en": { "text": "if scrolling works. " },
-          "uk": { "text": "чи працює прокручування. " },
-          "cs": { "text": "zda scrollování funguje. " },
-          "ru": { "text": "работает ли прокрутка. " }
+          "de": { "text": "'Ja, natürlich! ", "explanation": "Antwortwort 'natürlich' (of course)." },
+          "en": { "text": "'Yes, of course! ", "explanation": "Answer word 'of course'." },
+          "uk": { "text": "'Так, звісно! ", "explanation": "Слово відповіді." },
+          "cs": { "text": "'Ano, samozřejmě! ", "explanation": "Odpověď." },
+          "ru": { "text": "'Да, конечно! ", "explanation": "Слово ответа." }
         },
         {
-          "de": { "text": "Deshalb scrollte er nach unten und unten ", "explanation": "Wortwiederholung zur Betonung." },
-          "en": { "text": "Therefore he scrolled down and down ", "explanation": "Word repetition for emphasis." },
-          "uk": { "text": "Тому він крутив вниз і вниз ", "explanation": "Повторення слова для підкреслення." },
-          "cs": { "text": "Proto scroloval dolů a dolů ", "explanation": "Opakování slova pro důraz." },
-          "ru": { "text": "Поэтому он прокручивал вниз и вниз ", "explanation": "Повторение слова для акцента." }
+          "de": { "text": "Du gehst hier nach links, ", "explanation": "Präpositionaladverb 'nach links' (to the left)." },
+          "en": { "text": "You go left here, ", "explanation": "Directional phrase." },
+          "uk": { "text": "Ти йдеш сюди ліворуч, ", "explanation": "Напрямок." },
+          "cs": { "text": "Půjdeš tady doleva, ", "explanation": "Směr." },
+          "ru": { "text": "Ты идешь здесь налево, ", "explanation": "Направление." }
+        },
+        {
+          "de": { "text": "dann über die Ampel ", "explanation": "Präposition 'über' + Akkusativ." },
+          "en": { "text": "then across the traffic light ", "explanation": "Preposition 'across'." },
+          "uk": { "text": "потім через світлофор ", "explanation": "Прийменник." },
+          "cs": { "text": "pak přes semafor ", "explanation": "Předložka." },
+          "ru": { "text": "затем через светофор ", "explanation": "Предлог." }
+        },
+        {
+          "de": { "text": "und direkt hinter der Apotheke ist er schon.'" },
+          "en": { "text": "and right behind the pharmacy it is already.'" },
+          "uk": { "text": "і одразу за аптекою він уже там.'" },
+          "cs": { "text": "a hned za lékárnou už tam je.'" },
+          "ru": { "text": "и сразу за аптекой он уже там.'" }
         }
       ]
     },
@@ -108,25 +297,25 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "bis der Bildschirm glühte. " },
-          "en": { "text": "until the screen glowed. " },
-          "uk": { "text": "поки екран не засяяв. " },
-          "cs": { "text": "dokud obrazovka nezářila. " },
-          "ru": { "text": "пока экран не засветился. " }
+          "de": { "text": "Markus nickt dankbar. ", "explanation": "Adverb 'dankbar' (gratefully)." },
+          "en": { "text": "Markus nods gratefully. ", "explanation": "Adverb 'gratefully'." },
+          "uk": { "text": "Маркус вдячно киває. ", "explanation": "Прислівник." },
+          "cs": { "text": "Markus vděčně přikývne. ", "explanation": "Příslovce." },
+          "ru": { "text": "Маркус благодарно кивает. ", "explanation": "Наречие." }
         },
         {
-          "de": { "text": "Ein normaler Mensch hätte aufgehört, " },
-          "en": { "text": "A normal person would have stopped, " },
-          "uk": { "text": "Звичайна людина зупинилася б, " },
-          "cs": { "text": "Normální člověk by přestal, " },
-          "ru": { "text": "Нормальный человек остановился бы, " }
+          "de": { "text": "'Vielen Dank, Anna. ", "explanation": "Dankesformel." },
+          "en": { "text": "'Many thanks, Anna. ", "explanation": "Formula of thanks." },
+          "uk": { "text": "'Дуже дякую, Анно. ", "explanation": "Формула подяки." },
+          "cs": { "text": "'Moc děkuji, Anno. ", "explanation": "Poděkování." },
+          "ru": { "text": "'Большое спасибо, Анна. ", "explanation": "Формула благодарности." }
         },
         {
-          "de": { "text": "aber unser Held war kein normaler Mensch.", "explanation": "Negativartikel 'kein'." },
-          "en": { "text": "but our hero was no normal person.", "explanation": "Negative article 'no'." },
-          "uk": { "text": "але наш герой не був звичайною людиною.", "explanation": "Заперечний артикль." },
-          "cs": { "text": "ale náš hrdina nebyl normální člověk.", "explanation": "Záporný člen." },
-          "ru": { "text": "но наш герой не был обычным человеком.", "explanation": "Отрицательный артикль." }
+          "de": { "text": "Ich habe nämlich noch gar nichts im Kühlschrank.'" },
+          "en": { "text": "I actually have nothing at all in the fridge yet.'" },
+          "uk": { "text": "У мене ж насправді ще зовсім нічого немає в холодильнику.'" },
+          "cs": { "text": "Já totiž nemám ještě vůbec nic v lednici.'" },
+          "ru": { "text": "У меня ведь еще совсем ничего нет в холодильнике.'" }
         }
       ]
     },
@@ -134,37 +323,25 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Er trank Kaffee, " },
-          "en": { "text": "He drank coffee, " },
-          "uk": { "text": "Він пив каву, " },
-          "cs": { "text": "Pil kávu, " },
-          "ru": { "text": "Он пил кофе, " }
+          "de": { "text": "Anna lacht kurz auf ", "explanation": "Trennbares Verb 'auflachen' (to burst out laughing)." },
+          "en": { "text": "Anna bursts out laughing briefly ", "explanation": "Separable verb." },
+          "uk": { "text": "Анна коротко сміється ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Anna se krátce zasměje ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Анна коротко смеется ", "explanation": "Глагол с приставкой." }
         },
         {
-          "de": { "text": "aß ein Stück Pizza " },
-          "en": { "text": "ate a piece of pizza " },
-          "uk": { "text": "їв шматок піци " },
-          "cs": { "text": "jedl kousek pizzy " },
-          "ru": { "text": "ел кусок пиццы " }
+          "de": { "text": "und öffnet endlich ihre Wohnungstür. ", "explanation": "Präsens von 'öffnen' (to open)." },
+          "en": { "text": "and finally opens her apartment door. ", "explanation": "Present tense of 'to open'." },
+          "uk": { "text": "і нарешті відчиняє двері своєї квартири. ", "explanation": "Теперішній час." },
+          "cs": { "text": "a konečně otevírá dveře svého bytu. ", "explanation": "Přítomný čas." },
+          "ru": { "text": "и наконец открывает дверь своей квартиры. ", "explanation": "Настоящее время." }
         },
         {
-          "de": { "text": "und drückte weiter auf die Tasten.", "explanation": "Trennbares Verb 'weiterdrücken'." },
-          "en": { "text": "and kept pressing the keys.", "explanation": "Phrasal verb meaning to continue pressing." },
-          "uk": { "text": "і продовжував натискати клавіші.", "explanation": "Розділове дієслово продовження дії." },
-          "cs": { "text": "a dál mačkal klávesy.", "explanation": "Sloveso vyjadřující pokračování." },
-          "ru": { "text": "и продолжал нажимать клавиши.", "explanation": "Глагол, означающий продолжение." }
-        }
-      ]
-    },
-    {
-      "type": "h2",
-      "segments": [
-        {
-          "de": { "text": "Kapitel 2: Die Absätze der Verzweiflung" },
-          "en": { "text": "Chapter 2: The Paragraphs of Despair" },
-          "uk": { "text": "Розділ 2: Абзаци розпачу" },
-          "cs": { "text": "Kapitola 2: Odstavce zoufalství" },
-          "ru": { "text": "Глава 2: Абзацы отчаяния" }
+          "de": { "text": "'Kein Problem! Wenn du Fragen hast, klingel einfach.'" },
+          "en": { "text": "'No problem! If you have questions, just ring.'" },
+          "uk": { "text": "'Без проблем! Якщо будуть питання, просто подзвони у дзвінок.'" },
+          "cs": { "text": "'Žádný problém! Kdybyš měl otázky, prostě zazvoň.'" },
+          "ru": { "text": "'Без проблем! Если будут вопросы, просто позвони в звонок.'" }
         }
       ]
     },
@@ -172,191 +349,25 @@
       "type": "p",
       "segments": [
         {
-          "de": { "text": "Absatz Nummer sieben ist wichtig, " },
-          "en": { "text": "Paragraph number seven is important, " },
-          "uk": { "text": "Сьомий абзац важливий, " },
-          "cs": { "text": "Odstavec číslo sedm je důležitý, " },
-          "ru": { "text": "Седьмой абзац важен, " }
+          "de": { "text": "Markus verabschiedet sich höflich ", "explanation": "Reflexives Verb 'sich verabschieden' (to say goodbye)." },
+          "en": { "text": "Markus says goodbye politely ", "explanation": "Reflexive verb 'to say goodbye'." },
+          "uk": { "text": "Маркус ввічливо прощається ", "explanation": "Зворотне дієслово." },
+          "cs": { "text": "Markus se zdvořile loučí ", "explanation": "Zvratné sloveso." },
+          "ru": { "text": "Маркус вежливо прощается ", "explanation": "Возвратный глагол." }
         },
         {
-          "de": { "text": "weil ohne ihn die Höhe " },
-          "en": { "text": "because without it the height " },
-          "uk": { "text": "бо без нього висота " },
-          "cs": { "text": "protože bez něj výška " },
-          "ru": { "text": "потому что без него высота " }
+          "de": { "text": "und geht die Treppe hinunter. ", "explanation": "Rrichtungsverb 'hinuntergehen'." },
+          "en": { "text": "and goes down the stairs. ", "explanation": "Directional verb." },
+          "uk": { "text": "і спускається сходами вниз. ", "explanation": "Дієслово руху." },
+          "cs": { "text": "a jde dolů po schodech. ", "explanation": "Sloveso pohybu." },
+          "ru": { "text": "и спускается вниз по лестнице. ", "explanation": "Глагол движения." }
         },
         {
-          "de": { "text": "nicht lang genug wäre.", "explanation": "Konjunktiv II ('wäre' = would be)." },
-          "en": { "text": "would not be long enough.", "explanation": "Conditional form 'would be'." },
-          "uk": { "text": "не була б достатньо великою.", "explanation": "Умовний спосіб." },
-          "cs": { "text": "by nebyla dost dlouhá.", "explanation": "Podmiňovací způsob." },
-          "ru": { "text": "не была бы достаточно длинной.", "explanation": "Сослагательное наклонение." }
-        }
-      ]
-    },
-    {
-      "type": "p",
-      "segments": [
-        {
-          "de": { "text": "Man fragt sich oft: " },
-          "en": { "text": "One often asks oneself: " },
-          "uk": { "text": "Люди часто запитують себе: " },
-          "cs": { "text": "Člověk se často ptá: " },
-          "ru": { "text": "Человек часто спрашивает себя: " }
-        },
-        {
-          "de": { "text": "Warum schreiben Entwickler so viel Text? " },
-          "en": { "text": "Why do developers write so much text? " },
-          "uk": { "text": "Чому розробники пишуть стільки тексту? " },
-          "cs": { "text": "Proč vývojáři píší tolik textu? " },
-          "ru": { "text": "Почему разработчики пишут так много текста? " }
-        },
-        {
-          "de": { "text": "Die Antwort ist einfach: Um zu testen.", "explanation": "Infinitivsatz mit 'um ... zu'." },
-          "en": { "text": "The answer is simple: To test.", "explanation": "Infinitive clause with 'to'." },
-          "uk": { "text": "Відповідь проста: щоб тестувати.", "explanation": "Інфінітивний зворот." },
-          "cs": { "text": "Odpověď je jednoduchá: Testovat.", "explanation": "Účelová vazba." },
-          "ru": { "text": "Ответ прост: чтобы тестировать.", "explanation": "Инфинитивный оборот." }
-        }
-      ]
-    },
-    {
-      "type": "p",
-      "segments": [
-        {
-          "de": { "text": "Jedes Wort in diesem Dokument " },
-          "en": { "text": "Every word in this document " },
-          "uk": { "text": "Кожне слово в цьому документі " },
-          "cs": { "text": "Každé slovo v tomto dokumentu " },
-          "ru": { "text": "Каждое слово в этом документе " }
-        },
-        {
-          "de": { "text": "wurde mit Liebe generiert, " },
-          "en": { "text": "was generated with love, " },
-          "uk": { "text": "було згенеровано з любов'ю, " },
-          "cs": { "text": "bylo vygenerováno s láskou, " },
-          "ru": { "text": "было сгенерировано с любовью, " }
-        },
-        {
-          "de": { "text": "obwohl es absolut keinen Sinn ergibt.", "explanation": "Konjunktion 'obwohl' (although) verb-final." },
-          "en": { "text": "even though it makes zero sense.", "explanation": "Conjunction 'although' putting verbs at the end." },
-          "uk": { "text": "хоча воно не має жодного сенсу.", "explanation": "Сполучник 'хоча' відправляє дієслово в кінець." },
-          "cs": { "text": "přestože to nedává žádný smysl.", "explanation": "Spojka 'přestože' dává sloveso na konec." },
-          "ru": { "text": "хотя в этом нет никакого смысла.", "explanation": "Союз 'хотя' отправляет глагол в конец." }
-        }
-      ]
-    },
-    {
-      "type": "h2",
-      "segments": [
-        {
-          "de": { "text": "Kapitel 3: Der Sumpf der Erklärungen" },
-          "en": { "text": "Chapter 3: The Swamp of Explanations" },
-          "uk": { "text": "Розділ 3: Болото пояснень" },
-          "cs": { "text": "Kapitola 3: Močál vysvětlení" },
-          "ru": { "text": "Глава 3: Болото объяснений" }
-        }
-      ]
-    },
-    {
-      "type": "p",
-      "segments": [
-        {
-          "de": { "text": "Manchmal klickt man auf ein Wort " },
-          "en": { "text": "Sometimes you click on a word " },
-          "uk": { "text": "Іноді ти клікаєш на слово " },
-          "cs": { "text": "Někdy kliknete na slovo " },
-          "ru": { "text": "Иногда вы кликаете на слово " }
-        },
-        {
-          "de": { "text": "und denkt sich: 'Was bedeutet das?' " },
-          "en": { "text": "and think to yourself: 'What does that mean?' " },
-          "uk": { "text": "і думаєш: 'Що це означає?' " },
-          "cs": { "text": "a říkáte si: 'Co to znamená?' " },
-          "ru": { "text": "и думаете: 'Что это значит?' " }
-        },
-        {
-          "de": { "text": "Und dann erscheint eine magische Box.", "explanation": "Präsens von 'erscheinen' ('appears')." },
-          "en": { "text": "And then a magical box appears.", "explanation": "Present tense of 'to appear'." },
-          "uk": { "text": "І тоді з'являється магічна коробка.", "explanation": "Теперішній час." },
-          "cs": { "text": "A pak se objeví kouzelná krabička.", "explanation": "Přítomný čas." },
-          "ru": { "text": "И тогда появляется волшебная коробочка.", "explanation": "Настоящее время." }
-        }
-      ]
-    },
-    {
-      "type": "p",
-      "segments": [
-        {
-          "de": { "text": "Das ist der Moment, " },
-          "en": { "text": "That is the moment " },
-          "uk": { "text": "Це той момент, " },
-          "cs": { "text": "To je ten moment, " },
-          "ru": { "text": "Это тот момент, " }
-        },
-        {
-          "de": { "text": "in dem das Sprachenlernen Spaß macht. " },
-          "en": { "text": "in which learning languages becomes fun. " },
-          "uk": { "text": "коли вивчення мов стає веселим. " },
-          "cs": { "text": "kdy se učení jazyků stává zábavou. " },
-          "ru": { "text": "когда изучение языков становится веселым. " }
-        },
-        {
-          "de": { "text": "Oder auch nicht, je nach Kaffeepegel.", "explanation": "Redewendung 'je nach' (depending on)." },
-          "en": { "text": "Or maybe not, depending on caffeine levels.", "explanation": "Idiomatic expression 'depending on'." },
-          "uk": { "text": "Або й ні, залежно від рівня кофеїну.", "explanation": "Ідіоматичний вираз." },
-          "cs": { "text": "Nebo taky ne, podle hladiny kofeinu.", "explanation": "Idiomatické vyjádření." },
-          "ru": { "text": "Или нет, в зависимости от уровня кофеина.", "explanation": "Идиоматическое выражение." }
-        }
-      ]
-    },
-    {
-      "type": "h2",
-      "segments": [
-        {
-          "de": { "text": "Kapitel 4: Das unendliche Ende" },
-          "en": { "text": "Chapter 4: The Infinite End" },
-          "uk": { "text": "Розділ 4: Нескінченний кінець" },
-          "cs": { "text": "Kapitola 4: Nekonečný konec" },
-          "ru": { "text": "Глава 4: Бесконечный конец" }
-        }
-      ]
-    },
-    {
-      "type": "p",
-      "segments": [
-        {
-          "de": { "text": "Wir sind fast am Ziel. " },
-          "en": { "text": "We are almost at the goal. " },
-          "uk": { "text": "Ми майже біля мети. " },
-          "cs": { "text": "Jsme téměř u cíle. " },
-          "ru": { "text": "Мы почти у цели. " }
-        },
-        {
-          "de": { "text": "Der Fortschritt sollte jetzt bei fast 100 Prozent sein. " },
-          "en": { "text": "The progress should now be at almost 100 percent. " },
-          "uk": { "text": "Прогрес тепер має бути майже 100 відсотків. " },
-          "cs": { "text": "Pokrok by teď měl být skoro 100 procent. " },
-          "ru": { "text": "Прогресс теперь должен быть почти 100 процентов. " }
-        },
-        {
-          "de": { "text": "Wenn du das liest, hast du gewonnen.", "explanation": "Perfekt von 'gewinnen' ('hast ... gewonnen')." },
-          "en": { "text": "If you are reading this, you have won.", "explanation": "Present perfect tense." },
-          "uk": { "text": "Якщо ви це читаєте, ви перемогли.", "explanation": "Минулий завершений час." },
-          "cs": { "text": "Jestli tohle čteš, vyhrál jsi.", "explanation": "Minulý čas." },
-          "ru": { "text": "Если вы это читаете, вы победили.", "explanation": "Прошедшее время." }
-        }
-      ]
-    },
-    {
-      "type": "p",
-      "segments": [
-        {
-          "de": { "text": "Vielen Dank fürs Lesen dieses absurden Textes." },
-          "en": { "text": "Thank you for reading this absurd text." },
-          "uk": { "text": "Дякую за читання цього абсурдного тексту." },
-          "cs": { "text": "Děkuji za přečtení tohoto absurdního textu." },
-          "ru": { "text": "Спасибо за чтение этого абсурдного текста." }
+          "de": { "text": "Ein guter Start in der neuen Nachbarschaft." },
+          "en": { "text": "A good start in the new neighborhood." },
+          "uk": { "text": "Хороший початок у новому районі." },
+          "cs": { "text": "Dobrý začátek v novém sousedství." },
+          "ru": { "text": "Хорошее начало в новом районе." }
         }
       ]
     }

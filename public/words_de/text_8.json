@@ -1,0 +1,465 @@
+{
+  "id": "text_8",
+  "metadata": "Source: Real-Life Conversations (A1 Level - Epic Longform 8)",
+  "blocks": [
+    {
+      "type": "h1",
+      "segments": [
+        {
+          "de": { "text": "Ein ganz normaler Arbeitstag", "explanation": "Titel der Geschichte." },
+          "en": { "text": "A completely normal working day", "explanation": "Title of the story." },
+          "uk": { "text": "Звичайний робочий день", "explanation": "Назва історії." },
+          "cs": { "text": "Úplně normální pracovní den", "explanation": "Název příběhu." },
+          "ru": { "text": "Совершенно обычный рабочий день", "explanation": "Название истории." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Wecker klingelt um Punkt sieben Uhr. ", "explanation": "Fester Ausdruck 'um Punkt' (sharp/on the dot)." },
+          "en": { "text": "The alarm clock rings at seven o'clock sharp. ", "explanation": "Fixed expression." },
+          "uk": { "text": "Будильник дзвонить рівно о сьомій годині. ", "explanation": "Сталий вираз." },
+          "cs": { "text": "Budík zvoní přesně v sedm hodin. ", "explanation": "Pevné spojení." },
+          "ru": { "text": "Будильник звонит ровно в семь часов. ", "explanation": "Устойчивое выражение." }
+        },
+        {
+          "de": { "text": "Sarah schlägt die Augen auf ", "explanation": "Trennbares Verb 'aufschlagen' (to open eyes)." },
+          "en": { "text": "Sarah opens her eyes ", "explanation": "Separable verb." },
+          "uk": { "text": "Сара розплющує очі ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Sarah otevírá oči ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Сара открывает глаза ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und stöhnt leise." },
+          "en": { "text": "and groans quietly." },
+          "uk": { "text": "і тихо стогне." },
+          "cs": { "text": "a tiše vzdychá." },
+          "ru": { "text": "и тихо стонет." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Montag, der Start in eine neue Woche. ", "explanation": "Nominativ Maskulinum ('der Start')." },
+          "en": { "text": "Monday, the start of a new week. ", "explanation": "Nominative masculine." },
+          "uk": { "text": "Понеділок, початок нового тижня. ", "explanation": "Називний відмінок." },
+          "cs": { "text": "Pondělí, začátek nového týdne. ", "explanation": "Nominativ." },
+          "ru": { "text": "Понедельник, начало новой недели. ", "explanation": "Именительный падеж." }
+        },
+        {
+          "de": { "text": "Sie muss heute im Büro sein, ", "explanation": "Modalverb 'müssen' + Infinitiv 'sein'." },
+          "en": { "text": "She has to be in the office today, ", "explanation": "Modal verb construction." },
+          "uk": { "text": "Вона повинна бути сьогодні в офісі, ", "explanation": "Модальне дієслово." },
+          "cs": { "text": "Dnes musí být v kanceláři, ", "explanation": "Modální sloveso." },
+          "ru": { "text": "Сегодня она должна быть в офисе, ", "explanation": "Модальный глагол." }
+        },
+        {
+          "de": { "text": "weil eine wichtige Besprechung ansteht." },
+          "en": { "text": "because an important meeting is coming up." },
+          "uk": { "text": "бо намічається важлива нарада." },
+          "cs": { "text": "protože se chystá důležitá schůzka." },
+          "ru": { "text": "потому что намечается важное совещание." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sie springt unter die Dusche, ", "explanation": "Akkusativ Femininum ('unter die Dusche')." },
+          "en": { "text": "She jumps into the shower, ", "explanation": "Accusative feminine for movement." },
+          "uk": { "text": "Вона стрибає під душ, ", "explanation": "Знахідний відмінок для руху." },
+          "cs": { "text": "Skočí do sprchy, ", "explanation": "Akuzativ pro pohyb." },
+          "ru": { "text": "Она прыгает в душ, ", "explanation": "Винительный падеж для движения." }
+        },
+        {
+          "de": { "text": "kocht blitzschnell einen Kaffee " },
+          "en": { "text": "makes coffee lightning fast " },
+          "uk": { "text": "блискавично варить каву " },
+          "cs": { "text": "bleskově uvaří kávu " },
+          "ru": { "text": "молниеносно варит кофе " }
+        },
+        {
+          "de": { "text": "und zieht sich einen eleganten Blazer an." },
+          "en": { "text": "and puts on an elegant blazer." },
+          "uk": { "text": "і одягає елегантний блейзер." },
+          "cs": { "text": "a obléká si elegantní blejzr." },
+          "ru": { "text": "и надевает элегантный блейзер." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Um halb acht verlässt sie das Haus. ", "explanation": "Angabe der Uhrzeit mit 'um' ('halb acht' = 7:30)." },
+          "en": { "text": "At half past seven she leaves the house. ", "explanation": "Stating time." },
+          "uk": { "text": "О пів на восьму вона виходить з дому. ", "explanation": "Час." },
+          "cs": { "text": "V půl osmé opouští dům. ", "explanation": "Časový údaj." },
+          "ru": { "text": "В половине восьмого она выходит из дома. ", "explanation": "Указание времени." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Die Straßenbahn ist pünktlich, ", "explanation": "Nominativ Femininum ('die Straßenbahn')." },
+          "en": { "text": "The tram is on time, ", "explanation": "Nominative feminine." },
+          "uk": { "text": "Трамвай прибуває вчасно, ", "explanation": "Називний відмінок." },
+          "cs": { "text": "Tramvaj je včas, ", "explanation": "Nominativ." },
+          "ru": { "text": "Трамвай вовремя, ", "explanation": "Именительный падеж." }
+        },
+        {
+          "de": { "text": "was in dieser Stadt ein echtes kleines Wunder ist." },
+          "en": { "text": "which is a real small miracle in this city." },
+          "uk": { "text": "що є справжнім маленьким дивом у цьому місті." },
+          "cs": { "text": "což je v tomto městě opravdový malý zázrak." },
+          "ru": { "text": "что является настоящим маленьким чудом в этом городе." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sarah nutzt die Fahrt ", "explanation": "Akkusativ Femininum ('die Fahrt')." },
+          "en": { "text": "Sarah uses the ride ", "explanation": "Accusative feminine." },
+          "uk": { "text": "Сара використовує поїздку ", "explanation": "Знахідний відмінок." },
+          "cs": { "text": "Sarah využívá jízdu ", "explanation": "Akuzativ." },
+          "ru": { "text": "Сара использует поездку ", "explanation": "Винительный падеж." }
+        },
+        {
+          "de": { "text": "um ihre E-Mails auf dem Handy zu checken." },
+          "en": { "text": "to check her emails on her phone." },
+          "uk": { "text": "щоб перевірити електронну пошту на телефоні." },
+          "cs": { "text": "k zkontrolování e-mailů v telefonu." },
+          "ru": { "text": "чтобы проверить электронную почту в телефоне." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Schon am frühen Morgen gibt es fünf neue Nachrichten ", "explanation": "Unpersönliches 'es gibt' (there are)." },
+          "en": { "text": "Already early in the morning there are five new messages ", "explanation": "Expression 'there are'." },
+          "uk": { "text": "Вже рано вранці є п'ять нових повідомлень ", "explanation": "Безособовий зворот." },
+          "cs": { "text": "Už brzy ráno je tu pět nových zpráv ", "explanation": "Neosobní vazba." },
+          "ru": { "text": "Уже рано утром есть пять новых сообщений ", "explanation": "Безличный оборот." }
+        },
+        {
+          "de": { "text": "vom Chef mit dem Betreff 'Dringend'." },
+          "en": { "text": "from the boss with the subject 'Urgent'." },
+          "uk": { "text": "від шефа з темою 'Терміново'." },
+          "cs": { "text": "od šéfa s předmětem 'Urgentní'." },
+          "ru": { "text": "от шефа с темой 'Срочно'." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sie atmet tief durch ", "explanation": "Trennbares Verb 'durchatmen' (to take a breath)." },
+          "en": { "text": "She takes a deep breath ", "explanation": "Separable verb." },
+          "uk": { "text": "Вона глибоко видихає ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Zhluboka se nadechne ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Она глубоко вздыхает ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und denkt sich: 'Das schaffe ich.'" },
+          "en": { "text": "and thinks to herself: 'I can do this.'" },
+          "uk": { "text": "і думає собі: 'Я впораюсь.'" },
+          "cs": { "text": "a říká si: 'To zvládnu.'" },
+          "ru": { "text": "и думает про себя: 'Я справлюсь.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Um acht Uhr fünfzig betritt sie das moderne Glasgebäude. " },
+          "en": { "text": "At eight fifty she enters the modern glass building. " },
+          "uk": { "text": "О восьмій п'ятдесят вона заходить у сучасну скляну будівлю. " },
+          "cs": { "text": "V osm padesát vstupuje do moderní skleněné budovy. " },
+          "ru": { "text": "В восемь пятьдесят она заходит в современное стеклянное здание. " }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "An der Pforte nickt ihr der Pförtner zu: ", "explanation": "Präsens von 'nicken' (to nod)." },
+          "en": { "text": "At the reception, the doorman nods to her: ", "explanation": "Present tense." },
+          "uk": { "text": "Біля портьє портьє киває їй: ", "explanation": "Теперішній час." },
+          "cs": { "text": "U vchodu jí portýr přikývne: ", "explanation": "Přítomný čas." },
+          "ru": { "text": "У входа швейцар кивает ей: " }
+        },
+        {
+          "de": { "text": "'Guten Morgen, Frau Klein!'" },
+          "en": { "text": "'Good morning, Ms. Klein!'" },
+          "uk": { "text": "'Доброго ранку, пані Кляйн!'" },
+          "cs": { "text": "'Dobrý den, paní Kleinová!'" },
+          "ru": { "text": "'Доброе утро, госпожа Кляйн!'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sarah lächelt freundlich ", "explanation": "Adverb 'freundlich'." },
+          "en": { "text": "Sarah smiles friendly ", "explanation": "Adverb." },
+          "uk": { "text": "Сара дружньо посміхається ", "explanation": "Прислівник." },
+          "cs": { "text": "Sarah se přátelsky usmívá ", "explanation": "Příslovce." },
+          "ru": { "text": "Сара дружелюбно улыбается ", "explanation": "Наречие." }
+        },
+        {
+          "de": { "text": "und fährt mit dem Aufzug in den vierten Stock." },
+          "en": { "text": "and takes the elevator to the fourth floor." },
+          "uk": { "text": "і підіймається ліфтом на четвертий поверх." },
+          "cs": { "text": "a jede výtahem do čtvrtého patra." },
+          "ru": { "text": "и поднимается на лифте на четвертый этаж." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Ihr Arbeitsplatz ist hell und modern eingerichtet. " },
+          "en": { "text": "Her workstation is bright and modernly furnished. " },
+          "uk": { "text": "Її робоче місце світле та сучасне. " },
+          "cs": { "text": "Její pracoviště je světlé a moderně zařízené. " },
+          "ru": { "text": "Ее рабочее место светлое и современное. " }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sie schaltet ihren Laptop ein ", "explanation": "Trennbares Verb 'einschalten' (to turn on)." },
+          "en": { "text": "She switches on her laptop ", "explanation": "Separable verb." },
+          "uk": { "text": "Вона вмикає ноутбук ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Zapíná si notebook ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Она включает ноутбук ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und holt sich als Erstes eine Tasse frischen Kaffee aus der Teeküche." },
+          "en": { "text": "and first gets a cup of fresh coffee from the kitchenette." },
+          "uk": { "text": "і насамперед бере чашку свіжої кави з міні-кухні." },
+          "cs": { "text": "a jako první si přinese šálek čerstvé kávy z kuchyňky." },
+          "ru": { "text": "и первым делом берет чашку свежего кофе из мини-кухни." }
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "segments": [
+        {
+          "de": { "text": "Die wichtige Besprechung", "explanation": "Zwischenüberschrift." },
+          "en": { "text": "The important meeting", "explanation": "Subheading." },
+          "uk": { "text": "Важлива нарада", "explanation": "Підзаголовок." },
+          "cs": { "text": "Důležitá schůzka", "explanation": "Podnadpis." },
+          "ru": { "text": "Важное совещание", "explanation": "Подзаголовок." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Um Punkt neun Uhr beginnt das Meeting im Konferenzraum zwei. " },
+          "en": { "text": "At nine o'clock sharp, the meeting starts in conference room two. " },
+          "uk": { "text": "Рівно о дев'ятій починається нарада в конференц-залі два. " },
+          "cs": { "text": "Přesně v devět hodin začíná schůzka v konferenční místnosti dva. " },
+          "ru": { "text": "Ровно в девять часов начинается совещание в конференц-зале два. " }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Alle Kollegen sitzen um den großen ovalen Tisch. ", "explanation": "Präposition 'um' + Akkusativ." },
+          "en": { "text": "All colleagues are sitting around the large oval table. ", "explanation": "Preposition 'um'." },
+          "uk": { "text": "Усі колеги сидят за великим овальним столом. ", "explanation": "Прийменник 'um'." },
+          "cs": { "text": "Všichni kolegové sedí kolem velkého oválného stolu. ", "explanation": "Předložka 'um'." },
+          "ru": { "text": "Все коллеги сидят вокруг большого овального стола. ", "explanation": "Предлог 'um'." }
+        },
+        {
+          "de": { "text": "Der Chef betritt den Raum mit ernstem Gesicht." },
+          "en": { "text": "The boss enters the room with a serious face." },
+          "uk": { "text": "Шеф заходить у кімнату з серйозним обличчям." },
+          "cs": { "text": "Šéf vstupuje do místnosti s vážnou tváří." },
+          "ru": { "text": "Шеф заходит в комнату с серьезным лицом." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Guten Morgen zusammen,' sagt er. ", "explanation": "Begrüßung." },
+          "en": { "text": "'Good morning everyone,' he says. ", "explanation": "Greeting." },
+          "uk": { "text": "'Доброго ранку всім,' каже він. ", "explanation": "Привітання." },
+          "cs": { "text": "'Dobré ráno všem,' říká. ", "explanation": "Pozdrav." },
+          "ru": { "text": "'Доброе утро всем,' говорит он." }
+        },
+        {
+          "de": { "text": "'Heute sprechen wir über die neuen Projekte des Quartals.'" },
+          "en": { "text": "'Today we are talking about the new projects of the quarter.'" },
+          "uk": { "text": "'Сьогодні ми говоримо про нові проєкти кварталу.'" },
+          "cs": { "text": "'Dnes mluvíme o nových projektech čtvrtletí.'" },
+          "ru": { "text": "'Сегодня мы говорим о новых проектах квартала.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sarah präsentiert ihre Folien ", "explanation": "Präsens von 'präsentieren' (to present)." },
+          "en": { "text": "Sarah presents her slides ", "explanation": "Present tense." },
+          "uk": { "text": "Сара презентує свої слайди ", "explanation": "Теперішній час." },
+          "cs": { "text": "Sarah prezentuje své snímky ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Сара презентует свои слайды ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und erklärt die aktuellen Zahlen sehr verständlich." },
+          "en": { "text": "and explains the current numbers very understandably." },
+          "uk": { "text": "і дуже зрозуміло пояснює поточні цифри." },
+          "cs": { "text": "a velmi srozumitelně vysvětluje aktuální čísla." },
+          "ru": { "text": "и очень понятно объясняет текущие цифры." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Alle nicken zustimmend. ", "explanation": "Adverb 'zustimmend' (approvingly)." },
+          "en": { "text": "Everyone nods in agreement. ", "explanation": "Adverb." },
+          "uk": { "text": "Усі схвально кивають. ", "explanation": "Прислівник." },
+          "cs": { "text": "Všichni souhlasně přikyvují. ", "explanation": "Příslovce." },
+          "ru": { "text": "Все одобрительно кивают. ", "explanation": "Наречие." }
+        },
+        {
+          "de": { "text": "Das Lob vom Chef tut gut nach diesem stressigen Morgen." },
+          "en": { "text": "Praise from the boss feels good after this stressful morning." },
+          "uk": { "text": "Похвала від шефа приємна після такого стресового ранку." },
+          "cs": { "text": "Pochvala od šéfa po tomto stresujícím ránu bodne." },
+          "ru": { "text": "Похвала от шефа приятна после такого утреннего стресса." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Um eins gibt es Mittagspause. ", "explanation": "Zusammengesetztes Nomen ('Mittagspause')." },
+          "en": { "text": "At one o'clock there is a lunch break. ", "explanation": "Compound noun." },
+          "uk": { "text": "О першій годині обідня перерва. ", "explanation": "Складний іменник." },
+          "cs": { "text": "Ve jednu hodinu je polední pauza. ", "explanation": "Složené podstatné jméno." },
+          "ru": { "text": "В час дня обеденный перерыв. ", "explanation": "Сложное существительное." }
+        },
+        {
+          "de": { "text": "Sarah geht mit ihrer Kollegin Lena in die Kantine." },
+          "en": { "text": "Sarah goes to the cafeteria with her colleague Lena." },
+          "uk": { "text": "Сара йде зі своєю колегою Леною в їдальню." },
+          "cs": { "text": "Sarah jde se svou kolegyní Lenou do kantýny." },
+          "ru": { "text": "Сара идет со своей коллегой Леной в столовую." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Es gibt heute Tomatensuppe und Nudeln mit Pesto. ", "explanation": "Ausdruck 'es gibt' (there is/are)." },
+          "en": { "text": "Today there is tomato soup and pasta with pesto. ", "explanation": "Expression 'there is'." },
+          "uk": { "text": "Сьогодні є томатний суп та макарони з песто. ", "explanation": "Вираз 'є'." },
+          "cs": { "text": "Dnes je rajská polévka a těstoviny s pestem. ", "explanation": "Výraz 'je'." },
+          "ru": { "text": "Сегодня есть томатный суп и паста с песто. ", "explanation": "Выражение 'есть'." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sie setzen sich an einen freien Tisch am Fenster ", "explanation": "Reflexives Verb 'sich setzen'." },
+          "en": { "text": "They sit down at a vacant table by the window ", "explanation": "Reflexive verb." },
+          "uk": { "text": "Вони сідають за вільний столик біля вікна ", "explanation": "Зворотне дієслово." },
+          "cs": { "text": "Sedají si k volnému stolu u okna ", "explanation": "Zvratné sloveso." },
+          "ru": { "text": "Они садятся за свободный столик у окна ", "explanation": "Возвратный глагол." }
+        },
+        {
+          "de": { "text": "und tratschen über private Dinge." },
+          "en": { "text": "and chat about personal things." },
+          "uk": { "text": "і базікають про особисті речі." },
+          "cs": { "text": "a drbou o soukromých věcech." },
+          "ru": { "text": "и болтают о личных вещах." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Die restliche Arbeitszeit vergeht wie im Flug. ", "explanation": "Redewendung 'wie im Flug' (time flies)." },
+          "en": { "text": "The remaining working time passes in a flash. ", "explanation": "Idiom 'time flies'." },
+          "uk": { "text": "Решта робочого часу пролітає миттєво. ", "explanation": "Ідіома." },
+          "cs": { "text": "Zbývající pracovní doba utíká jako voda. ", "explanation": "Idiom." },
+          "ru": { "text": "Оставшееся рабочее время пролетает мгновенно. ", "explanation": "Идиома." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Um Punkt halb sechs schaltet sie den PC aus ", "explanation": "Trennbares Verb 'ausschalten' (to switch off)." },
+          "en": { "text": "At half past five sharp she switches off her PC ", "explanation": "Separable verb." },
+          "uk": { "text": "Рівно о пів на шосту вона вимикає ПК ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Přesně v půl šesté vypíná PC ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Ровно в половине шестого она выключает ПК ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und packt ihre Tasche." },
+          "en": { "text": "and packs her bag." },
+          "uk": { "text": "і пакує свою сумку." },
+          "cs": { "text": "a balí si tašku." },
+          "ru": { "text": "и упаковывает свою сумку." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Feierabend!' sagt sie erleichtert zu sich selbst ", "explanation": "Substantiv 'Feierabend' (end of work day)." },
+          "en": { "text": "'Off work!' she says relieved to herself ", "explanation": "Noun for end of work day." },
+          "uk": { "text": "'Кінець робочого дня!' каже вона з полегшенням сама до себе. ", "explanation": "Іменник." },
+          "cs": { "text": "'Fajront!' říká si uleveně sama pro sebe. ", "explanation": "Podstatné jméno." },
+          "ru": { "text": "'Конец рабочего дня!' говорит она с облегчением сама себе." }
+        },
+        {
+          "de": { "text": "und macht sich auf den Heimweg." },
+          "en": { "text": "and starts on her way home." },
+          "uk": { "text": "і вирушає додому." },
+          "cs": { "text": "a vydává se na cestu domů." },
+          "ru": { "text": "и отправляется домой." }
+        }
+      ]
+    }
+  ]
+}

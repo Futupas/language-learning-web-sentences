@@ -1,0 +1,565 @@
+{
+  "id": "text_10",
+  "metadata": "Source: Real-Life Conversations (A1 Level - Epic 50-Paragraph Longform 10)",
+  "blocks": [
+    {
+      "type": "h1",
+      "segments": [
+        {
+          "de": { "text": "Der Gang zum Arzt", "explanation": "Titel der Geschichte." },
+          "en": { "text": "The trip to the doctor", "explanation": "Title of the story." },
+          "uk": { "text": "Візит до лікаря", "explanation": "Назва історії." },
+          "cs": { "text": "Cesta k lékaři", "explanation": "Název příběhu." },
+          "ru": { "text": "Поход к врачу", "explanation": "Название истории." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Es gibt Tage, ", "explanation": "Unpersönliches 'es gibt' (there are)." },
+          "en": { "text": "There are days, ", "explanation": "Expression 'there are'." },
+          "uk": { "text": "Бувають дні, ", "explanation": "Безособовий вираз." },
+          "cs": { "text": "Jsou dny, ", "explanation": "Neosobní výraz." },
+          "ru": { "text": "Бывают дни, ", "explanation": "Безличное выражение." }
+        },
+        {
+          "de": { "text": "an denen man einfach nicht aufstehen sollte." },
+          "en": { "text": "on which one simply shouldn't get up." },
+          "uk": { "text": "коли просто не варто було вставати." },
+          "cs": { "text": "kdy by člověk raději neměl vstávat." },
+          "ru": { "text": "когда просто не стоило вставать." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "David wacht mit starken Halsschmerzen auf ", "explanation": "Präsens von 'aufwachen' (to wake up)." },
+          "en": { "text": "David wakes up with a severe sore throat ", "explanation": "Present tense of 'to wake up'." },
+          "uk": { "text": "Давид прокидається з сильним болем у горлі ", "explanation": "Теперішній час." },
+          "cs": { "text": "David se probouzí s velkou bolestí v krku ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Давид просыпается с сильной болью в горле ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und sein Kopf fühlt sich an wie Blei." },
+          "en": { "text": "and his head feels like lead." },
+          "uk": { "text": "і його голова почувається як свинцева." },
+          "cs": { "text": "a hlava je jako olovo." },
+          "ru": { "text": "и его голова чувствует себя как свинцовая." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er hustet trocken ", "explanation": "Präsens von 'husten' (to cough)." },
+          "en": { "text": "He coughs dryly ", "explanation": "Present tense of 'to cough'." },
+          "uk": { "text": "Він сухо кашляє ", "explanation": "Теперішній час." },
+          "cs": { "text": "Suchě kašle ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Он сухо кашляет ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und greift nach dem Fieberthermometer auf dem Nachttisch." },
+          "en": { "text": "and reaches for the clinical thermometer on the bedside table." },
+          "uk": { "text": "і тягнеться за градусником на тумбочці." },
+          "cs": { "text": "a sahá po teploměru na nočním stolku." },
+          "ru": { "text": "и тянется за градусником на прикроватной тумбочке." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Dreiunddreißig Komma acht Grad. ", "explanation": "Zahlenangabe." },
+          "en": { "text": "Thirty-eight point eight degrees. ", "explanation": "Stating numbers." },
+          "uk": { "text": "Тридцять вісім цілих і вісім десятків градусів. ", "explanation": "Числа." },
+          "cs": { "text": "Třicet osm celých osm stupňů. ", "explanation": "Čísla." },
+          "ru": { "text": "Тридцать восемь целых и восемь десятых градуса. ", "explanation": "Числа." }
+        },
+        {
+          "de": { "text": "Eindeutig Fieber." },
+          "en": { "text": "Definitely a fever." },
+          "uk": { "text": "Ознака лихоманки." },
+          "cs": { "text": "Jednoznačně horečka." },
+          "ru": { "text": "Определенно температура." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er muss heute zum Hausarzt gehen, ", "explanation": "Modalverb 'müssen'." },
+          "en": { "text": "He has to go to the general practitioner today, ", "explanation": "Modal verb." },
+          "uk": { "text": "Він мусить піти сьогодні до сімейного лікаря, ", "explanation": "Модальне дієслово." },
+          "cs": { "text": "Dnes musí jít k praktickému lékaři, ", "explanation": "Modální sloveso." },
+          "ru": { "text": "Он должен пойти сегодня к терапевту, ", "explanation": "Модальный глагол." }
+        },
+        {
+          "de": { "text": "sonst bekommt er keinen gelben Schein für die Arbeit." },
+          "en": { "text": "otherwise he won't get a sick note for work." },
+          "uk": { "text": "інакше він не отримає лікарняний для роботи." },
+          "cs": { "text": "jinak nedostane neschopenku do práce." },
+          "ru": { "text": "иначе он не получит больничный лист для работы." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Um acht Uhr morgens ruft er in der Praxis an. " },
+          "en": { "text": "At eight o'clock in the morning he calls the practice. " },
+          "uk": { "text": "О восьмій ранку він телефонує до кабінету лікаря. " },
+          "cs": { "text": "V osm hodin ráno volá do ordinace. " },
+          "ru": { "text": "В восемь часов утра он звонит в кабинет врачу. " }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Besetzt. Natürlich ist sofort besetzt. ", "explanation": "Zustandpassiv / Zustand ('besetzt' = busy)." },
+          "en": { "text": "Busy. Of course it's busy right away. ", "explanation": "Line busy status." },
+          "uk": { "text": "Зайнято. Звісно ж, одразу зайнято. ", "explanation": "Стан лінії." },
+          "cs": { "text": "Obsazeno. Samozřejmě je hned obsazeno. ", "explanation": "Stav linky." },
+          "ru": { "text": "Занято. Конечно же, сразу занято. ", "explanation": "Состояние линии." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Nach dem zehnten Versuch klappt es endlich ", "explanation": "Fester Ausdruck 'es klappt' (it works)." },
+          "en": { "text": "After the tenth attempt it finally works ", "explanation": "Fixed expression." },
+          "uk": { "text": "Після десятої спроби це нарешті вдається ", "explanation": "Сталий вираз." },
+          "cs": { "text": "Po desátém pokusu to konečně vyjde ", "explanation": "Pevné spojení." },
+          "ru": { "text": "После десятой попытки это наконец удается ", "explanation": "Устойчивое выражение." }
+        },
+        {
+          "de": { "text": "und eine freundliche Arzthelferin meldet sich." },
+          "en": { "text": "and a friendly medical assistant answers." },
+          "uk": { "text": "і відгукується привітна медична сестра." },
+          "cs": { "text": "a ozve se přátelská zdravotní sestra." },
+          "ru": { "text": "и отзывается приветливая медсестра." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Guten Morgen, Dr. Weber, Praxis für Allgemeinmedizin,' ", "explanation": "Berufsbezeichnung." },
+          "en": { "text": "'Good morning, Dr. Weber, general practice,' ", "explanation": "Profession title." },
+          "uk": { "text": "'Доброго ранку, д-р Вебер, практикуючий лікар,' ", "explanation": "Назва професії." },
+          "cs": { "text": "'Dobrý den, Dr. Weber, ordinace všeobecného lékařství,' ", "explanation": "Povolání." },
+          "ru": { "text": "'Доброе утро, дор. Вебер, общая практика,' ", "explanation": "Профессия." }
+        },
+        {
+          "de": { "text": "sagt eine ruhige Stimme am anderen Ende der Leitung." },
+          "en": { "text": "says a calm voice on the other end of the line." },
+          "uk": { "text": "каже спокійний голос на іншому кінці дроту." },
+          "cs": { "text": "říká klidný hlas na druhém konci linky." },
+          "ru": { "text": "говорит спокойный голос на другом конце провода." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Guten Morgen, mein Name ist David Miller. " },
+          "en": { "text": "'Good morning, my name is David Miller. " },
+          "uk": { "text": "'Доброго ранку, мене звати Давид Міллер. " },
+          "cs": { "text": "'Dobrý den, jmenuji se David Miller. " },
+          "ru": { "text": "'Доброе утро, меня зовут Давид Миллер. " }
+        },
+        {
+          "de": { "text": "Ich brauche dringend einen Termin, ich habe hohes Fieber.'" },
+          "en": { "text": "I urgently need an appointment, I have a high fever.'" },
+          "uk": { "text": "Мені терміново потрібен прийом, у мене висока температура.'" },
+          "cs": { "text": "Nutně potřebuji termín, mám vysokou horečku.'" },
+          "ru": { "text": "Мне срочно нужен прием, у меня высокая температура.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Die Arzthelferin überlegt kurz. ", "explanation": "Präsens von 'überlegen' (to consider)." },
+          "en": { "text": "The assistant thinks for a moment. ", "explanation": "Present tense." },
+          "uk": { "text": "Медична сестра коротко розмірковує. ", "explanation": "Теперішній час." },
+          "cs": { "text": "Sestra krátce přemýšlí. ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Медсестра ненадолго задумывается. ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "'Können Sie um zehn Uhr in die Akutsprechstunde kommen?'" },
+          "en": { "text": "'Can you come to the acute consultation at ten o'clock?'" },
+          "uk": { "text": "'Ви можете прийти на гостру консультацію о десятій годині?'" },
+          "cs": { "text": "'Můžete přijít v deset hodin na akutní ordinační hodiny?'" },
+          "ru": { "text": "'Вы можете прийти на острый прием в десять часов?'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Ja, natürlich, ich bin sofort da.'" },
+          "en": { "text": "'Yes, of course, I'll be right there.'" },
+          "uk": { "text": "'Так, звісно, я буду одразу там.'" },
+          "cs": { "text": "'Ano, samozřejmě, hned tam budu.'" },
+          "ru": { "text": "'Да, конечно, я буду там сразу.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "David zieht sich schnell eine dicke Jacke über, ", "explanation": "Trennbares Verb 'überziehen' (to pull over/on)." },
+          "en": { "text": "David quickly pulls on a thick jacket, ", "explanation": "Separable verb." },
+          "uk": { "text": "Давид швидко накидає товсту куртку, ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "David si rychle natáhne tlustou bundu, ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Давид быстро натягивает толстую куртку, ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "setzt eine Mütze auf und verlässt das Haus." },
+          "en": { "text": "puts on a cap and leaves the house." },
+          "uk": { "text": "одягає шапку і виходить з дому." },
+          "cs": { "text": "nasadí si čepici a opouští dům." },
+          "ru": { "text": "надевает шапку и покидает дом." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Weg zur Praxis kommt ihm vor wie ein Marathon." },
+          "en": { "text": "The walk to the practice feels like a marathon to him." },
+          "uk": { "text": "Дорога до кабінету здається йому марафоном." },
+          "cs": { "text": "Cesta do ordinace mu připadá jako maraton." },
+          "ru": { "text": "Дорога до кабинета кажется ему марафоном." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Endlich erreicht er das Gebäude ", "explanation": "Präsens von 'erreichen' (to reach)." },
+          "en": { "text": "Finally he reaches the building ", "explanation": "Present tense." },
+          "uk": { "text": "Нарешті він досягає будівлі ", "explanation": "Теперішній час." },
+          "cs": { "text": "Konečně dorazí k budově ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Наконец он достигает здания " }
+        },
+        {
+          "de": { "text": "und schiebt die schwere Glastür auf." },
+          "en": { "text": "and pushes open the heavy glass door." },
+          "uk": { "text": "і розпихає важкі скляні двері." },
+          "cs": { "text": "a otevírá těžké skleněné dveře." },
+          "ru": { "text": "и открывает тяжелую стеклянную дверь." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Im Wartezimmer sitzen bereits fünf andere Kranke ", "explanation": "Nominativ Plural ('fünf andere Kranke')." },
+          "en": { "text": "Five other sick people are already sitting in the waiting room ", "explanation": "Nominative plural." },
+          "uk": { "text": "У залі очікування вже сидить п'ятеро інших хворих ", "explanation": "Називний відмінок." },
+          "cs": { "text": "V čekárně už sedí pět dalších nemocných ", "explanation": "Nominativ." },
+          "ru": { "text": "В зале ожидания уже сидят пять других больных ", "explanation": "Именительный падеж." }
+        },
+        {
+          "de": { "text": "mit blassen Gesichtern." },
+          "en": { "text": "with pale faces." },
+          "uk": { "text": "з блідими обличчями." },
+          "cs": { "text": "s bledými tvářemi." },
+          "ru": { "text": "с бледными лицами." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er geht zur Anmeldung, ", "explanation": "Präposition 'zu' + Dativ Femininum ('zur Anmeldung')." },
+          "en": { "text": "He goes to reception, ", "explanation": "Preposition 'zu' + dative." },
+          "uk": { "text": "Він підходить до стійки реєстрації, ", "explanation": "Прийменник 'zu'." },
+          "cs": { "text": "Jde k recepci, ", "explanation": "Předložka 'zu'." },
+          "ru": { "text": "Он идет на регистратуру, ", "explanation": "Предлог 'zu'." }
+        },
+        {
+          "de": { "text": "gibt seine Krankenkassenkarte ab " },
+          "en": { "text": "hands in his health insurance card " },
+          "uk": { "text": "здає свою картку медичного страхування " },
+          "cs": { "text": "odevzdává kartu zdravotní pojišťovny " },
+          "ru": { "text": "сдает свою карту медицинского страхования " }
+        },
+        {
+          "de": { "text": "und setzt sich auf einen freien Stuhl." },
+          "en": { "text": "and sits down on an empty chair." },
+          "uk": { "text": "і сідає на вільний стілець." },
+          "cs": { "text": "a sedá si na volnou židli." },
+          "ru": { "text": "и садится на свободный стул." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Nach zwanzig Minuten Wartezeit ", "explanation": "Zusammengesetztes Nomen ('Wartezeit')." },
+          "en": { "text": "After twenty minutes of waiting time ", "explanation": "Compound noun." },
+          "uk": { "text": "Після двадцяти хвилин очікування ", "explanation": "Складний іменник." },
+          "cs": { "text": "Po dvaceti minutách čekání ", "explanation": "Složené podstatné jméno." },
+          "ru": { "text": "После двадцати минут ожидания ", "explanation": "Сложное существительное." }
+        },
+        {
+          "de": { "text": "ruft ihn eine Arzthelferin auf: 'Herr Miller? Bitte in Zimmer Nummer drei.'" },
+          "en": { "text": "a medical assistant calls him: 'Mr. Miller? Room number three, please.'" },
+          "uk": { "text": "медична сестра викликає його: 'Пане Міллер? Будь ласка, в кімнату номер три.'" },
+          "cs": { "text": "zdravotní sestra ho vyvolá: 'Pan Miller? Prosím do místnosti číslo tři.'" },
+          "ru": { "text": "медсестра вызывает его: 'Господин Миллер? Пожалуйста, в комнату номер три.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "David steht auf, ", "explanation": "Trennbares Verb 'aufstehen' (to stand up)." },
+          "en": { "text": "David stands up, ", "explanation": "Separable verb." },
+          "uk": { "text": "Давид встає, ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "David vstává, ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Давид встает, ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "atmet tief ein und betritt das Sprechzimmer." },
+          "en": { "text": "takes a deep breath and enters the consultation room." },
+          "uk": { "text": "глибоко вдихає і заходить до кабінету лікаря." },
+          "cs": { "text": "zhluboka se nadechne a vstupuje do ordinace." },
+          "ru": { "text": "глубоко вдыхает и заходит в кабинет врача." }
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "segments": [
+        {
+          "de": { "text": "Im Sprechzimmer", "explanation": "Zwischenüberschrift." },
+          "en": { "text": "In the consultation room", "explanation": "Subheading." },
+          "uk": { "text": "У кабінеті лікаря", "explanation": "Підзаголовок." },
+          "cs": { "text": "V ordinaci", "explanation": "Podnadpis." },
+          "ru": { "text": "В кабинете врача", "explanation": "Подзаголовок." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Dr. Weber sitzt an seinem Schreibtisch ", "explanation": "Präsens von 'sitzen'." },
+          "en": { "text": "Dr. Weber sits at his desk ", "explanation": "Present tense." },
+          "uk": { "text": "Доктор Вебер сидить за своїм письмовим столом ", "explanation": "Теперішній час." },
+          "cs": { "text": "Dr. Weber sedí u svého stolu ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Доктор Вебер сидит за своим письменным столом ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und tippt etwas in den Computer." },
+          "en": { "text": "and types something into the computer." },
+          "uk": { "text": "і щось друкує в комп'ютері." },
+          "cs": { "text": "a něco píše do počítače." },
+          "ru": { "text": "и что-то печатает в компьютере." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Guten Tag, Herr Miller. ", "explanation": "Anrede." },
+          "en": { "text": "'Good day, Mr. Miller. ", "explanation": "Greeting." },
+          "uk": { "text": "'Добрий день, пане Міллер. ", "explanation": "Звернення." },
+          "cs": { "text": "'Dobrý den, pane Millere. ", "explanation": "Oslovení." },
+          "ru": { "text": "'Добрый день, господин Миллер. ", "explanation": "Обращение." }
+        },
+        {
+          "de": { "text": "Was fehlt Ihnen denn?' fragt er freundlich." },
+          "en": { "text": "What seems to be the matter?' he asks kindly." },
+          "uk": { "text": "Що у вас болить?' запитує він дружньо." },
+          "cs": { "text": "Co vás trápí?' ptá se přátelsky." },
+          "ru": { "text": "Что вас беспокоит?' спрашивает он дружелюбно." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Ich habe starke Kopfschmerzen, Husten ", "explanation": "Nominativ Maskulinum ('der Husten')." },
+          "en": { "text": "'I have a severe headache, cough ", "explanation": "Nominative masculine." },
+          "uk": { "text": "'У мене сильний головний біль, кашель ", "explanation": "Називний відмінок." },
+          "cs": { "text": "'Mám silnou bolest hlavy, kašel ", "explanation": "Nominativ." },
+          "ru": { "text": "'У меня сильная головная боль, кашель ", "explanation": "Именительный падеж." }
+        },
+        {
+          "de": { "text": "und heute Morgen auch noch Fieber gehabt.'" },
+          "en": { "text": "and had a fever this morning too.'" },
+          "uk": { "text": "і сьогодні вранці ще й температура була.'" },
+          "cs": { "text": "a dnes ráno jsem měl i horečku.'" },
+          "ru": { "text": "и сегодня утром еще и температура была.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Arzt untersucht ihn gründlich: ", "explanation": "Präsens von 'untersuchen' (to examine)." },
+          "en": { "text": "The doctor examines him thoroughly: ", "explanation": "Present tense." },
+          "uk": { "text": "Лікар ретельно оглядає його: ", "explanation": "Теперішній час." },
+          "cs": { "text": "Lékař ho důkladně vyšetří: ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Врач тщательно осматривает его: ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "er hört die Lunge ab, schaut in den Hals " },
+          "en": { "text": "he listens to his lungs, looks into his throat " },
+          "uk": { "text": "слухає легені, зазирає в горло " },
+          "cs": { "text": "poslechne si plíce, podívá se do krku " },
+          "ru": { "text": "слушает легкие, заглядывает в горло " }
+        },
+        {
+          "de": { "text": "und misst den Blutdruck." },
+          "en": { "text": "and measures blood pressure." },
+          "uk": { "text": "і вимірює тиск." },
+          "cs": { "text": "a změřit krevní tlak." },
+          "ru": { "text": "и измеряет артериальное давление." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Sie haben eine echte Grippe, Herr Miller,' " },
+          "en": { "text": "'You have a real flu, Mr. Miller,' " },
+          "uk": { "text": "'У вас справжній грип, пане Міллер,' " },
+          "cs": { "text": "'Máte skutečnou chřipku, pane Millere,' " },
+          "ru": { "text": "'У вас настоящий грипп, господин Миллер,' " }
+        },
+        {
+          "de": { "text": "stellt der Arzt fest." },
+          "en": { "text": "the doctor states." },
+          "uk": { "text": "констатує лікар." },
+          "cs": { "text": "konstatuje lékař." },
+          "ru": { "text": "констатирует врач." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Sie müssen mindestens drei Tage im Bett bleiben.'" },
+          "en": { "text": "'You must stay in bed for at least three days.'" },
+          "uk": { "text": "'Ви повинні залишатися в ліжку щонайменше три дні.'" },
+          "cs": { "text": "'Musíte zůstat v posteli nejméně tři dny.'" },
+          "ru": { "text": "'Вы должны оставаться в постели по меньшей мере три дня.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "David nickt erschöpft. ", "explanation": "Adverb 'erschöpft' (exhausted)." },
+          "en": { "text": "David nods exhausted. ", "explanation": "Adverb." },
+          "uk": { "text": "Давид виснажено киває. ", "explanation": "Прислівник." },
+          "cs": { "text": "David vyčerpaně přikývne. ", "explanation": "Příslovce." },
+          "ru": { "text": "Давид изможденно кивает. ", "explanation": "Наречие." }
+        },
+        {
+          "de": { "text": "Das hatte er ohnehin vor." },
+          "en": { "text": "He had planned on doing that anyway." },
+          "uk": { "text": "Він так і планував зробити." },
+          "cs": { "text": "To měl v plánu stejně." },
+          "ru": { "text": "Он так и планировал сделать." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Arzt schreibt ihm ein Rezept für Hustensaft aus " },
+          "en": { "text": "The doctor writes him a prescription for cough syrup " },
+          "uk": { "text": "Лікар виписує йому рецепт на сироп від кашлю " },
+          "cs": { "text": "Lékař mu předepíše recept na sirup proti kašli " },
+          "ru": { "text": "Врач выписывает ему рецепт на сироп от кашля " }
+        },
+        {
+          "de": { "text": "und schreibt die Krankmeldung für vier Tage." },
+          "en": { "text": "and writes the sick note for four days." },
+          "uk": { "text": "та оформлює лікарняний на чотири дні." },
+          "cs": { "text": "a vystaví neschopenku na čtyři dny." },
+          "ru": { "text": "и оформляет больничный лист на четыре дня." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Gute Besserung, Herr Miller!' verabschiedet sich Dr. Weber." },
+          "en": { "text": "'Get well soon, Mr. Miller!' Dr. Weber says goodbye." },
+          "uk": { "text": "'Одужуйте швидше, пане Міллер!' прощається доктор Вебер." },
+          "cs": { "text": "'Brzké uzdravení, pane Millere!' loučí se Dr. Weber." },
+          "ru": { "text": "'Скорейшего выздоровления, господин Миллер!' прощается доктор Вебер." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Auf dem Heimweg holt David noch schnell die Medikamente in der Apotheke ab." },
+          "en": { "text": "On the way home David quickly picks up the medicine at the pharmacy." },
+          "uk": { "text": "По дорозі додому Давид швидко забирає ліки в аптеці." },
+          "cs": { "text": "Cestou domů si David ještě rychle vyzvedne lék v lékárně." },
+          "ru": { "text": "По дороге домой Давид еще быстро забирает лекарство в аптеке." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Endlich wieder im warmen Bett, ", "explanation": "Präposition 'in' + Dativ." },
+          "en": { "text": "Finally back in the warm bed, ", "explanation": "Preposition 'in' + dative." },
+          "uk": { "text": "Нарешті знову в теплому ліжку, ", "explanation": "Прийменник 'in'." },
+          "cs": { "text": "Konečně zase v teplé posteli, ", "explanation": "Předložka 'in'." },
+          "ru": { "text": "Наконец снова в теплой постели, ", "explanation": "Предлог 'in'." }
+        },
+        {
+          "de": { "text": "schließt er die Augen und schläft sofort ein." },
+          "en": { "text": "he closes his eyes and falls asleep immediately." },
+          "uk": { "text": "він заплющує очі і одразу засинає." },
+          "cs": { "text": "zavírá oči a hned usíná." },
+          "ru": { "text": "он закрывает глаза и сразу засыпает." }
+        }
+      ]
+    }
+  ]
+}

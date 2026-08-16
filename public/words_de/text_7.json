@@ -1,0 +1,434 @@
+{
+  "id": "text_7",
+  "metadata": "Source: Real-Life Conversations (A1 Level - Epic Longform 7)",
+  "blocks": [
+    {
+      "type": "h1",
+      "segments": [
+        {
+          "de": { "text": "Die Wohnungssuche in der Stadt", "explanation": "Titel der Geschichte." },
+          "en": { "text": "The apartment hunt in the city", "explanation": "Title of the story." },
+          "uk": { "text": "Пошук квартири в місті", "explanation": "Назва історії." },
+          "cs": { "text": "Hledání bytu ve městě", "explanation": "Název příběhu." },
+          "ru": { "text": "Поиск квартиры в городе", "explanation": "Название истории." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Eine Wohnung zu finden ", "explanation": "Infinitivsatz mit 'zu'." },
+          "en": { "text": "Finding an apartment ", "explanation": "Infinitive clause with 'to'." },
+          "uk": { "text": "Знайти квартиру ", "explanation": "Інфінітивний зворот." },
+          "cs": { "text": "Najít byt ", "explanation": "Infinitivní věta." },
+          "ru": { "text": "Найти квартиру ", "explanation": "Инфинитивный оборот." }
+        },
+        {
+          "de": { "text": "ist in Deutschland oft keine leichte Aufgabe." },
+          "en": { "text": "is often not an easy task in Germany." },
+          "uk": { "text": "у Німеччині часто непросте завдання." },
+          "cs": { "text": "je v Německu často nelehký úkol." },
+          "ru": { "text": "в Германии часто непростая задача." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Jonas sitzt jeden Abend am Laptop ", "explanation": "Präsens von 'sitzen' (to sit)." },
+          "en": { "text": "Jonas sits at his laptop every evening ", "explanation": "Present tense." },
+          "uk": { "text": "Йонас щовечора сидить за ноутбуком ", "explanation": "Теперішній час." },
+          "cs": { "text": "Jonas sedí každý večer u notebooku ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Йонас каждый вечер сидит за ноутбуком ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und aktualisiert eine Immobilien-Website nach der anderen." },
+          "en": { "text": "and refreshes one real estate website after another." },
+          "uk": { "text": "і оновлює один сайт нерухомості за іншим." },
+          "cs": { "text": "a obnovuje jednu realitní webovou stránku za druhou." },
+          "ru": { "text": "и обновляет один сайт недвижимости за другим." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Die Mieten sind hoch, ", "explanation": "Nominativ Plural ('die Mieten')." },
+          "en": { "text": "Rents are high, ", "explanation": "Nominative plural." },
+          "uk": { "text": "Орендна плата висока, ", "explanation": "Називний відмінок множини." },
+          "cs": { "text": "Nájmy jsou vysoké, ", "explanation": "Nominativ množného čísla." },
+          "ru": { "text": "Арендная плата высокая, ", "explanation": "Именительный падеж во множественном числе." }
+        },
+        {
+          "de": { "text": "aber man braucht ein eigenes Dach über dem Kopf." },
+          "en": { "text": "but you need your own roof over your head." },
+          "uk": { "text": "але потрібен власний дах над головою." },
+          "cs": { "text": "ale člověk potřebuje vlastní střechu nad hlavou." },
+          "ru": { "text": "но нужна собственная крыша над головой." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Endlich kommt eine positive Nachricht: ", "explanation": "Genitiv der Art." },
+          "en": { "text": "Finally, a positive message arrives: ", "explanation": "Genitive of specification." },
+          "uk": { "text": "Нарешті надходить позитивне повідомлення: ", "explanation": "Родовий відмінок." },
+          "cs": { "text": "Konečně přichází pozitivní zpráva: ", "explanation": "Genitiv." },
+          "ru": { "text": "Наконец приходит позитивное сообщение: ", "explanation": "Родительный падеж." }
+        },
+        {
+          "de": { "text": "Ein Vermieter lädt ihn zu einer Besichtigung ein." },
+          "en": { "text": "A landlord invites him to a viewing." },
+          "uk": { "text": "Орендодавець запрошує його на огляд." },
+          "cs": { "text": "Pronajímatel ho pozve na prohlídku." },
+          "ru": { "text": "Арендодатель приглашает его на осмотр." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Jonas zieht sich sein bestes Hemd an ", "explanation": "Reflexives und trennbares Verb 'sich anziehen'." },
+          "en": { "text": "Jonas puts on his best shirt ", "explanation": "Reflexive separable verb." },
+          "uk": { "text": "Йонас одягає свою найкращу сорочку ", "explanation": "Зворотне розділове дієслово." },
+          "cs": { "text": "Jonas si obléká svou nejlepší košili ", "explanation": "Zvratné sloveso s předponou." },
+          "ru": { "text": "Йонас надевает свою лучшую рубашку ", "explanation": "Возвратный глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und putzt seine Schuhe besonders gründlich." },
+          "en": { "text": "and cleans his shoes especially thoroughly." },
+          "uk": { "text": "і чистить своє взуття особливо ретельно." },
+          "cs": { "text": "a čistí si boty obzvlášť důkladně." },
+          "ru": { "text": "и чистит свою обувь особенно тщательно." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er will einen guten ersten Eindruck hinterlassen." },
+          "en": { "text": "He wants to leave a good first impression." },
+          "uk": { "text": "Він хоче справити хороше перше враження." },
+          "cs": { "text": "Chce zanechat dobrý první dojem." },
+          "ru": { "text": "Он хочет оставить хорошее первое впечатление." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Das Haus liegt in einer ruhigen Seitenstraße ", "explanation": "Präposition 'in' + Dativ Femininum." },
+          "en": { "text": "The house is located in a quiet side street ", "explanation": "Preposition 'in' + dative." },
+          "uk": { "text": "Будинок розташований на тихій бічній вулиці ", "explanation": "Прийменник 'in'." },
+          "cs": { "text": "Dům stojí v klidné boční ulici ", "explanation": "Předložka 'in'." },
+          "ru": { "text": "Дом расположен на тихой боковой улице ", "explanation": "Предлог 'in'." }
+        },
+        {
+          "de": { "text": "mit vielen grünen Bäumen davor." },
+          "en": { "text": "with many green trees in front of it." },
+          "uk": { "text": "з великою кількістю зелених дерев перед ним." },
+          "cs": { "text": "s mnoha zelenými stromy před ním." },
+          "ru": { "text": "со множеством зеленых деревьев перед ним." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Vor dem Eingang warten schon drei andere Bewerber ", "explanation": "Nominativ Plural ('drei andere Bewerber')." },
+          "en": { "text": "Three other applicants are already waiting in front of the entrance ", "explanation": "Nominative plural." },
+          "uk": { "text": "Перед входом вже чекають троє інших претендентів ", "explanation": "Називний відмінок." },
+          "cs": { "text": "Před vchodem už čekají tři další uchazeči ", "explanation": "Nominativ." },
+          "ru": { "text": "Перед входом уже ждут три других претендента ", "explanation": "Именительный падеж." }
+        },
+        {
+          "de": { "text": "mit ernsten Gesichtern." },
+          "en": { "text": "with serious faces." },
+          "uk": { "text": "з серйозними обличчями." },
+          "cs": { "text": "s vážnými tvářemi." },
+          "ru": { "text": "с серьезными лицами." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Jonas lächelt freundlich ", "explanation": "Adverb 'freundlich'." },
+          "en": { "text": "Jonas smiles friendly ", "explanation": "Adverb." },
+          "uk": { "text": "Йонас дружньо посміхається ", "explanation": "Прислівник." },
+          "cs": { "text": "Jonas se přátelsky usmívá ", "explanation": "Příslovce." },
+          "ru": { "text": "Йонас дружелюбно улыбается ", "explanation": "Наречие." }
+        },
+        {
+          "de": { "text": "und wartet geduldig auf den Vermieter." },
+          "en": { "text": "and waits patiently for the landlord." },
+          "uk": { "text": "і терпляче чекає на орендодавця." },
+          "cs": { "text": "a trpělivě čeká na pronajímatele." },
+          "ru": { "text": "и терпеливо ждет арендодателя." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Pünktlich um Uhrzeit öffnet sich die Haustür. ", "explanation": "Reflexives Passiv / Verb 'sich öffnen'." },
+          "en": { "text": "Right on time, the front door opens. ", "explanation": "Reflexive verb." },
+          "uk": { "text": "Вчасно вхідні двері відчиняються. ", "explanation": "Зворотне дієслово." },
+          "cs": { "text": "Přesně včas se vchodové dveře otevírají. ", "explanation": "Zvratné sloveso." },
+          "ru": { "text": "Ровно вовремя входная дверь открывается. ", "explanation": "Возвратный глагол." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Ein älterer Herr mit grauen Haaren begrüßt die Gruppe: ", "explanation": "Nominativ Maskulinum ('ein älterer Herr')." },
+          "en": { "text": "An older gentleman with gray hair greets the group: ", "explanation": "Nominative masculine." },
+          "uk": { "text": "Літній чоловік з сивим волоссям вітає групу: ", "explanation": "Називний відмінок." },
+          "cs": { "text": "Starší pán s šedivými vlasy vítá skupinu: ", "explanation": "Nominativ." },
+          "ru": { "text": "Пожилой мужчина с седыми волосами приветствует группу: ", "explanation": "Именительный падеж." }
+        },
+        {
+          "de": { "text": "'Guten Tag, bitte kommen Sie alle herein.'" },
+          "en": { "text": "'Good day, please everyone come in.'" },
+          "uk": { "text": "'Добрий день, будь ласка, заходьте всі всередину.'" },
+          "cs": { "text": "'Dobrý den, prosím, pojďte všichni dál.'" },
+          "ru": { "text": "'Добрый день, пожалуйста, проходите все внутрь.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Die Wohnung liegt im zweiten Stock ", "explanation": "Präposition 'in' + Dativ (wo?)." },
+          "en": { "text": "The apartment is on the second floor ", "explanation": "Preposition 'in' + dative." },
+          "uk": { "text": "Квартира розташована на другому поверсі ", "explanation": "Прийменник 'in'." },
+          "cs": { "text": "Byt se nachází ve druhém patře ", "explanation": "Předložka 'in'." },
+          "ru": { "text": "Квартира находится на втором этаже ", "explanation": "Предлог 'in'." }
+        },
+        {
+          "de": { "text": "und hat zwei helle Zimmer, eine Küche und ein Bad." },
+          "en": { "text": "and has two bright rooms, a kitchen and a bathroom." },
+          "uk": { "text": "і має дві світлі кімнати, кухню та ванну кімнату." },
+          "cs": { "text": "a má dva světlé pokoje, kuchyň a koupelnu." },
+          "ru": { "text": "и имеет две светлые комнаты, кухню и ванную." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Jonas geht als Letzter hinein ", "explanation": "Superlativ als Adverb ('als Letzter')." },
+          "en": { "text": "Jonas goes in last ", "explanation": "Superlative adverb." },
+          "uk": { "text": "Йонас заходить останнім ", "explanation": "Суперлятив." },
+          "cs": { "text": "Jonas jde dovnitř jako poslední ", "explanation": "Superlativ." },
+          "ru": { "text": "Йонас заходит последним ", "explanation": "Превосходная степень." }
+        },
+        {
+          "de": { "text": "und schaut sich alles ganz genau an." },
+          "en": { "text": "and looks at everything very closely." },
+          "uk": { "text": "і дуже уважно все оглядає." },
+          "cs": { "text": "a vše si velmi pozorně prohlíží." },
+          "ru": { "text": "и очень внимательно все осматривает." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Die Böden sind aus echtem Holz ", "explanation": "Präposition 'aus' + Dativ (Material)." },
+          "en": { "text": "The floors are made of real wood ", "explanation": "Preposition 'aus' + dative for material." },
+          "uk": { "text": "Підлога з справжнього дерева ", "explanation": "Прийменник 'aus' для матеріалу." },
+          "cs": { "text": "Podlahy jsou z pravého dřeva ", "explanation": "Předložka 'aus' pro materiál." },
+          "ru": { "text": "Полы из настоящего дерева ", "explanation": "Предлог 'aus' для материала." }
+        },
+        {
+          "de": { "text": "und die großen Fenster lassen viel Sonnenlicht hinein." },
+          "en": { "text": "and the large windows let a lot of sunlight in." },
+          "uk": { "text": "і великі вікна пропускають багато сонячного світла." },
+          "cs": { "text": "a velká okna dovnitř pouštějí spoustu slunečního světla." },
+          "ru": { "text": "и большие окна пропускают много солнечного света." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Die Kaltmiete beträgt achthundert Euro,' ", "explanation": "Zusammengesetztes Nomen ('Kaltmiete')." },
+          "en": { "text": "'The basic rent is eight hundred euros,' ", "explanation": "Compound noun." },
+          "uk": { "text": "'Холодна орендна плата становить вісімсот євро,' ", "explanation": "Складний іменник." },
+          "cs": { "text": "'Čistý nájem činí osm set euro,' ", "explanation": "Složené podstatné jméno." },
+          "ru": { "text": "'Холодная арендная плата составляет восемьсот евро,' ", "explanation": "Сложное существительное." }
+        },
+        {
+          "de": { "text": "erklärt der Vermieter mit ruhiger Stimme." },
+          "en": { "text": "explains the landlord in a calm voice." },
+          "uk": { "text": "пояснює орендодавець спокійним голосом." },
+          "cs": { "text": "vysvětluje pronajímatel klidným hlasem." },
+          "ru": { "text": "объясняет арендодатель спокойным голосом." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Dazu kommen zweihundert Euro Nebenkosten ", "explanation": "Zusammengesetztes Nomen ('Nebenkosten')." },
+          "en": { "text": "'Plus two hundred euros in utility costs ", "explanation": "Compound noun." },
+          "uk": { "text": "'До цього додається двісті євро комунальних послуг' ", "explanation": "Складний іменник." },
+          "cs": { "text": "'K tomu se přičítá dvě stě euro poplatků' ", "explanation": "Složené podstatné jméno." },
+          "ru": { "text": "'К этому добавляется двести евро коммунальных услуг' ", "explanation": "Сложное существительное." }
+        },
+        {
+          "de": { "text": "für Wasser, Heizung und Müllabfuhr.'" },
+          "en": { "text": "for water, heating, and garbage disposal.'" },
+          "uk": { "text": "за воду, опалення та вивезення сміття.'" },
+          "cs": { "text": "za vodu, topení a odvoz odpadu.'" },
+          "ru": { "text": "за воду, отопление и вывоз мусора.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Jonas nickt eifrig ", "explanation": "Adverb 'eifrig' (eagerly)." },
+          "en": { "text": "Jonas nods eagerly ", "explanation": "Adverb." },
+          "uk": { "text": "Йонас завзято киває ", "explanation": "Прислівник." },
+          "cs": { "text": "Jonas horlivě přikývne ", "explanation": "Příslovce." },
+          "ru": { "text": "Йонас усердно кивает ", "explanation": "Наречие." }
+        },
+        {
+          "de": { "text": "weil er genau weiß, dass diese Wohnung perfekt für ihn ist." },
+          "en": { "text": "because he knows exactly that this apartment is perfect for him." },
+          "uk": { "text": "бо він точно знає, що ця квартира ідеальна для нього." },
+          "cs": { "text": "protože přesně ví, že tento byt je pro něj perfektní." },
+          "ru": { "text": "потому что он точно знает, что эта квартира идеальна для него." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Am nächsten Tag schreibt er eine kurze E-Mail: ", "explanation": "Akkusativ Femininum ('eine kurze E-Mail')." },
+          "en": { "text": "The next day he writes a short email: ", "explanation": "Accusative feminine." },
+          "uk": { "text": "Наступного дня він пише коротки електронний лист: ", "explanation": "Знахідний відмінок." },
+          "cs": { "text": "Následující den napíše krátký e-mail: ", "explanation": "Akuzativ." },
+          "ru": { "text": "На следующий день он пишет короткое электронное письмо: ", "explanation": "Винительный падеж." }
+        },
+        {
+          "de": { "text": "'Ich nehme die Wohnung sehr gerne!'" },
+          "en": { "text": "'I would very much like to take the apartment!'" },
+          "uk": { "text": "'Я дуже залюбки візьму цю квартиру!'" },
+          "cs": { "text": "'Byt si velmi rád vezmu!'" },
+          "ru": { "text": "'Я с большим удовольствием возьму эту квартиру!'" }
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "segments": [
+        {
+          "de": { "text": "Der Umzugstag", "explanation": "Zwischenüberschrift." },
+          "en": { "text": "Moving day", "explanation": "Subheading." },
+          "uk": { "text": "День переїзду", "explanation": "Підзаголовок." },
+          "cs": { "text": "Den stěhování", "explanation": "Podnadpis." },
+          "ru": { "text": "День переезда", "explanation": "Подзаголовок." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Zwei Wochen später stehen dreißig Pappkartons ", "explanation": "Nominativ Plural ('dreißig Pappkartons')." },
+          "en": { "text": "Two weeks later thirty cardboard boxes stand ", "explanation": "Nominative plural." },
+          "uk": { "text": "Два тижні потому тридцять картонних коробок стоять ", "explanation": "Називний відмінок." },
+          "cs": { "text": "O dva týdny později stojí třicet kartonových krabic ", "explanation": "Nominativ." },
+          "ru": { "text": "Две недели спустя тридцать картонных коробок стоят ", "explanation": "Именительный падеж." }
+        },
+        {
+          "de": { "text": "im neuen Wohnzimmer." },
+          "en": { "text": "in the new living room." },
+          "uk": { "text": "у новій вітальні." },
+          "cs": { "text": "v novém obývacím pokoji." },
+          "ru": { "text": "в новой гостиной." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Jonas wischt sich den Schweiß von der Stirn ", "explanation": "Reflexives Verb 'sich den Schweiß wischen'." },
+          "en": { "text": "Jonas wipes the sweat from his forehead ", "explanation": "Reflexive action." },
+          "uk": { "text": "Йонас витирає піт з чола ", "explanation": "Зворотна дія." },
+          "cs": { "text": "Jonas si otírá pot z čela ", "explanation": "Zvratná akce." },
+          "ru": { "text": "Йонас вытирает пот со лба ", "explanation": "Возвратное действие." }
+        },
+        {
+          "de": { "text": "und trinkt eine kalte Flasche Wasser." },
+          "en": { "text": "and drinks a cold bottle of water." },
+          "uk": { "text": "і п'є холодну пляшку води." },
+          "cs": { "text": "a pije studenou lahvičku vody." },
+          "ru": { "text": "и пьет холодную бутылку воды." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Die Kisten sind schwer, ", "explanation": "Nominativ Plural ('die Kisten')." },
+          "en": { "text": "The boxes are heavy, ", "explanation": "Nominative plural." },
+          "uk": { "text": "Коробки важкі, ", "explanation": "Називний відмінок." },
+          "cs": { "text": "Krabice jsou těžké, ", "explanation": "Nominativ." },
+          "ru": { "text": "Коробки тяжелые, ", "explanation": "Именительный падеж." }
+        },
+        {
+          "de": { "text": "aber das Gefühl von einem eigenen Zuhause ist unbezahlbar." },
+          "en": { "text": "but the feeling of having your own home is priceless." },
+          "uk": { "text": "але відчуття власного будинку безцінне." },
+          "cs": { "text": "ale pocit z vlastního domova je k nezaplacení." },
+          "ru": { "text": "но чувство собственного дома бесценно." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er schaut aus dem Fenster auf die grüne Straße. ", "explanation": "Präsens von 'schauen' (to look)." },
+          "en": { "text": "He looks out the window onto the green street. ", "explanation": "Present tense." },
+          "uk": { "text": "Він дивиться у вікно на зелену вулицю. ", "explanation": "Теперішній час." },
+          "cs": { "text": "Dívá se z okna na zelenou ulici. ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Он смотрит в окно на зеленую улицу. ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "Hier wird er glücklich sein." },
+          "en": { "text": "Here he will be happy." },
+          "uk": { "text": "Тут він буде щасливим." },
+          "cs": { "text": "Tady bude šťastný." },
+          "ru": { "text": "Здесь он будет счастливым." }
+        }
+      ]
+    }
+  ]
+}

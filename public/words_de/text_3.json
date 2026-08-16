@@ -1,0 +1,751 @@
+{
+  "id": "text_3",
+  "metadata": "Source: Real-Life Conversations (A1 Level - Epic Longform 3)",
+  "blocks": [
+    {
+      "type": "h1",
+      "segments": [
+        {
+          "de": { "text": "Die große Supermarkt-Mission", "explanation": "Titel der Geschichte." },
+          "en": { "text": "The Great Supermarket Mission", "explanation": "Title of the story." },
+          "uk": { "text": "Велика супермаркетна місія", "explanation": "Назва історії." },
+          "cs": { "text": "Velká supermarketová mise", "explanation": "Název příběhu." },
+          "ru": { "text": "Великая супермаркетная миссия", "explanation": "Название истории." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Es ist Samstagvormittag ", "explanation": "Zusammengesetztes Nomen für Samstag + Vormittag." },
+          "en": { "text": "It is Saturday morning ", "explanation": "Compound noun." },
+          "uk": { "text": "Суботній ранок ", "explanation": "Складний іменник." },
+          "cs": { "text": "Je sobotní dopoledne ", "explanation": "Složené podstatné jméno." },
+          "ru": { "text": "Субботнее утро ", "explanation": "Сложное существительное." }
+        },
+        {
+          "de": { "text": "und Jonas schaut in seinen leeren Kühlschrank. ", "explanation": "Präsens von 'schauen' (to look)." },
+          "en": { "text": "and Jonas looks into his empty fridge. ", "explanation": "Present tense of 'to look'." },
+          "uk": { "text": "і Йонас зазирає у свій порожній холодильник. ", "explanation": "Теперішній час." },
+          "cs": { "text": "a Jonas se dívá do své prázdné lednice. ", "explanation": "Přítomný čas." },
+          "ru": { "text": "и Йонас заглядывает в свой пустой холодильник. ", "explanation": "Настоящее время." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Da ist wirklich gar nichts mehr drin. ", "explanation": "Umgangssprachlicher Ausdruck für 'nichts'." },
+          "en": { "text": "There is truly nothing left inside. ", "explanation": "Colloquial expression." },
+          "uk": { "text": "Там справді більше нічого немає. ", "explanation": "Розмовний вираз." },
+          "cs": { "text": "Tam opravdu už nic není. ", "explanation": "Hovorový výraz." },
+          "ru": { "text": "Там действительно больше ничего нет. ", "explanation": "Разговорное выражение." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Nicht einmal ein kleiner Joghurt ", "explanation": "Negation mit 'nicht einmal' (not even)." },
+          "en": { "text": "Not even a small yogurt ", "explanation": "Negation 'not even'." },
+          "uk": { "text": "Навіть маленького йогурту ", "explanation": "Заперечення." },
+          "cs": { "text": "Ani jeden malý jogurt ", "explanation": "Zápor." },
+          "ru": { "text": "Даже маленького йогурта ", "explanation": "Отрицание." }
+        },
+        {
+          "de": { "text": "oder ein Stück Käse." },
+          "en": { "text": "or a piece of cheese." },
+          "uk": { "text": "або шматочка сиру." },
+          "cs": { "text": "nebo kousek sýra." },
+          "ru": { "text": "или кусочка сыра." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er seufzt tief ", "explanation": "Präsens von 'seufzen' (to sigh)." },
+          "en": { "text": "He sighs deeply ", "explanation": "Present tense of 'to sigh'." },
+          "uk": { "text": "Він глибоко зітхає ", "explanation": "Теперішній час." },
+          "cs": { "text": "Hluboce si vzdychne ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Он глубоко вздыхает ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und zieht seine Jacke an." },
+          "en": { "text": "and puts on his jacket." },
+          "uk": { "text": "і одягає куртку." },
+          "cs": { "text": "a obléká si bundu." },
+          "ru": { "text": "и надевает куртку." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er muss einkaufen gehen, ", "explanation": "Modalverb 'müssen' + Infinitiv mit 'zu'." },
+          "en": { "text": "He has to go shopping, ", "explanation": "Modal verb construction." },
+          "uk": { "text": "Він мусить йти за покупками, ", "explanation": "Модальне дієслово." },
+          "cs": { "text": "Musí jít nakupovat, ", "explanation": "Modální sloveso." },
+          "ru": { "text": "Он должен пойти за покупками, ", "explanation": "Модальный глагол." }
+        },
+        {
+          "de": { "text": "ob er will oder nicht." },
+          "en": { "text": "whether he wants to or not." },
+          "uk": { "text": "хоче він цього чи ні." },
+          "cs": { "text": "ať chce nebo nechce." },
+          "ru": { "text": "хочет он этого или нет." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "In seiner Tasche klimpert eine Ein-Euro-Münze ", "explanation": "Präsens von 'klimpern' (to jingle)." },
+          "en": { "text": "A one-euro coin jingles in his pocket ", "explanation": "Present tense of 'to jingle'." },
+          "uk": { "text": "У його кишені дзвенить монета в один євро ", "explanation": "Теперішній час." },
+          "cs": { "text": "V jeho kapse chřestí jedineurová mince ", "explanation": "Přítomný čas." },
+          "ru": { "text": "В его кармане звенит монета в один евро ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "für den Einkaufswagen." },
+          "en": { "text": "for the shopping cart." },
+          "uk": { "text": "для візка для покупців." },
+          "cs": { "text": "pro nákupní vozík." },
+          "ru": { "text": "для тележки для покупок." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Weg zum Discounter dauert nur zehn Minuten zu Fuß." },
+          "en": { "text": "The walk to the discount supermarket takes only ten minutes on foot." },
+          "uk": { "text": "Дорога до дискаунтера займає лише десять хвилин пішки." },
+          "cs": { "text": "Cesta do diskontu trvá pěšky jen deset minut." },
+          "ru": { "text": "Дорога до дискаунтера занимает всего десять минут пешком." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Draußen ist es sonnig, ", "explanation": "Wetterbeschreibung mit 'es'." },
+          "en": { "text": "Outside it is sunny, ", "explanation": "Weather description." },
+          "uk": { "text": "На вулиці сонячно, ", "explanation": "Опис погоди." },
+          "cs": { "text": "Venku je slunečno, ", "explanation": "Popis počasí." },
+          "ru": { "text": "На улице солнечно, ", "explanation": "Описание погоды." }
+        },
+        {
+          "de": { "text": "aber der Wind ist ziemlich frisch." },
+          "en": { "text": "but the wind is quite brisk." },
+          "uk": { "text": "але вітер досить свіжий." },
+          "cs": { "text": "ale vítr je docela čerstvý." },
+          "ru": { "text": "но ветер довольно свежий." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Vor dem Eingang stehen viele andere Menschen ", "explanation": "Lokales 'vor dem Eingang' + Dativ." },
+          "en": { "text": "In front of the entrance stand many other people ", "explanation": "Locational phrase." },
+          "uk": { "text": "Перед входом стоїть багато інших людей ", "explanation": "Місцевий зворот." },
+          "cs": { "text": "Před vchodem stojí mnoho dalších lidí ", "explanation": "Místní určení." },
+          "ru": { "text": "Перед входом стоит много других людей ", "explanation": "Местный оборот." }
+        },
+        {
+          "de": { "text": "mit großen Einkaufszetteln in der Hand." },
+          "en": { "text": "with big shopping lists in their hand." },
+          "uk": { "text": "з великими списками покупок у руці." },
+          "cs": { "text": "s velkými nákupními lístky v ruce." },
+          "ru": { "text": "с большими списками покупок в руке." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Jonas nimmt einen Wagen ", "explanation": "Präsens von 'nehmen' (to take)." },
+          "en": { "text": "Jonas takes a cart ", "explanation": "Present tense of 'to take'." },
+          "uk": { "text": "Йонас бере візок ", "explanation": "Теперішній час." },
+          "cs": { "text": "Jonas si bere vozík ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Йонас берет тележку ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und steckt seine Münze in das Schloss." },
+          "en": { "text": "and inserts his coin into the lock." },
+          "uk": { "text": "і вставляє свою монету в замок." },
+          "cs": { "text": "a strká svou minci do zámku." },
+          "ru": { "text": "и вставляет свою монету в замок." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Es klappt sofort. ", "explanation": "Fester Ausdruck 'es klappt' (it works)." },
+          "en": { "text": "It works immediately. ", "explanation": "Fixed expression 'it works'." },
+          "uk": { "text": "Це спрацьовує одразу. ", "explanation": "Сталий вираз." },
+          "cs": { "text": "Funguje to hned. ", "explanation": "Pevné spojení." },
+          "ru": { "text": "Это срабатывает сразу. ", "explanation": "Устойчивое выражение." }
+        },
+        {
+          "de": { "text": "Er betritt den hellen Laden." },
+          "en": { "text": "He enters the bright shop." },
+          "uk": { "text": "Він заходить у світлий магазин." },
+          "cs": { "text": "Vstupuje do světlého obchodu." },
+          "ru": { "text": "Он заходит в светлый магазин." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der erste Gang ist voller Obst und Gemüse. ", "explanation": "Nominativ Neutrum ('das Obst')." },
+          "en": { "text": "The first aisle is full of fruit and vegetables. ", "explanation": "Nominative neuter." },
+          "uk": { "text": "Перший ряд сповнений фруктів та овочів. ", "explanation": "Називний відмінок." },
+          "cs": { "text": "První ulička je plná ovoce a zeleniny. ", "explanation": "Nominativ." },
+          "ru": { "text": "Первый ряд полон фруктов и овощей. ", "explanation": "Именительный падеж." }
+        },
+        {
+          "de": { "text": "Er braucht zuerst Tomaten und Gurken." },
+          "en": { "text": "He first needs tomatoes and cucumbers." },
+          "uk": { "text": "Спочатку йому потрібні помідори та огірки." },
+          "cs": { "text": "Nejprve potřebuje rajčata a okurky." },
+          "ru": { "text": "Сначала ему нужны помидоры и огурцы." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er legt drei rote Tomaten in eine kleine Plastiktüte." },
+          "en": { "text": "He puts three red tomatoes into a small plastic bag." },
+          "uk": { "text": "Він кладе три червоні помідори в маленький пластиковий пакет." },
+          "cs": { "text": "Dává tři červená rajčata do malého plastového sáčku." },
+          "ru": { "text": "Он кладет три красных помидора в маленький пластиковый пакет." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Dann muss er zur Waage gehen, ", "explanation": "Modalverb 'müssen'." },
+          "en": { "text": "Then he has to go to the scale, ", "explanation": "Modal verb." },
+          "uk": { "text": "Потім він мусить йти до вагів, ", "explanation": "Модальне дієслово." },
+          "cs": { "text": "Pak musí jít k váze, ", "explanation": "Modální sloveso." },
+          "ru": { "text": "Затем он должен пойти к весам, ", "explanation": "Модальный глагол." }
+        },
+        {
+          "de": { "text": "weil loser Gemüsepreis eingetippt werden muss." },
+          "en": { "text": "because loose vegetable prices must be entered." },
+          "uk": { "text": "бо потрібно ввести ціну на ваговому овочі." },
+          "cs": { "text": "protože se musí zadat cena volné zeleniny." },
+          "ru": { "text": "потому что нужно ввести цену на весовые овощи." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Auf der Waage sind viele kleine Bilder von Lebensmitteln." },
+          "en": { "text": "On the scale are many small pictures of groceries." },
+          "uk": { "text": "На вагах багато маленьких малюнків продуктів." },
+          "cs": { "text": "Na váze je mnoho malých obrázků potravin." },
+          "ru": { "text": "На весах много маленьких картинок продуктов." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er sucht das Bild von der Tomate ", "explanation": "Genitiv der Zugehörigkeit." },
+          "en": { "text": "He searches for the picture of the tomato ", "explanation": "Genitive of possession." },
+          "uk": { "text": "Він шукає картинку помідора ", "explanation": "Родовий відмінок." },
+          "cs": { "text": "Hledá obrázek rajčete ", "explanation": "Genitiv přivlastňovací." },
+          "ru": { "text": "Он ищет картинку помидора ", "explanation": "Родительный падеж." }
+        },
+        {
+          "de": { "text": "und drückt darauf." },
+          "en": { "text": "and presses it." },
+          "uk": { "text": "і натискає на неї." },
+          "cs": { "text": "a stiskne ho." },
+          "ru": { "text": "и нажимает на нее." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Ein kleiner Aufkleber kommt heraus. ", "explanation": "Trennbares Verb 'herauskommen' (to come out)." },
+          "en": { "text": "A small sticker comes out. ", "explanation": "Separable verb." },
+          "uk": { "text": "Вилазить невеличка наклейка. ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Vyleze malá nálepka. ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Вылезает маленькая наклейка. ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "Jonas klebt ihn auf den Beutel." },
+          "en": { "text": "Jonas sticks it onto the bag." },
+          "uk": { "text": "Йонас наклеює її на пакет." },
+          "cs": { "text": "Jonas ji nalepí na sáček." },
+          "ru": { "text": "Йонас наклеивает ее на пакет." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Schritt Nummer eins ist geschafft. ", "explanation": "Perfekt Passiv / Zustandspassiv." },
+          "en": { "text": "Step number one is done. ", "explanation": "Completed action." },
+          "uk": { "text": "Крок номер один виконано. ", "explanation": "Виконана дія." },
+          "cs": { "text": "Krok číslo jedna je hotov. ", "explanation": "Dokončená akce." },
+          "ru": { "text": "Шаг номер один выполнен. ", "explanation": "Завершенное действие." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Als Nächstes geht er zum Kühlregal. ", "explanation": "Temporaladverb 'als Nächstes' (next)." },
+          "en": { "text": "Next he goes to the refrigerated shelf. ", "explanation": "Temporal adverb." },
+          "uk": { "text": "Далі він йде до холодильної полиці. ", "explanation": "Прислівник часу." },
+          "cs": { "text": "Jako další jde k chladicímu regálu. ", "explanation": "Časové příslovce." },
+          "ru": { "text": "Затем он идет к холодильной полке. ", "explanation": "Наречие времени." }
+        },
+        {
+          "de": { "text": "Hier steht er vor einer riesigen Auswahl an Milchprodukten." },
+          "en": { "text": "Here he stands in front of a huge selection of dairy products." },
+          "uk": { "text": "Тут він стоїть перед величезним вибором молочних продуктів." },
+          "cs": { "text": "Tady stojí před obrovským výběrem mléčných výrobků." },
+          "ru": { "text": "Здесь он стоит перед огромным выбором молочных продуктов." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er greift nach fettarmer Milch ", "explanation": "Präposition 'nach' + Dativ." },
+          "en": { "text": "He reaches for low-fat milk ", "explanation": "Preposition 'nach' + dative." },
+          "uk": { "text": "Він тягнеться за знежиреним молоком ", "explanation": "Прийменник 'nach'." },
+          "cs": { "text": "Sahá po nízkotučné mléko ", "explanation": "Předložka 'nach'." },
+          "ru": { "text": "Он тянется за обезжиренным молоком ", "explanation": "Предлог 'nach'." }
+        },
+        {
+          "de": { "text": "und legt eine Packung Butter in den Wagen." },
+          "en": { "text": "and puts a pack of butter into the cart." },
+          "uk": { "text": "і кладе пачку масла у візок." },
+          "cs": { "text": "a klade balení másla do vozíku." },
+          "ru": { "text": "и кладет пачку масла в тележку." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Moment mal, wo ist eigentlich der Naturjoghurt? " },
+          "en": { "text": "Wait a minute, where is the plain yogurt actually? " },
+          "uk": { "text": "Хвилинку, де взагалі натуральний йогурт? " },
+          "cs": { "text": "Moment, kde je vlastně bílý jogurt? " },
+          "ru": { "text": "Менеджмент, где вообще натуральный йогурт? " }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er sucht den Gang ab, ", "explanation": "Trennbares Verb 'absuchen' (to search/scan)." },
+          "en": { "text": "He scans the aisle, ", "explanation": "Separable verb." },
+          "uk": { "text": "Він оглядає ряд, ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Prohledává uličku, ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Он осматривает проход, ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "aber findet ihn nicht sofort." },
+          "en": { "text": "but doesn't find it immediately." },
+          "uk": { "text": "але знаходить його не одразу." },
+          "cs": { "text": "ale nenajde ho hned." },
+          "ru": { "text": "но находит его не сразу." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Da kommt eine freundliche Verkäuferin vorbei ", "explanation": "Trennbares Verb 'vorbeikommen'." },
+          "en": { "text": "A friendly saleswoman walks by " },
+          "uk": { "text": "Там проходить повз приємна продавчиня " },
+          "cs": { "text": "Jde kolem příjemná prodavačka " },
+          "ru": { "text": "Тут проходит мимо приятная продавщица " }
+        },
+        {
+          "de": { "text": "mit einem blauen Rollwagen voller Kartons." },
+          "en": { "text": "with a blue cart full of cardboard boxes." },
+          "uk": { "text": "з синім візком, повним картонних коробок." },
+          "cs": { "text": "s modrým vozíkem plným krabic." },
+          "ru": { "text": "с синей тележкой, полной картонных коробок." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Jonas fasst sich ein Herz ", "explanation": "Fester Ausdruck 'sich ein Herz fassen' (to gather courage)." },
+          "en": { "text": "Jonas gathers his courage ", "explanation": "Fixed idiom for gathering courage." },
+          "uk": { "text": "Йонас наберaється сміливості ", "explanation": "Сталий вираз." },
+          "cs": { "text": "Jonas sebere odvahu ", "explanation": "Pevné spojení." },
+          "ru": { "text": "Йонас набирается смелости ", "explanation": "Устойчивое выражение." }
+        },
+        {
+          "de": { "text": "und spricht sie auf Deutsch an." },
+          "en": { "text": "and speaks to her in German." },
+          "uk": { "text": "і звертається до неї німецькою." },
+          "cs": { "text": "a promluví na ni německy." },
+          "ru": { "text": "и обращается к ней по-немецки." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Entschuldigung, wo finde ich den Joghurt?' " },
+          "en": { "text": "'Excuse me, where do I find the yogurt?' " },
+          "uk": { "text": "'Вибачте, де я можу знайти йогурт?' " },
+          "cs": { "text": "'Promiňte, kde najdu jogurt?' " },
+          "ru": { "text": "'Извините, где я могу найти йогурт?' " }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Die Frau lächelt ", "explanation": "Präsens von 'lächeln'." },
+          "en": { "text": "The woman smiles " },
+          "uk": { "text": "Жінка посміхається " },
+          "cs": { "text": "Žena se usmívá " },
+          "ru": { "text": "Женщина улыбается " }
+        },
+        {
+          "de": { "text": "und zeigt nach links: 'In Gang drei, direkt neben der Butter.'" },
+          "en": { "text": "and points to the left: 'In aisle three, right next to the butter.'" },
+          "uk": { "text": "і вказує наліво: 'У третьому ряду, одразу біля масла.'" },
+          "cs": { "text": "a ukazuje doleva: 'V uličce tři, hned vedle másla.'" },
+          "ru": { "text": "и указывает налево: 'В третьем ряду, сразу возле масла.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Vielen Dank!' antwortet Jonas erleichtert." },
+          "en": { "text": "'Many thanks!' Jonas replies relieved." },
+          "uk": { "text": "'Дуже дякую!' відповідає Йонас із полегшенням." },
+          "cs": { "text": "'Moc děkuji!' odpovídá Jonas s úlevou." },
+          "ru": { "text": "'Большое спасибо!' отвечает Йонас с облегчением." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Nachdem er auch den Joghurt gefunden hat, ", "explanation": "Nebensatz mit 'nachdem' (after)." },
+          "en": { "text": "After he has also found the yogurt, " },
+          "uk": { "text": "Після того, як він також знайшов йогурт, " },
+          "cs": { "text": "Poté, co našel i jogurt, " },
+          "ru": { "text": "После того, как он также нашел йогурт, " }
+        },
+        {
+          "de": { "text": "geht er weiter zur Bäckereitheke im Laden." },
+          "en": { "text": "he goes further to the bakery counter in the shop." },
+          "uk": { "text": "він йде далі до пекарського прилавка в магазині." },
+          "cs": { "text": "jde dál k pečivovému pultu v obchodě." },
+          "ru": { "text": "он идет дальше к прилавку с выпечкой в магазине." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Hier liegen knusprige Brötchen ", "explanation": "Nominativ Plural." },
+          "en": { "text": "Here lie crispy bread rolls " },
+          "uk": { "text": "Тут лежать хрусткі булочки " },
+          "cs": { "text": "Tady leží křupavé housky " },
+          "ru": { "text": "Здесь лежат хрустящие булочки " }
+        },
+        {
+          "de": { "text": "und dunkles Vollkornbrot." },
+          "en": { "text": "and dark whole grain bread." },
+          "uk": { "text": "та темний цільнозерновий хліб." },
+          "cs": { "text": "a tmavý celozrnný chléb." },
+          "ru": { "text": "и темный цельнозерновой хлеб." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er nimmt eine Zange ", "explanation": "Akkusativ Femininum ('eine Zange')." },
+          "en": { "text": "He takes tongs " },
+          "uk": { "text": "Він бере щипці " },
+          "cs": { "text": "Vezme kleště " },
+          "ru": { "text": "Он берет щипцы " }
+        },
+        {
+          "de": { "text": "und packt vier große Brötchen in eine Papiertüte." },
+          "en": { "text": "and puts four large rolls into a paper bag." },
+          "uk": { "text": "і кладе чотири великі булочки в паперовий пакет." },
+          "cs": { "text": "a dá čtyři velké housky do papírového sáčku." },
+          "ru": { "text": "и кладет четыре большие булочки в бумажный пакет." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Jetzt fehlt nur noch etwas Süßes für den Abend. " },
+          "en": { "text": "Now only something sweet for the evening is missing. " },
+          "uk": { "text": "Тепер не вистачає лише чогось солодкого на вечір. " },
+          "cs": { "text": "Teď chybí už jen něco sladkého na večer. " },
+          "ru": { "text": "Теперь не хватает только чего-то сладкого на вечер. " }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er biegt in den Süßwarengang ab. ", "explanation": "Trennbares Verb 'abbiegen' (to turn)." },
+          "en": { "text": "He turns into the confectionery aisle. " },
+          "uk": { "text": "Він звертає у прохід зі солодощами. " },
+          "cs": { "text": "Odbočuje do uličky s cukrovinkami. " },
+          "ru": { "text": "Он сворачивает в проход со сладостями. " }
+        },
+        {
+          "de": { "text": "Hier lauern die gefährlichen Versuchungen." },
+          "en": { "text": "Here the dangerous temptations lurk." },
+          "uk": { "text": "Тут таяться небезпечні спокуси." },
+          "cs": { "text": "Tady číhají nebezpečná pokušení." },
+          "ru": { "text": "Здесь таятся опасные искушения." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Schokolade mit Nüssen, Gummibärchen ", "explanation": "Nominativ Plural." },
+          "en": { "text": "Chocolate with nuts, gummy bears " },
+          "uk": { "text": "Шоколад з горіхами, желейні ведмедики " },
+          "cs": { "text": "Čokoláda s oříšky, gumoví medvídci " },
+          "ru": { "text": "Шоколад с орехами, желейные мишки " }
+        },
+        {
+          "de": { "text": "und bunte Kekse starren ihn an." },
+          "en": { "text": "and colorful cookies stare at him." },
+          "uk": { "text": "і різнокольорове печиво дивляться на нього." },
+          "cs": { "text": "a barevné sušenky na něj koukají." },
+          "ru": { "text": "и цветное печенье смотрят на него." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er entscheidet sich für eine Tafel dunkle Schokolade ", "explanation": "Reflexives Verb 'sich entscheiden für' (to decide on)." },
+          "en": { "text": "He decides on a bar of dark chocolate " },
+          "uk": { "text": "Він зупиняє свій вибір на плитці чорного шоколаду " },
+          "cs": { "text": "Rozhodne se pro tabulku hořké čokolády " },
+          "ru": { "text": "Он останавливает свой выбор на плитке темного шоколада " }
+        },
+        {
+          "de": { "text": "mit Meersalz." },
+          "en": { "text": "with sea salt." },
+          "uk": { "text": "з морською сіллю." },
+          "cs": { "text": "s mořskou solí." },
+          "ru": { "text": "с морской солью." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Korb ist voll ", "explanation": "Nominativ Maskulinum ('der Korb')." },
+          "en": { "text": "The basket is full " },
+          "uk": { "text": "Кошик повний " },
+          "cs": { "text": "Košík je plný " },
+          "ru": { "text": "Корзина полна " }
+        },
+        {
+          "de": { "text": "und es wird Zeit, zur Kasse zu gehen." },
+          "en": { "text": "and it's time to go to the checkout." },
+          "uk": { "text": "і настав час іти до каси." },
+          "cs": { "text": "a je čas jít k pokladně." },
+          "ru": { "text": "и пришло время идти к кассе." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Vor den Kassen stehen lange Schlangen. ", "explanation": "Nominativ Plural ('lange Schlangen')." },
+          "en": { "text": "There are long queues in front of the cash registers. " },
+          "uk": { "text": "Перед касами стоять довгі черги. " },
+          "cs": { "text": "Před pokladnami stojí dlouhé fronty. " },
+          "ru": { "text": "Перед кассами стоят длинные очереди. " }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Jonas stellt sich hinten an ", "explanation": "Reflexives Verb 'sich anstellen' (to queue up)." },
+          "en": { "text": "Jonas queues up at the back " },
+          "uk": { "text": "Йонас стає в чергу ззаду " },
+          "cs": { "text": "Jonas se postaví dozadu " },
+          "ru": { "text": "Йонас встает в очередь сзади " }
+        },
+        {
+          "de": { "text": "und legt seine Waren auf das Band." },
+          "en": { "text": "and puts his goods on the conveyor belt." },
+          "uk": { "text": "і викладає свої товари на стрічку." },
+          "cs": { "text": "a klade své zboží na pás." },
+          "ru": { "text": "и выкладывает свои товары на ленту." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Das Band bewegt sich schnell. ", "explanation": "Reflexives Verb 'sich bewegen' (to move)." },
+          "en": { "text": "The belt moves quickly. " },
+          "uk": { "text": "Стрічка рухається швидко. " },
+          "cs": { "text": "Pás se pohybuje rychle. " },
+          "ru": { "text": "Лента движется быстро. " }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Die Kassiererin scannt alle Artikel ", "explanation": "Präsens von 'scannen' (to scan)." },
+          "en": { "text": "The cashier scans all items " },
+          "uk": { "text": "Касир сканує всі товари " },
+          "cs": { "text": "Pokladní skenuje všechny položky " },
+          "ru": { "text": "Кассир сканирует все товары " }
+        },
+        {
+          "de": { "text": "mit einer rasanten Geschwindigkeit." },
+          "en": { "text": "with lightning speed." },
+          "uk": { "text": "з блискавичною швидкістю." },
+          "cs": { "text": "s bleskovou rychlostí." },
+          "ru": { "text": "с молниеносной скоростью." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Zweiundzwanzig Euro vierzig, bitte,' " },
+          "en": { "text": "'Twenty-two euros forty, please,' " },
+          "uk": { "text": "'Двадцять два євро сорок, будь ласка,' " },
+          "cs": { "text": "'Dvaadvacet euro čtyřicet, prosím,' " },
+          "ru": { "text": "'Двадцать два евро сорок, пожалуйста,' " }
+        },
+        {
+          "de": { "text": "sagt sie ohne aufzuschauen." },
+          "en": { "text": "she says without looking up." },
+          "uk": { "text": "каже вона, не підводячи очей." },
+          "cs": { "text": "říká bez toho, aby zvedla hlavu." },
+          "ru": { "text": "говорит она, не поднимая головы." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Jonas bezahlt kontaktlos mit seinem Smartphone." },
+          "en": { "text": "Jonas pays contactlessly with his smartphone." },
+          "uk": { "text": "Йонас платить безконтактно своїм смартфоном." },
+          "cs": { "text": "Jonas platí bezkontaktně svým chytrým telefonem." },
+          "ru": { "text": "Йонас платит бесконтактно своим смартфоном." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er packt seine Sachen blitzschnell in den Rucksack, " },
+          "en": { "text": "He packs his things lightning fast into his backpack, " },
+          "uk": { "text": "Він блискавично пакує свої речі в рюкзак, " },
+          "cs": { "text": "Bleskově si balí věci do batohu, " },
+          "ru": { "text": "Он молниеносно упаковывает свои вещи в рюкзак, " }
+        },
+        {
+          "de": { "text": "um die nächsten Kunden nicht aufzuhalten." },
+          "en": { "text": "so as not to hold up the next customers." },
+          "uk": { "text": "щоб не затримувати наступних покупців." },
+          "cs": { "text": "aby nezdržoval další zákazníky." },
+          "ru": { "text": "чтобы не задерживать следующих покупателей." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Mission erfolgreich beendet. ", "explanation": "Partizip II als Zustand." },
+          "en": { "text": "Mission successfully completed. ", "explanation": "Past participle." },
+          "uk": { "text": "Місію успішно завершено. ", "explanation": "Дієприкметник." },
+          "cs": { "text": "Mise úspěšně dokončena. ", "explanation": "Příčestí." },
+          "ru": { "text": "Миссия успешно завершена. ", "explanation": "Причастие." }
+        },
+        {
+          "de": { "text": "Er verlässt den Laden und geht nach Hause." },
+          "en": { "text": "He leaves the shop and goes home." },
+          "uk": { "text": "Він залишає магазин і йде додому." },
+          "cs": { "text": "Opouští obchod a jde domů." },
+          "ru": { "text": "Он покидает магазин и идет домой." }
+        }
+      ]
+    }
+  ]
+}

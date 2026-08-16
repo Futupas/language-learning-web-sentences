@@ -1,0 +1,579 @@
+{
+  "id": "text_9",
+  "metadata": "Source: Real-Life Conversations (A1 Level - Epic 50-Paragraph Longform 9)",
+  "blocks": [
+    {
+      "type": "h1",
+      "segments": [
+        {
+          "de": { "text": "Der Tag, an dem der Himmel fiel", "explanation": "Titel der Geschichte." },
+          "en": { "text": "The day the sky fell", "explanation": "Title of the story." },
+          "uk": { "text": "День, коли впало небо", "explanation": "Назва історії." },
+          "cs": { "text": "Den, kdy spadlo nebe", "explanation": "Název příběhu." },
+          "ru": { "text": "День, когда упало небо", "explanation": "Название истории." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Morgen beginnt mit einem seltsamen Licht am Horizont.", "explanation": "Präsens von 'beginnen' (to begin)." },
+          "en": { "text": "The morning begins with a strange light on the horizon.", "explanation": "Present tense." },
+          "uk": { "text": "Ранок починається з дивного світла на горизонті.", "explanation": "Теперішній час." },
+          "cs": { "text": "Ráno začíná podivným světlem na obzoru.", "explanation": "Přítomný čas." },
+          "ru": { "text": "Утро начинается со странного света на горизонте.", "explanation": "Настоящее время." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Klara öffnet das Fenster ", "explanation": "Präsens von 'öffnen'." },
+          "en": { "text": "Klara opens the window ", "explanation": "Present tense." },
+          "uk": { "text": "Клара відчиняє вікно ", "explanation": "Теперішній час." },
+          "cs": { "text": "Klara otevírá okno ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Клара открывает окно ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und spürt sofort einen kalten Hauch im Gesicht." },
+          "en": { "text": "and immediately feels a cold breath on her face." },
+          "uk": { "text": "і одразу відчуває холодний подих на обличчі." },
+          "cs": { "text": "a okamžitě cítí studený dech v obličeji." },
+          "ru": { "text": "и сразу чувствует холодное дыхание на лице." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Wetterbericht hat gestern Abend keinen Sturm gemeldet." },
+          "en": { "text": "The weather forecast did not report a storm last night." },
+          "uk": { "text": "Прогноз погоди вчора ввечері не повідомляв про шторм." },
+          "cs": { "text": "Předpověď počasí včera večer žádnou bouři nehlásila." },
+          "ru": { "text": "Прогноз погоды вчера вечером не сообщал о шторме." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Aber das Wetter in den Bergen tut oft, was es will." },
+          "en": { "text": "But the weather in the mountains often does what it wants." },
+          "uk": { "text": "Але погода в горах часто робить те, що хоче." },
+          "cs": { "text": "Ale počasí v horách si často dělá, co chce." },
+          "ru": { "text": "Но погода в горах часто делает то, что хочет." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sie zieht einen dicken Pullover an ", "explanation": "Trennbares Verb 'anziehen'." },
+          "en": { "text": "She puts on a thick sweater ", "explanation": "Separable verb." },
+          "uk": { "text": "Вона одягає товстий светр ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Obléká si tlustý svetr ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Она надевает толстый свитер ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und packt vorsichtshalber einen Regenschirm ein." },
+          "en": { "text": "and packs an umbrella just in case." },
+          "uk": { "text": "і про всяк випадок бере парасолю." },
+          "cs": { "text": "a pro jistotu si bere deštník." },
+          "ru": { "text": "и на всякий случай берет зонт." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Heute steht ein langer Spaziergang durch den botanischen Garten an." },
+          "en": { "text": "Today a long walk through the botanical garden is planned." },
+          "uk": { "text": "Сьогодні на порядку денному довга прогулянка ботанічним садом." },
+          "cs": { "text": "Dnes je v plánu dlouhá procházka botanickou zahradou." },
+          "ru": { "text": "Сегодня в планах долгая прогулка по ботаническому саду." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Um zehn Uhr verlässt sie das Haus." },
+          "en": { "text": "At ten o'clock she leaves the house." },
+          "uk": { "text": "О десятій годині вона виходить з дому." },
+          "cs": { "text": "V deset hodin opouští dům." },
+          "ru": { "text": "В десять часов она выходит из дома." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Die Straßen sind noch trocken ", "explanation": "Adjektiv 'trocken' (dry)." },
+          "en": { "text": "The streets are still dry ", "explanation": "Adjective 'dry'." },
+          "uk": { "text": "Вулиці ще сухі ", "explanation": "Прикметник." },
+          "cs": { "text": "Ulice jsou ještě suché ", "explanation": "Přídavné jméno." },
+          "ru": { "text": "Улицы еще сухие ", "explanation": "Прилагательное." }
+        },
+        {
+          "de": { "text": "und die Vögel zwitschern in den Bäumen." },
+          "en": { "text": "and the birds are chirping in the trees." },
+          "uk": { "text": "і пташки цвірінькають на деревах." },
+          "cs": { "text": "a ptáci čvrlikají na stromech." },
+          "ru": { "text": "и птицы чирикают на деревьях." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Klara atmet die frische Luft ein ", "explanation": "Trennbares Verb 'einatmen'." },
+          "en": { "text": "Klara breathes in the fresh air ", "explanation": "Separable verb." },
+          "uk": { "text": "Клара вдихає свіже повітря ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Klara vdýchne čerstvý vzduch ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Клара вдыхает свежий воздух ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und fühlt sich voller Energie." },
+          "en": { "text": "and feels full of energy." },
+          "uk": { "text": "і відчуває себе сповненою енергії." },
+          "cs": { "text": "a cítí se plná energie." },
+          "ru": { "text": "и чувствует себя полной энергии." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Nach zwanzig Minuten Fußweg erreicht sie das große Eingangstor." },
+          "en": { "text": "After a twenty-minute walk she reaches the large entrance gate." },
+          "uk": { "text": "Після двадцятихвилинної прогулянки пішки вона досягає великих вхідних воріт." },
+          "cs": { "text": "Po dvacetiminutové chůzi dorazí k velké bráně." },
+          "ru": { "text": "После двадцатиминутной пешей прогулки она достигает больших входных ворот." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Eintritt kostet vier Euro für Studenten." },
+          "en": { "text": "Admission costs four euros for students." },
+          "uk": { "text": "Вхід коштує чотири євро для студентів." },
+          "cs": { "text": "Vstupné stojí čtyři eura pro studenty." },
+          "ru": { "text": "Вход стоит четыре евро для студентов." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sie zahlt an der Kasse ", "explanation": "Präsens von 'zahlen' (to pay)." },
+          "en": { "text": "She pays at the cash register ", "explanation": "Present tense." },
+          "uk": { "text": "Вона платить на касі ", "explanation": "Теперішній час." },
+          "cs": { "text": "Platí u pokladny ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Она платит в кассе ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und bekommt ein kleines Ticket aus Papier." },
+          "en": { "text": "and gets a small paper ticket." },
+          "uk": { "text": "і отримує маленький паперовий квиток." },
+          "cs": { "text": "a dostane malou papírovou jízdenku." },
+          "ru": { "text": "и получает маленький бумажный билет." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Im Garten wachsen exotische Blumen aus aller Welt." },
+          "en": { "text": "Exotic flowers from all over the world grow in the garden." },
+          "uk": { "text": "У саду ростуть екзотичні квіти з усього світу." },
+          "cs": { "text": "V zahradě rostou exotické květiny z celého světa." },
+          "ru": { "text": "В саду растут экзотические цветы со всего мира." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Ein Angestellter pflegt gerade die Orchideen in einem großen Glashaus." },
+          "en": { "text": "An employee is currently tending to the orchids in a large greenhouse." },
+          "uk": { "text": "Працівник якраз доглядає за орхідеями у великій оранжереї." },
+          "cs": { "text": "Zaměstnanec právě pečuje o orchideje ve velkém skleníku." },
+          "ru": { "text": "Сотрудник как раз ухаживает за орхидеями в большой теплице." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Klara bleibt vor einem Kaktus stehen ", "explanation": "Trennbares Verb 'stehenbleiben' (to stop/stand still)." },
+          "en": { "text": "Klara stops in front of a cactus ", "explanation": "Separable verb." },
+          "uk": { "text": "Клара зупиняється перед кактусом ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Klara se zastaví před kaktusem ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Клара останавливается перед кактусом ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und bewundert dessen grüne Form." },
+          "en": { "text": "and admires its green shape." },
+          "uk": { "text": "і захоплюється його зеленою формою." },
+          "cs": { "text": "a obdivuje jeho zelený tvar." },
+          "ru": { "text": "и восхищается его зеленой формой." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Plötzlich ändert sich das Licht am Himmel drastisch." },
+          "en": { "text": "Suddenly the light in the sky changes drastically." },
+          "uk": { "text": "Раптом світло на небі різко змінюється." },
+          "cs": { "text": "Náhle se světlo na obloze drasticky mění." },
+          "ru": { "text": "Вдруг свет на небе резко меняется." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Es wird dunkel, ", "explanation": "Präsens von 'werden' (to become)." },
+          "en": { "text": "It gets dark, ", "explanation": "Present tense of 'to become'." },
+          "uk": { "text": "Стає темно, ", "explanation": "Теперішній час." },
+          "cs": { "text": "Stmívá se, ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Темнеет, ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "als ob die Sonne plötzlich verschwunden wäre." },
+          "en": { "text": "as if the sun had suddenly disappeared." },
+          "uk": { "text": "ніби сонце раптом зникло." },
+          "cs": { "text": "jako by slunce náhle zmizelo." },
+          "ru": { "text": "как будто солнце внезапно исчезло." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Ein dumpfer Donner grollt in der Ferne." },
+          "en": { "text": "A dull thunder rumbles in the distance." },
+          "uk": { "text": "Глухий грім гуркоче вдалині." },
+          "cs": { "text": "Tupý hrom hřmí v dálce." },
+          "ru": { "text": "Глухой гром грохочет вдалеке." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Wind fängt an zu stürmen ", "explanation": "Infinitivsatz mit 'zu'." },
+          "en": { "text": "The wind starts to storm ", "explanation": "Infinitive clause with 'to'." },
+          "uk": { "text": "Вітер починає бушувати ", "explanation": "Інфінітивний зворот." },
+          "cs": { "text": "Vítr začíná bouřit ", "explanation": "Infinitivní věta." },
+          "ru": { "text": "Ветер начинает бушевать ", "explanation": "Инфинитивный оборот." }
+        },
+        {
+          "de": { "text": "und reißt Blätter von den Bäumen." },
+          "en": { "text": "and tears leaves from the trees." },
+          "uk": { "text": "і зриває листя з дерев." },
+          "cs": { "text": "a trhá listy ze stromů." },
+          "ru": { "text": "и срывает листья с деревьев." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Oh nein, jetzt kommt der Regen!' ruft Klara laut aus." },
+          "en": { "text": "'Oh no, now the rain is coming!' Klara shouts out loud." },
+          "uk": { "text": "'О ні, зараз піде дощ!' голосно вигукує Клара." },
+          "cs": { "text": "'Ó ne, teď přichází déšť!' zvolá Klara nahlas." },
+          "ru": { "text": "'О нет, сейчас пойдет дождь!' громко восклицает Клара." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sie erinnert sich an ihren Regenschirm im Rucksack." },
+          "en": { "text": "She remembers her umbrella in her backpack." },
+          "uk": { "text": "Вона згадує про свою парасолю в рюкзаку." },
+          "cs": { "text": "Vzpomene si na svůj deštník v batohu." },
+          "ru": { "text": "Она вспоминает о своем зонте в рюкзаке." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Schnell öffnet sie den Reißverschluss ", "explanation": "Präsens von 'öffnen'." },
+          "en": { "text": "Quickly she opens the zipper ", "explanation": "Present tense." },
+          "uk": { "text": "Вона швидко розстібає блискавку ", "explanation": "Теперішній час." },
+          "cs": { "text": "Rychle rozepíná zip ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Она быстро расстегивает молнию ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und spannt den blauen Schirm auf." },
+          "en": { "text": "and opens the blue umbrella." },
+          "uk": { "text": "і розгортає синю парасолю." },
+          "cs": { "text": "a rozevírá modrý deštník." },
+          "ru": { "text": "и раскрывает синий зонт." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Aber der Wind ist so stark, dass der Schirm sofort umknickt." },
+          "en": { "text": "But the wind is so strong that the umbrella instantly bends inside out." },
+          "uk": { "text": "Але вітер такий сильний, що парасолю одразу вивертає." },
+          "cs": { "text": "Ale vítr je tak silný, že se deštník okamžitě ohne." },
+          "ru": { "text": "Но ветер такой сильный, что зонт сразу выворачивает наизнанку." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Typisch! Schirm kaputt, Laune im Keller." },
+          "en": { "text": "Typical! Umbrella broken, mood in the basement." },
+          "uk": { "text": "Типово! Парасоля зламана, настрій на нулі." },
+          "cs": { "text": "Typické! Deštník rozbitý, nálada pod bodem mrazu." },
+          "ru": { "text": "Типично! Зонт сломан, настроение на нуле." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sie muss Schutz suchen ", "explanation": "Modalverb 'müssen'." },
+          "en": { "text": "She has to seek shelter ", "explanation": "Modal verb." },
+          "uk": { "text": "Вона повинна шукати укриття ", "explanation": "Модальне дієслово." },
+          "cs": { "text": "Musí hledat úkryt ", "explanation": "Modální sloveso." },
+          "ru": { "text": "Она должна искать укрытие ", "explanation": "Модальный глагол." }
+        },
+        {
+          "de": { "text": "und rennt so schnell sie kann zum großen Tropenhaus." },
+          "en": { "text": "and runs as fast as she can to the large tropical greenhouse." },
+          "uk": { "text": "і біжить щодуху до великої тропічної оранжереї." },
+          "cs": { "text": "a běží, co může, do velkého skleníku." },
+          "ru": { "text": "и бежит изо всех сил к большому тропическому парнику." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Dort drinnen riecht es nach warmer Erde und feuchtem Urwald." },
+          "en": { "text": "Inside it smells of warm earth and damp jungle." },
+          "uk": { "text": "Всередині пахне теплою землею та вологим джунглями." },
+          "cs": { "text": "Uvnitř to voní teplou zemí a vlhkou džunglí." },
+          "ru": { "text": "Внутри пахнет теплой землей и влажными джунглями." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Hunderte Wassertropfen trommeln laut auf das Glasdach." },
+          "en": { "text": "Hundreds of raindrops drum loudly on the glass roof." },
+          "uk": { "text": "Сотні крапель дощу голосно барабанять по скляному даху." },
+          "cs": { "text": "Stovky dešťových kapek hlasitě bubnují na skleněnou střechu." },
+          "ru": { "text": "Сотни капель дождя громко барабанят по стеклянной крыше." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Klara atmet tief aus ", "explanation": "Trennbares Verb 'ausatmen' (to exhale)." },
+          "en": { "text": "Klara exhales deeply ", "explanation": "Separable verb." },
+          "uk": { "text": "Клара глибоко видихає ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Klara zhluboka vydýchne ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Клара глубоко выдыхает ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und stellt sich auf eine trockene Holzbank." },
+          "en": { "text": "and stands on a dry wooden bench." },
+          "uk": { "text": "і стає на суху дерев'яну лавку." },
+          "cs": { "text": "a stoupá si na suchou dřevěnou lavičku." },
+          "ru": { "text": "и встает на сухую деревянную скамейку." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Neben ihr steht eine ältere Dame mit einem Korb voll reifer Mangos." },
+          "en": { "text": "Next to her stands an older lady with a basket full of ripe mangoes." },
+          "uk": { "text": "Поруч з нею стоїть літня жінка з кошиком стиглих манго." },
+          "cs": { "text": "Vedle ní stojí starší paní s košíkem zralých mang." },
+          "ru": { "text": "Рядом с ней стоит пожилая женщина с корзиной спелых манго." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Wunderschönes Wetter für Palmen, nicht wahr?' schmunzelt die Dame." },
+          "en": { "text": "'Wonderful weather for palm trees, isn't it?' the lady smiles." },
+          "uk": { "text": "'Чудова погода для пальм, чи не так?' посміхається жінка." },
+          "cs": { "text": "'Nádherné počasí pro palmy, že?' usmívá se paní." },
+          "ru": { "text": "'Прекрасная погода для пальм, не правда ли?' улыбается женщина." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Klara muss trotz des Pechs lachen." },
+          "en": { "text": "Klara has to laugh despite the bad luck." },
+          "uk": { "text": "Клара змушена сміятися попри невдачу." },
+          "cs": { "text": "Klara se musí přes tu smůlu smát." },
+          "ru": { "text": "Клара вынуждена смеяться несмотря на неудачу." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sie warten gemeinsam, bis das Unwetter vorbeizieht." },
+          "en": { "text": "They wait together until the storm passes by." },
+          "uk": { "text": "Вони чекають разом, поки буря пройде." },
+          "cs": { "text": "Čekají společně, dokud bouře přejde." },
+          "ru": { "text": "Они ждут вместе, пока буря пройдет." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Nach einer Stunde klart der Himmel langsam wieder auf." },
+          "en": { "text": "After an hour, the sky slowly clears up again." },
+          "uk": { "text": "Через годину небо знову повільно прояснюється." },
+          "cs": { "text": "Po hodině se obloha pomalu zase vyčasuje." },
+          "ru": { "text": "Через час небо снова медленно проясняется." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Die Luft ist rein und duftet herrlich nach nassem Gras." },
+          "en": { "text": "The air is clean and smells wonderfully of wet grass." },
+          "uk": { "text": "Повітря чисте і чудово пахне вологою травою." },
+          "cs": { "text": "Vzduch je čistý a nádherně voní po mokré trávě." },
+          "ru": { "text": "Воздух чистый и чудесно пахнет мокрой травой." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Klara verabschiedet sich von der Dame ", "explanation": "Reflexives Verb 'sich verabschieden'." },
+          "en": { "text": "Klara says goodbye to the lady ", "explanation": "Reflexive verb." },
+          "uk": { "text": "Клара прощається з жінкою ", "explanation": "Зворотне дієслово." },
+          "cs": { "text": "Klara se loučí s paní ", "explanation": "Zvratné sloveso." },
+          "ru": { "text": "Клара прощается с женщиной ", "explanation": "Возвратный глагол." }
+        },
+        {
+          "de": { "text": "und tritt den Heimweg an." },
+          "en": { "text": "and starts her way home." },
+          "uk": { "text": "і вирушає додому." },
+          "cs": { "text": "a vydává se na cestu domů." },
+          "ru": { "text": "и отправляется домой." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Tag hat ganz anders begonnen als geplant, ", "explanation": "Perfekt von 'beginnen'." },
+          "en": { "text": "The day began quite differently than planned, ", "explanation": "Past tense." },
+          "uk": { "text": "День почався зовсім інакше, ніж планувалося, ", "explanation": "Минулий час." },
+          "cs": { "text": "Den začal úplně jinak, než bylo naplánováno, ", "explanation": "Minulý čas." },
+          "ru": { "text": "День начался совсем иначе, чем планировалось, ", "explanation": "Прошедшее время." }
+        },
+        {
+          "de": { "text": "aber sie hat neue Pflanzen kennengelernt." },
+          "en": { "text": "but she got to know new plants." },
+          "uk": { "text": "але вона познайомилася з новими рослинами." },
+          "cs": { "text": "ale poznala nové rostliny." },
+          "ru": { "text": "но она познакомилась с новыми растениями." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Zu Hause zieht sie die nassen Schuhe aus ", "explanation": "Trennbares Verb 'ausziehen' (to take off shoes)." },
+          "en": { "text": "At home she takes off her wet shoes ", "explanation": "Separable verb." },
+          "uk": { "text": "Вдома вона знімає мокре взуття ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Doma si vyzouvá mokré boty ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Дома она снимает мокрую обувь ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und kocht sich eine große Tasse Kamillentee." },
+          "en": { "text": "and makes herself a large cup of chamomile tea." },
+          "uk": { "text": "і заварює собі велику чашку ромашкового чаю." },
+          "cs": { "text": "a uvaří si velký šálek heřmánkového čaje." },
+          "ru": { "text": "и заваривает себе большую чашку ромашкового чая." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Wetter hin oder her, ", "explanation": "Redewendung 'hin oder her' (come rain or shine / one way or another)." },
+          "en": { "text": "Weather come rain or shine, ", "explanation": "Idiomatic expression." },
+          "uk": { "text": "Погода туди чи сюди, ", "explanation": "Ідіома." },
+          "cs": { "text": "Počasí sem nebo tam, ", "explanation": "Idiom." },
+          "ru": { "text": "Погода туда или сюда, ", "explanation": "Идиома." }
+        },
+        {
+          "de": { "text": "jeder Tag in der Natur ist ein guter Tag." },
+          "en": { "text": "every day in nature is a good day." },
+          "uk": { "text": "кожен день на природі — це хороший день." },
+          "cs": { "text": "každý den v přírodě je dobrý den." },
+          "ru": { "text": "каждый день на природе — это хороший день." }
+        }
+      ]
+    }
+  ]
+}

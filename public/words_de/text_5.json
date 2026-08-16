@@ -1,0 +1,444 @@
+{
+  "id": "text_5",
+  "metadata": "Source: Real-Life Conversations (A1 Level - Epic Longform 5)",
+  "blocks": [
+    {
+      "type": "h1",
+      "segments": [
+        {
+          "de": { "text": "Ein Abend im Restaurant", "explanation": "Titel der Geschichte." },
+          "en": { "text": "An evening at the restaurant", "explanation": "Title of the story." },
+          "uk": { "text": "Вечір у ресторані", "explanation": "Назва історії." },
+          "cs": { "text": "Večer v restauraci", "explanation": "Název příběhu." },
+          "ru": { "text": "Вечер в ресторане", "explanation": "Название истории." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Es ist Samstagabend ", "explanation": "Zusammengesetztes Nomen für Samstag + Abend." },
+          "en": { "text": "It is Saturday evening ", "explanation": "Compound noun." },
+          "uk": { "text": "Суботній вечір ", "explanation": "Складний іменник." },
+          "cs": { "text": "Je sobotní večer ", "explanation": "Složené podstatné jméno." },
+          "ru": { "text": "Субботний вечер ", "explanation": "Сложное существительное." }
+        },
+        {
+          "de": { "text": "und Mia hat großen Hunger. ", "explanation": "Fester Ausdruck 'Hunger haben' (to be hungry)." },
+          "en": { "text": "and Mia is very hungry. ", "explanation": "Fixed expression 'to be hungry'." },
+          "uk": { "text": "і Міа дуже голодна. ", "explanation": "Сталий вираз." },
+          "cs": { "text": "a Mia má velký hlad. ", "explanation": "Pevné spojení." },
+          "ru": { "text": "и Миа очень голодна. ", "explanation": "Устойчивое выражение." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sie trifft sich mit ihrem Freund Lukas ", "explanation": "Reflexives Verb 'sich treffen' (to meet)." },
+          "en": { "text": "She is meeting her friend Lukas ", "explanation": "Reflexive verb 'to meet'." },
+          "uk": { "text": "Вона зустрічається зі своїм другом Лукасом ", "explanation": "Зворотне дієслово." },
+          "cs": { "text": "Schází se se svým přítelem Lukasem ", "explanation": "Zvratné sloveso." },
+          "ru": { "text": "Она встречается со своим другом Лукасом ", "explanation": "Возвратный глагол." }
+        },
+        {
+          "de": { "text": "vor einem gemütlichen italienischen Restaurant." },
+          "en": { "text": "in front of a cozy Italian restaurant." },
+          "uk": { "text": "перед затишним італійським рестораном." },
+          "cs": { "text": "před útulnou italskou restaurací." },
+          "ru": { "text": "перед уютным итальянским рестораном." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Das Restaurant heißt 'Bella Italia' ", "explanation": "Verb 'heißen' (to be called)." },
+          "en": { "text": "The restaurant is called 'Bella Italia' ", "explanation": "Verb 'to be called'." },
+          "uk": { "text": "Ресторан називається 'Bella Italia' ", "explanation": "Дієслово 'називатися'." },
+          "cs": { "text": "Restaurace se jmenuje 'Bella Italia' ", "explanation": "Sloveso 'jmenovat se'." },
+          "ru": { "text": "Ресторан называется 'Bella Italia' ", "explanation": "Глагол 'называться'." }
+        },
+        {
+          "de": { "text": "und es duftet schon von weitem nach Pizza." },
+          "en": { "text": "and it smells like pizza from far away." },
+          "uk": { "text": "і здалеку вже пахне піцою." },
+          "cs": { "text": "a už zdaleka voní po pizze." },
+          "ru": { "text": "и издалека пахнет пиццей." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Lukas wartet schon draußen ", "explanation": "Präsens von 'warten' (to wait)." },
+          "en": { "text": "Lukas is already waiting outside ", "explanation": "Present tense of 'to wait'." },
+          "uk": { "text": "Лукас вже чекає ззовні ", "explanation": "Теперішній час." },
+          "cs": { "text": "Lukas už venku čeká ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Лукас уже ждет снаружи ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und winkt ihr fröhlich zu." },
+          "en": { "text": "and waves happily at her." },
+          "uk": { "text": "і весело махає їй." },
+          "cs": { "text": "a vesele na ni mává." },
+          "ru": { "text": "и весело машет ей." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Hallo Mia! Freue mich, dich zu sehen,' ", "explanation": "Fester Ausdruck 'freut mich' (nice to see you)." },
+          "en": { "text": "'Hello Mia! Glad to see you,' ", "explanation": "Fixed expression." },
+          "uk": { "text": "'Привіт Міа! Радий тебе бачити,' ", "explanation": "Сталий вираз." },
+          "cs": { "text": "'Ahoj Mio! Rád tě vidím,' ", "explanation": "Pevné spojení." },
+          "ru": { "text": "'Привет Миа! Рад тебя видеть,' ", "explanation": "Устойчивое выражение." }
+        },
+        {
+          "de": { "text": "sagt er und umarmt sie." },
+          "en": { "text": "he says and hugs her." },
+          "uk": { "text": "каже він і обіймає її." },
+          "cs": { "text": "říká a objímá ji." },
+          "ru": { "text": "говорит он и обнимает ее." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sie betreten gemeinsam den warmen Gastraum." },
+          "en": { "text": "They enter the warm dining room together." },
+          "uk": { "text": "Вони разом заходять у теплу залу для гостей." },
+          "cs": { "text": "Společně vstupují do teplé jídelny." },
+          "ru": { "text": "Они вместе заходят в теплую обеденную зал." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Ein Kellner kommt sofort auf sie zu ", "explanation": "Trennbares Verb 'zukommen auf' (to approach)." },
+          "en": { "text": "A waiter immediately approaches them ", "explanation": "Separable verb." },
+          "uk": { "text": "Офіціант одразу підходить до них ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "K němu hned přichází číšník ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "К ним сразу подходит официант ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und fragt höflich nach der Reservierung." },
+          "en": { "text": "and politely asks about the reservation." },
+          "uk": { "text": "і ввічливо питає про бронь." },
+          "cs": { "text": "a zdvořile se ptá na rezervaci." },
+          "ru": { "text": "и вежливо спрашивает о брони." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Guten Abend, haben Sie einen Tisch reserviert?'" },
+          "en": { "text": "'Good evening, do you have a table reserved?'" },
+          "uk": { "text": "'Добрий вечір, у вас зарезервований столик?'" },
+          "cs": { "text": "'Dobrý večer, máte rezervovaný stůl?'" },
+          "ru": { "text": "'Добрый вечер, у вас зарезервирован столик?'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Lukas nickt ", "explanation": "Präsens von 'nicken' (to nod)." },
+          "en": { "text": "Lukas nods ", "explanation": "Present tense of 'to nod'." },
+          "uk": { "text": "Лукас киває ", "explanation": "Теперішній час." },
+          "cs": { "text": "Lukas přikývne ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Лукас кивает ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "und antwortet: 'Ja, auf den Namen Weber für zwei Personen.'" },
+          "en": { "text": "and replies: 'Yes, under the name Weber for two people.'" },
+          "uk": { "text": "і відповідає: 'Так, на ім'я Вебер на дві особи.'" },
+          "cs": { "text": "a odpovídá: 'Ano, na jméno Weber pro dvě osoby.'" },
+          "ru": { "text": "и отвечает: 'Да, на имя Вебер на два человека.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Sehr gerne, folgen Sie mir bitte,' ", "explanation": "Imperativ Höflichkeitsform." },
+          "en": { "text": "'Very gladly, please follow me,' ", "explanation": "Polite imperative." },
+          "uk": { "text": "'Будь ласка, ходіть за мною,' ", "explanation": "Ввічливий наказ." },
+          "cs": { "text": "'Velmi rád, pojďte prosím za mnou,' ", "explanation": "Zdvořilý rozkaz." },
+          "ru": { "text": "'Пожалуйста, следуйте за мной,' ", "explanation": "Вежливое повеление." }
+        },
+        {
+          "de": { "text": "sagt der Kellner mit einem Lächeln." },
+          "en": { "text": "says the waiter with a smile." },
+          "uk": { "text": "каже офіціант з усмішкою." },
+          "cs": { "text": "říká číšník s úsměvem." },
+          "ru": { "text": "говорит официант с улыбкой." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Er führt sie zu einem schönen Tisch am Fenster. " },
+          "en": { "text": "He leads them to a nice table by the window. " },
+          "uk": { "text": "Він веде їх до гарного столика біля вікна. " },
+          "cs": { "text": "Vede je k pěknému stolu u okna. " },
+          "ru": { "text": "Он ведет их к красивому столику у окна. " }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Die beiden setzen sich ", "explanation": "Reflexives Verb 'sich setzen'." },
+          "en": { "text": "The two of them sit down ", "explanation": "Reflexive verb." },
+          "uk": { "text": "Вони обидва сідають ", "explanation": "Зворотне дієслово." },
+          "cs": { "text": "Oba si sedají ", "explanation": "Zvratné sloveso." },
+          "ru": { "text": "Они оба садятся ", "explanation": "Возвратный глагол." }
+        },
+        {
+          "de": { "text": "und nehmen sofort die großen Speisekarten in die Hand." },
+          "en": { "text": "and immediately pick up the large menus." },
+          "uk": { "text": "і одразу беруть у руки великі меню." },
+          "cs": { "text": "a okamžitě berou do ruky velké jídelní lístky." },
+          "ru": { "text": "и сразу берут в руки большие меню." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Was möchtest du trinken?' fragt Lukas. " },
+          "en": { "text": "'What would you like to drink?' asks Lukas. " },
+          "uk": { "text": "'Що б ти хотіла випити?' запитує Лукас. " },
+          "cs": { "text": "'Co by sis dala k pití?' ptá se Lukas. " },
+          "ru": { "text": "'Что бы ты хотела выпить?' спрашивает Лукас. " }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Mia überlegt kurz. ", "explanation": "Präsens von 'überlegen' (to consider)." },
+          "en": { "text": "Mia thinks for a moment. ", "explanation": "Present tense." },
+          "uk": { "text": "Міа коротко думає. ", "explanation": "Теперішній час." },
+          "cs": { "text": "Mia krátce přemýšlí. ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Миа ненадолго задумывается. ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "'Ich hätte gerne eine große Apfelschorle, bitte.'" },
+          "en": { "text": "'I would like a large apple spritzer, please.'" },
+          "uk": { "text": "'Я б хотіла великий яблучний шорле, будь ласка.'" },
+          "cs": { "text": "'Dala bych si velký jablečný džus se sodovkou, prosím.'" },
+          "ru": { "text": "'Я бы хотела большой яблочный сок с минералкой, пожалуйста.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Lukas bestellt für sich ein alkoholfreies Bier. " },
+          "en": { "text": "Lukas orders a non-alcoholic beer for himself. " },
+          "uk": { "text": "Лукас замовляє собі безалкогольне пиво. " },
+          "cs": { "text": "Lukas si objednává nealkoholické pivo. " },
+          "ru": { "text": "Лукас заказывает себе безалкогольное пиво. " }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Kellner kommt nach fünf Minuten zurück ", "explanation": "Trennbares Verb 'zurückkommen'." },
+          "en": { "text": "The waiter comes back after five minutes ", "explanation": "Separable verb." },
+          "uk": { "text": "Офіціант повертається через п'ять хвилин ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Číšník se vrací po pěti minutách ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Официант возвращается через пять минут ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und schreibt die Getränke auf einen kleinen Block." },
+          "en": { "text": "and writes down the drinks on a small pad." },
+          "uk": { "text": "і записує напої в маленький блокнот." },
+          "cs": { "text": "a zapisuje nápoje do malého bločku." },
+          "ru": { "text": "и записывает напитки в маленький блокнот." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Haben Sie schon gewählt oder brauchen Sie noch einen Moment?'" },
+          "en": { "text": "'Have you already chosen or do you need another moment?'" },
+          "uk": { "text": "'Ви вже обрали чи вам ще потрібна хвилинка?'" },
+          "cs": { "text": "'Už jste si vybrali, nebo ještě potřebujete chvilku?'" },
+          "ru": { "text": "'Вы уже выбрали или вам еще нужна минутка?'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Wir wissen es schon,' ", "explanation": "Präsens von 'wissen' (to know)." },
+          "en": { "text": "'We already know,' ", "explanation": "Present tense of 'to know'." },
+          "uk": { "text": "'Ми вже знаємо,' ", "explanation": "Теперішній час." },
+          "cs": { "text": "'Už to víme,' ", "explanation": "Přítomný čas." },
+          "ru": { "text": "'Мы уже знаем,' ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "sagt Mia. 'Ich nehme die Pizza Margherita.'" },
+          "en": { "text": "says Mia. 'I'll take the Pizza Margherita.'" },
+          "uk": { "text": "каже Міа. 'Я беру піцу Маргарита.'" },
+          "cs": { "text": "říká Mia. 'Dám si pizzu Margharita.'" },
+          "ru": { "text": "говорит Миа. 'Я беру пиццу Маргарита.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Lukas entscheidet sich für Spaghetti Bolognese ", "explanation": "Reflexives Verb 'sich entscheiden'." },
+          "en": { "text": "Lukas decides on Spaghetti Bolognese ", "explanation": "Reflexive verb." },
+          "uk": { "text": "Лукас зупиняє свій вибір на спагеті Болоньєзе ", "explanation": "Зворотне дієслово." },
+          "cs": { "text": "Lukas se rozhodne pro špagety Bolognese ", "explanation": "Zvratné sloveso." },
+          "ru": { "text": "Лукас останавливает свой выбор на спагетти Болоньезе ", "explanation": "Возвратный глагол." }
+        },
+        {
+          "de": { "text": "mit extra Parmesan." },
+          "en": { "text": "with extra parmesan." },
+          "uk": { "text": "з додатковим пармезаном." },
+          "cs": { "text": "s extra parmazánem." },
+          "ru": { "text": "с дополнительным пармезаном." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "'Sehr gute Wahl,' ", "explanation": "Kompliment." },
+          "en": { "text": "'Very good choice,' ", "explanation": "Compliment." },
+          "uk": { "text": "'Дуже хороший вибір,' ", "explanation": "Комлімент." },
+          "cs": { "text": "'Velmi dobrá volba,' ", "explanation": "Klimplement." },
+          "ru": { "text": "'Очень хороший выбор,' ", "explanation": "Комлимент." }
+        },
+        {
+          "de": { "text": "lächelt der Kellner und verschwindet in Richtung Küche." },
+          "en": { "text": "smiles the waiter and disappears towards the kitchen." },
+          "uk": { "text": "посміхається офіціант і зникає в напрямку кухні." },
+          "cs": { "text": "usmívá se číšník a mizí směrem do kuchyně." },
+          "ru": { "text": "улыбается официант и исчезает в направлении кухни." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Nach zehn Minuten stehen die Getränke auf dem Tisch. " },
+          "en": { "text": "After ten minutes the drinks are on the table. " },
+          "uk": { "text": "Через десять хвилин напої на столі. " },
+          "cs": { "text": "Po deseti minutách jsou nápoje na stole. " },
+          "ru": { "text": "Через десять минут напитки на столе. " }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Sie stoßen an ", "explanation": "Trennbares Verb 'anstoßen' (to toast/clink glasses)." },
+          "en": { "text": "They toast ", "explanation": "Separable verb." },
+          "uk": { "text": "Вони цокаються келихами ", "explanation": "Розділове дієслово." },
+          "cs": { "text": "Pripíjejí si ", "explanation": "Sloveso s předponou." },
+          "ru": { "text": "Они чокаются бокалами ", "explanation": "Глагол с приставкой." }
+        },
+        {
+          "de": { "text": "und unterhalten sich über ihre Arbeit." },
+          "en": { "text": "and chat about their work." },
+          "uk": { "text": "і розмовляють про свою роботу." },
+          "cs": { "text": "a povídají si o své práci." },
+          "ru": { "text": "и болтают о своей работе." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Das Essen schmeckt fantastisch. ", "explanation": "Präsens von 'schmecken' (to taste)." },
+          "en": { "text": "The food tastes fantastic. ", "explanation": "Present tense." },
+          "uk": { "text": "Їжа смакує фантастично. ", "explanation": "Теперішній час." },
+          "cs": { "text": "Jídlo chutná fantasticky. ", "explanation": "Přítomný čas." },
+          "ru": { "text": "Еда на вкус фантастическая. ", "explanation": "Настоящее время." }
+        },
+        {
+          "de": { "text": "Beide Teller sind im Handumdrehen leer." },
+          "en": { "text": "Both plates are empty in no time." },
+          "uk": { "text": "Обидві тарілки порожні миттєво." },
+          "cs": { "text": "Oba talíře jsou hned prázdné." },
+          "ru": { "text": "Обе тарелки пусты в мгновение ока." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Zum Schluss fragen sie den Kellner: ", "explanation": "Ausdruck 'zahlen bitte' (paying)." },
+          "en": { "text": "Finally, they ask the waiter: ", "explanation": "Asking for the check." },
+          "uk": { "text": "Нарешті вони запитують офіціанта: ", "explanation": "Прохання рахунку." },
+          "cs": { "text": "Nakonec se ptají číšníka: ", "explanation": "Žádost o účet." },
+          "ru": { "text": "Наконец они спрашивают официанта: ", "explanation": "Просьба счета." }
+        },
+        {
+          "de": { "text": "'Zahlen, bitte! Wir möchten getrennt bezahlen.'" },
+          "en": { "text": "'Check, please! We would like to pay separately.'" },
+          "uk": { "text": "'Рахунок, будь ласка! Ми хотіли б заплатити окремо.'" },
+          "cs": { "text": "'Platit, prosím! Chtěli bychom platit zvlášť.'" },
+          "ru": { "text": "'Счет, пожалуйста! Мы хотели бы заплатить раздельно.'" }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Der Abend war wunderbar ", "explanation": "Präteritum von 'sein' ('war')." },
+          "en": { "text": "The evening was wonderful ", "explanation": "Past tense of 'to be'." },
+          "uk": { "text": "Вечір був чудовим ", "explanation": "Минулий час." },
+          "cs": { "text": "Večer byl úžasný ", "explanation": "Minulý čas." },
+          "ru": { "text": "Вечер был чудесным ", "explanation": "Прошедшее время." }
+        },
+        {
+          "de": { "text": "und sie verabschieden sich mit einem Lächeln vor der Tür." },
+          "en": { "text": "and they say goodbye with a smile in front of the door." },
+          "uk": { "text": "і вони прощаються з усмішкою перед дверима." },
+          "cs": { "text": "a loučí se s úsměvem před dveřmi." },
+          "ru": { "text": "и прощаются с улыбкой перед дверью." }
+        }
+      ]
+    }
+  ]
+}
