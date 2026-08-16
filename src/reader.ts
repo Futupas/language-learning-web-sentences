@@ -1,7 +1,6 @@
-import { appState, courseUrl, getTextProgress, saveTextProgress, getSavedScrollPosition, saveScrollPosition } from './state';
+import { appState, courseUrl, getTextProgress, saveTextProgress } from './state';
 import { TextConfig, TextData, Segment } from './types';
 import { switchView } from './dom';
-import { renderTextsList } from './main';
 
 const readerUI = {
     container: document.getElementById('text-container') as HTMLElement,
@@ -10,13 +9,17 @@ const readerUI = {
 };
 
 let activeAudio: HTMLAudioElement | null = null;
-let scrollTimeout: ReturnType<typeof setTimeout>;
+let scrollListener: (() => void) | null = null;
 
-export async function openReader(textConfig: TextConfig) {
+export async function openReader(textConfig: TextConfig, updateHistory = true) {
     appState.currentTextConfig = textConfig;
     readerUI.container.innerHTML = '<p>Loading...</p>';
     readerUI.audioContainer.innerHTML = '';
     switchView('reader');
+
+    if (updateHistory) {
+        history.pushState(null, '', `#${textConfig.id}`);
+    }
 
     try {
         const baseUrl = new URL(courseUrl, window.location.href);
@@ -41,14 +44,10 @@ function renderText() {
     readerUI.container.innerHTML = '';
     const learnLang = appState.config.learningLanguage;
 
-    appState.currentTextData.blocks.forEach((block, index) => {
+    appState.currentTextData.blocks.forEach((block) => {
         const el = document.createElement(block.type);
         el.className = 'text-block';
         el.lang = learnLang.htmlCode || learnLang.code;
-        
-        if (block.type === 'h1' || block.type === 'h2') {
-            el.id = `heading_${index}`;
-        }
 
         block.segments.forEach(segment => {
             const segData = segment[learnLang.code];
@@ -78,23 +77,26 @@ function toggleInlineExplanation(span: HTMLElement, segment: Segment) {
         return;
     }
 
-    // Close any other open expansions if desired, or keep multiple open. User said: "open as many as i want"
     span.classList.add('active');
 
     const targetLang = appState.activeTargetLang;
-    const data = segment[targetLang] || segment[appState.config.targetLanguages[0].code];
-    if (!data) return;
+    const learningLang = appState.config.learningLanguage.code;
+    
+    const transData = segment[targetLang] || segment[appState.config.targetLanguages[0].code];
+    const learnData = segment[learningLang];
+
+    const translationText = transData ? transData.text : '';
+    const explanationText = (transData && transData.explanation) || (learnData && learnData.explanation) || '';
 
     const expansionBox = document.createElement('div');
     expansionBox.className = 'inline-expansion';
     expansionBox.innerHTML = `
         <div class="expansion-content">
-            <div class="exp-text"><strong>${data.text}</strong></div>
-            ${data.explanation ? `<div class="exp-expl">${data.explanation}</div>` : ''}
+            <div class="exp-text"><strong>${translationText}</strong></div>
+            ${explanationText ? `<div class="exp-expl">${explanationText}</div>` : ''}
         </div>
     `;
 
-    // Insert right after this segment (knife cut)
     span.after(expansionBox);
 }
 
@@ -164,54 +166,52 @@ function setupAudio(textUrl: string) {
 }
 
 function setupScrollObserver() {
-    window.removeEventListener('scroll', handleScroll);
-    window.addEventListener('scroll', handleScroll);
-}
+    if (scrollListener) {
+        window.removeEventListener('scroll', scrollListener);
+    }
 
-function handleScroll() {
-    clearTimeout(scrollTimeout);
-    scrollTimeout = setTimeout(() => {
+    /* 
+     * TODO: NOTE FOR REFACTORING
+     * Pure scroll-percentage tracking is a crude hack. Users can fling to the bottom 
+     * without actually reading anything and falsely trigger completion. 
+     * This should eventually be replaced by a proper Intersection Observer 
+     * tracking fully read blocks or time-spent algorithms.
+     */
+    scrollListener = () => {
         if (!appState.currentTextConfig) return;
         
-        // Calculate scroll percentage
-        const scrollTop = window.scrollY;
-        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-        const scrollPercent = docHeight > 0 ? Math.min(100, Math.round((scrollTop / docHeight) * 100)) : 100;
-        saveTextProgress(appState.currentTextConfig.id, scrollPercent);
-
-        // Save current heading position
-        const headings = readerUI.container.querySelectorAll('h1, h2');
-        let currentHeadingId = '';
-
-        headings.forEach(h => {
-            const rect = h.getBoundingClientRect();
-            if (rect.top <= 100) {
-                currentHeadingId = h.id;
-            }
-        });
-
-        if (currentHeadingId) {
-            saveScrollPosition(appState.currentTextConfig.id, currentHeadingId);
+        const scrollTop = window.scrollY || document.documentElement.scrollTop;
+        const scrollHeight = document.documentElement.scrollHeight;
+        const clientHeight = document.documentElement.clientHeight;
+        
+        const maxScroll = scrollHeight - clientHeight;
+        let ratio = 0;
+        
+        if (maxScroll > 0) {
+            ratio = Math.min(1, Math.max(0, scrollTop / maxScroll));
+        } else {
+            ratio = 1; 
         }
-    }, 300);
+
+        saveTextProgress(appState.currentTextConfig.id, ratio);
+    };
+
+    window.addEventListener('scroll', scrollListener, { passive: true });
 }
 
 function restoreScrollPosition() {
     if (!appState.currentTextConfig) return;
     
-    // Also set initial 0% progress if not set
-    if (getTextProgress(appState.currentTextConfig.id) === 0) {
-        saveTextProgress(appState.currentTextConfig.id, 0);
-    }
-
-    const savedId = getSavedScrollPosition(appState.currentTextConfig.id);
-    if (savedId) {
+    const ratio = getTextProgress(appState.currentTextConfig.id);
+    if (ratio > 0) {
         setTimeout(() => {
-            const el = document.getElementById(savedId);
-            if (el) {
-                el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-            }
-        }, 50);
+            const scrollHeight = document.documentElement.scrollHeight;
+            const clientHeight = document.documentElement.clientHeight;
+            const maxScroll = scrollHeight - clientHeight;
+            const targetPixelY = ratio * maxScroll;
+
+            window.scrollTo({ top: targetPixelY, behavior: 'smooth' });
+        }, 150);
     }
 }
 
@@ -220,7 +220,9 @@ readerUI.backBtn.addEventListener('click', () => {
         activeAudio.pause();
         activeAudio = null;
     }
-    window.removeEventListener('scroll', handleScroll);
-    renderTextsList();
+    if (scrollListener) {
+        window.removeEventListener('scroll', scrollListener);
+    }
+    history.pushState(null, '', window.location.pathname + window.location.search);
     switchView('setup');
 });

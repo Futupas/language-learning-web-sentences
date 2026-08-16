@@ -73,7 +73,7 @@
 .inline-expansion {
     width: 100%;
     background: var(--card-bg);
-    border: 1px solid var(--primary);
+    border: 1.5px solid var(--primary);
     border-radius: 12px;
     padding: 16px;
     margin: 12px 0;
@@ -94,11 +94,16 @@
 
 .exp-text {
     font-size: 16px;
+    font-weight: bold;
     color: var(--primary);
 }
 
 .exp-expl {
     font-size: 14px;
     color: var(--text-color);
-    opacity: 0.8;
+    opacity: 0.85;
+    font-style: italic;
+    border-left: 3px solid var(--primary);
+    padding-left: 8px;
+    margin-top: 4px;
 }

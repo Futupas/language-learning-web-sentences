@@ -6,32 +6,136 @@
     { "code": "cs", "htmlCode": "cs-CZ", "name": "Čeština" },
     { "code": "ru", "htmlCode": "ru-RU", "name": "Русский" }
   ],
-  "courseMetadata": "German A1 Reading Practice",
+  "courseMetadata": "German A1 Real-Life Reading Practice (10 Texts)",
   "texts": [
     {
       "id": "text_1",
       "file": "text_1.json",
-      "tags": ["A1"],
+      "tags": ["A1", "Basics"],
       "hasAudio": false,
       "title": {
-        "de": "Vorstellung",
-        "en": "Introduction",
-        "uk": "Знайомство",
-        "cs": "Představení",
-        "ru": "Знакомство"
+        "de": "1. Sich vorstellen",
+        "en": "1. Introducing yourself",
+        "uk": "1. Знайомство",
+        "cs": "1. Představení se",
+        "ru": "1. Знакомство"
       }
     },
     {
       "id": "text_2",
       "file": "text_2.json",
-      "tags": ["A1"],
+      "tags": ["A1", "Family"],
       "hasAudio": false,
       "title": {
-        "de": "Die Familie",
-        "en": "The Family",
-        "uk": "Сім'я",
-        "cs": "Rodina",
-        "ru": "Семья"
+        "de": "2. Meine Familie",
+        "en": "2. My Family",
+        "uk": "2. Моя сім'я",
+        "cs": "2. Moje rodina",
+        "ru": "2. Моя семья"
+      }
+    },
+    {
+      "id": "text_3",
+      "file": "text_3.json",
+      "tags": ["A1", "Shopping"],
+      "hasAudio": false,
+      "title": {
+        "de": "3. Im Supermarkt",
+        "en": "3. At the supermarket",
+        "uk": "3. У супермаркеті",
+        "cs": "3. V supermarketu",
+        "ru": "3. В супермаркете"
+      }
+    },
+    {
+      "id": "text_4",
+      "file": "text_4.json",
+      "tags": ["A1", "City"],
+      "hasAudio": false,
+      "title": {
+        "de": "4. Der Weg zum Bahnhof",
+        "en": "4. The way to the station",
+        "uk": "4. Дорога до вокзалу",
+        "cs": "4. Cesta na nádraží",
+        "ru": "4. Дорога к вокзалу"
+      }
+    },
+    {
+      "id": "text_5",
+      "file": "text_5.json",
+      "tags": ["A1", "Food"],
+      "hasAudio": false,
+      "title": {
+        "de": "5. Im Restaurant",
+        "en": "5. In the restaurant",
+        "uk": "5. У ресторані",
+        "cs": "5. V restauraci",
+        "ru": "5. В ресторане"
+      }
+    },
+    {
+      "id": "text_6",
+      "file": "text_6.json",
+      "tags": ["A1", "Hobby"],
+      "hasAudio": false,
+      "title": {
+        "de": "6. Hobbys und Freizeit",
+        "en": "6. Hobbies and free time",
+        "uk": "6. Хобі та вільний час",
+        "cs": "6. Koníčky a volný čas",
+        "ru": "6. Хобби и свободное время"
+      }
+    },
+    {
+      "id": "text_7",
+      "file": "text_7.json",
+      "tags": ["A1", "Housing"],
+      "hasAudio": false,
+      "title": {
+        "de": "7. Meine Wohnung",
+        "en": "7. My apartment",
+        "uk": "7. Моя квартира",
+        "cs": "7. Můj byt",
+        "ru": "7. Моя квартира"
+      }
+    },
+    {
+      "id": "text_8",
+      "file": "text_8.json",
+      "tags": ["A1", "Work"],
+      "hasAudio": false,
+      "title": {
+        "de": "8. Mein Arbeitstag",
+        "en": "8. My working day",
+        "uk": "8. Мій робочий день",
+        "cs": "8. Můj pracovní den",
+        "ru": "8. Мой рабочий день"
+      }
+    },
+    {
+      "id": "text_9",
+      "file": "text_9.json",
+      "tags": ["A1", "Weather"],
+      "hasAudio": false,
+      "title": {
+        "de": "9. Das Wetter",
+        "en": "9. The weather",
+        "uk": "9. Погода",
+        "cs": "9. Počasí",
+        "ru": "9. Погода"
+      }
+    },
+    {
+      "id": "text_10",
+      "file": "text_10.json",
+      "tags": ["A1", "Health"],
+      "hasAudio": false,
+      "title": {
+        "de": "10. Beim Arzt",
+        "en": "10. At the doctor",
+        "uk": "10. У лікаря",
+        "cs": "10. U lékaře",
+        "ru": "10. У врача"
       }
     }
   ]

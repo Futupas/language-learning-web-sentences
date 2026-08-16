@@ -38,8 +38,24 @@ async function init() {
 
         renderTagsFilter();
         renderTextsList();
+
+        handleHashChange();
     } catch (e) {
         setupUI.textsContainer.innerHTML = `<p>Error loading config from <b>${courseUrl}</b>.</p>`;
+    }
+
+    window.addEventListener('popstate', handleHashChange);
+}
+
+function handleHashChange() {
+    const hash = window.location.hash.substring(1);
+    if (!hash) {
+        switchView('setup');
+    } else if (appState.config) {
+        const targetText = appState.config.texts.find(t => t.id === hash);
+        if (targetText) {
+            openReader(targetText, false);
+        }
     }
 }
 
@@ -100,8 +116,10 @@ export function renderTextsList() {
     }
 
     filteredTexts.forEach(text => {
-        const progress = getTextProgress(text.id);
-        const isCompleted = progress === 100;
+        const ratio = getTextProgress(text.id); // e.g. 0.45
+        const percent = Math.round(ratio * 100); // e.g. 45
+        const isCompleted = percent >= 99;
+        
         const row = document.createElement('div');
         row.className = 'text-row';
         
@@ -118,14 +136,17 @@ export function renderTextsList() {
             <div class="text-sub">${targetName}</div>
             <div class="text-meta">
                 <div class="tags">${tagsHtml}</div>
-                <div class="text-progress-text ${isCompleted ? 'completed' : ''}">${progress}% read</div>
+                <div class="text-progress-text ${isCompleted ? 'completed' : ''}">${percent}% read</div>
             </div>
             <div class="lection-progress-container">
-                <div class="lection-progress-bar ${isCompleted ? 'completed' : ''}" style="width: ${progress}%;"></div>
+                <div class="lection-progress-bar ${isCompleted ? 'completed' : ''}" style="width: ${percent}%;"></div>
             </div>
         `;
         
-        openBtn.addEventListener('click', () => openReader(text));
+        openBtn.addEventListener('click', () => {
+            history.pushState(null, '', `#${text.id}`);
+            openReader(text);
+        });
         row.appendChild(openBtn);
         setupUI.textsContainer.appendChild(row);
     });
