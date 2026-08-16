@@ -1,50 +1,52 @@
-# 🌍 Language-Agnostic Flashcards
+# Language Learning Reader App
 
-A lightning-fast, highly responsive, and completely language-agnostic flashcard application built with Vanilla TypeScript, SCSS, and Vite.
-
-**👉 [Live Demo (GitHub Pages)](https://futupas.github.io/language-learning-web-flascards/)**
+A lightweight, high-performance, client-side web application designed for language learners to read structured texts, click on any word, phrase, or sentence to view inline explanations and translations, and track reading progress dynamically.
 
 ---
 
-## 🏗 Architecture Overview
+## 🚀 Core Features
 
-This app is built to be as lightweight and fluid as possible, relying strictly on native browser APIs. No heavy frontend frameworks (React/Vue) were used.
-
-*   **TypeScript**: Fully typed data models (`src/types.ts`) ensuring predictable JSON parsing and strict app state.
-*   **SCSS**: Modular stylesheets (`src/styles/`). Uses a highly advanced **Pure CSS Grid Stack** for 3D card flipping, allowing dynamic height adjustments without JavaScript DOM measurement recalculations.
-*   **Vite**: Lightning-fast build tool and dev server. Configured to expose to LAN for easy mobile testing.
-*   **GitHub Actions**: Automated CI/CD pipeline building and deploying the Vite project directly to GitHub Pages.
-*   **LocalStorage**: User progress is saved locally. Keys are automatically namespaced using a sanitized version of the course URL, meaning different courses will never overwrite each other.
-*   **Mobile Gestures**: Custom bulletproof touch detection. It utilizes direction-locking math (X vs Y vectors) to instantly distinguish between horizontal swiping and vertical reading/scrolling.
-
----
-
-## 🚀 How to Run Locally
-
-1. Clone the repository.
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the dev server (exposed to your local network for mobile testing):
-   ```bash
-   npm run dev
-   ```
+- **Multi-Language Support**: Dynamically loads course configurations and supports multiple target languages (e.g., English, Ukrainian, Czech, Russian) with a base learning language (e.g., German).
+- **Inline Splitting Explanations ("Knife-Cut" Accordions)**: Clicking any segment within a heading (`h1`, `h2`) or paragraph (`p`) instantly splits the text inline, showing translations and grammar/usage explanations directly beneath it without breaking reading flow. Multiple explanations can be opened simultaneously.
+- **Dynamic Scroll-Based Progress**: Automatically computes reading progress ratio (`0` to `1`) based on real-time scroll depth (`scrollTop / maxScroll`), persisting percentages locally and updating the main menu instantly.
+- **Position Restoration**: Remembers your exact scroll position per text, automatically restoring it when reopening the document.
+- **Custom Audio Player**: Built-in minimalist audio bar with play/pause, progress scrubbing, and skip back/forward (-10s / +10s) controls.
+- **Tag Filtering**: Toggle multiple tags on the setup screen to easily filter through available reading materials.
+- **Client-Side Storage**: Runs completely offline using `localStorage` for progress persistence.
 
 ---
 
-## 📂 Creating Your Own Courses
+## 🏗️ Architecture
 
-The app is entirely data-driven. It reads a `course_config.json` file to build the UI, determine target languages, and fetch vocabulary topics. 
+The app is built with **Vanilla TypeScript**, **SCSS**, and bundled using **Vite**. It contains zero backend frameworks and operates entirely via client-side routing and dynamic JSON fetching.
 
-You can load **any** valid course configuration by passing it via the URL parameter:
-`http://localhost:5173/?course=./words_de/course_config.json`
-*(It can even load courses from external servers if CORS is enabled!)*
+### File Structure
+```text
+├── about.html                 # About / Legal and course entry links
+├── index.html                 # Main application view (Setup & Reader)
+├── public/
+│   └── words_de/
+│       ├── course_config.json # Course metadata, language setup, and text index
+│       ├── text_1.json        # Individual multi-lingual text content block
+│       └── text_2.json        # ...
+└── src/
+    ├── main.ts                # Entry point, tag filters, course initialization
+    ├── reader.ts              # Document parser, inline accordion renderer, scroll tracking
+    ├── state.ts               # LocalStorage wrappers, progress calculations, app state
+    ├── dom.ts                 # View switcher and UI notification toasts
+    ├── types.ts               # TypeScript interfaces (CourseConfig, TextData, Block, Segment)
+    ├── style.scss             # Stylesheet importer
+    └── styles/                # Modular SCSS stylesheets (_base, _setup, _reader, _variables)
+```
 
-### 1. `course_config.json`
-This is the master file for a course. It defines the language being learned, the available translation languages, and the paths to the topic files.
+---
 
-**Important Note on `htmlCode`**: Always include the correct BCP 47/ISO code (e.g., `de-DE`, `uk-UA`). The app applies this to the HTML `lang` attribute, which triggers native OS-level grammar dictionaries for perfect hyphenation on long words!
+## 📄 JSON Architecture & Examples
+
+Courses are driven by two levels of configuration: a global **Course Config** index and individual **Text Data** files. Every language (learning and target) is treated equally in the structural data layout.
+
+### 1. Course Config Example (`course_config.json`)
+Acts as the index mapping out metadata, language codes, target options, and available reading texts.
 
 ```json
 {
@@ -52,63 +54,77 @@ This is the master file for a course. It defines the language being learned, the
   "targetLanguages": [
     { "code": "en", "htmlCode": "en-US", "name": "English" },
     { "code": "uk", "htmlCode": "uk-UA", "name": "Українська" },
-    { "code": "cs", "htmlCode": "cs-CZ", "name": "Čeština" }
+    { "code": "cs", "htmlCode": "cs-CZ", "name": "Čeština" },
+    { "code": "ru", "htmlCode": "ru-RU", "name": "Русский" }
   ],
-  "courseMetadata": "German A1 Vocabulary Basics",
-  "topics": [
-    "topic_1.json",
-    "topic_2.json"
-  ]
-}
-```
-
-### 2. Topic Files (e.g., `topic_1.json`)
-The topic files live relative to wherever the `course_config.json` is located. 
-Each topic contains an array of words. `example` sentences are optional. If a word does not have an example, the card will perfectly center the word automatically.
-
-```json
-{
-  "id": 1,
-  "title": { 
-    "de": "Grundlagen", 
-    "en": "Basics", 
-    "uk": "Основи", 
-    "cs": "Základy" 
-  },
-  "words": [
+  "courseMetadata": "German A1 Real-Life Reading Practice",
+  "texts": [
     {
-      "word": { 
-        "de": "Entschuldigung", 
-        "en": "Excuse me", 
-        "uk": "Вибачте", 
-        "cs": "Promiňte" 
-      },
-      "example": {
-        "de": "Entschuldigung, wo ist der Bahnhof?",
-        "en": "Excuse me, where is the train station?",
-        "uk": "Вибачте, де знаходиться вокзал?",
-        "cs": "Promiňte, kde je vlakové nádraží?"
-      }
-    },
-    {
-      "word": { 
-        "de": "Hallo", 
-        "en": "Hello", 
-        "uk": "Привіт", 
-        "cs": "Ahoj" 
+      "id": "text_1",
+      "file": "text_1.json",
+      "tags": ["A1", "Basics"],
+      "hasAudio": false,
+      "title": {
+        "de": "Ein ganz normaler Montag",
+        "en": "A completely normal Monday",
+        "uk": "Звичайнісінький понеділок",
+        "cs": "Úplně normální pondělí",
+        "ru": "Совершенно обычный понедельник"
       }
     }
   ]
 }
 ```
 
-## ⌨️ Desktop Keyboard Controls
+### 2. Text Data Example (`text_1.json`)
+Contains structural blocks (`h1`, `h2`, `p`) made up of fine-grained granular segments. Each segment provides text and optional linguistic explanations across all supported language keys.
 
-When taking a quiz on a computer, you can use the following shortcuts:
+```json
+{
+  "id": "text_1",
+  "metadata": "Source: Real-Life Conversations (A1 Level)",
+  "audio": "./audio/text_1.mp3",
+  "blocks": [
+    {
+      "type": "h1",
+      "segments": [
+        {
+          "de": { "text": "Guten Tag!", "explanation": "Die offizielle Begrüßung." },
+          "en": { "text": "Good day!", "explanation": "Standard polite greeting." },
+          "uk": { "text": "Добрий день!", "explanation": "Стандартне ввічливе привітання." },
+          "cs": { "text": "Dobrý den!", "explanation": "Standardní zdvořilý pozdrav." },
+          "ru": { "text": "Добрый день!", "explanation": "Стандартное вежливое приветствие." }
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "segments": [
+        {
+          "de": { "text": "Mein Name ist ", "explanation": "Verwendung von 'mein Name ist' zur Vorstellung." },
+          "en": { "text": "My name is ", "explanation": "Use of 'my name is' for introductions." },
+          "uk": { "text": "Мене звати ", "explanation": "Використання для знайомства." },
+          "cs": { "text": "Jmenuji se ", "explanation": "Použití pro představování." },
+          "ru": { "text": "Меня зовут ", "explanation": "Используется для знакомства." }
+        },
+        {
+          "de": { "text": "Thomas.", "explanation": "Ein typischer deutscher Vorname." },
+          "en": { "text": "Thomas.", "explanation": "A typical German first name." },
+          "uk": { "text": "Томас.", "explanation": "Типове німецьке ім'я." },
+          "cs": { "text": "Thomas.", "explanation": "Typické německé jméno." },
+          "ru": { "text": "Томас.", "explanation": "Типичное немецкое имя." }
+        }
+      ]
+    }
+  ]
+}
+```
 
-*   **Flip Card**: `Space`, `W`, `S`, `ArrowUp`, `ArrowDown`
-*   **Know (Swipe Right)**: `D`, `ArrowRight`, `RightShift`
-*   **Don't Know (Swipe Left)**: `A`, `ArrowLeft`, `LeftShift`
-*   **Undo Last Action**: `Ctrl+Z` / `Cmd+Z`
-*   **Quit Quiz**: `Ctrl+Q` / `Cmd+Q`
-*   **Start Quiz (From Setup)**: `Enter`
+---
+
+## 🛠️ Local Development & Scripts
+
+- **Install dependencies**: `npm install`
+- **Run local development server**: `npm run dev`
+- **Build for production**: `npm run build`
+- **Preview production build**: `npm run preview`
